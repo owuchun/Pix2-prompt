@@ -1,9 +1,6 @@
 ---
-name: pix2prompt
-description: |
-  Universal Visual Prompt Architect (Pix2Prompt). 
-  Transforms ideas into professional prompts for BOTH Images (Midjourney/Flux/SD) and Videos (Sora/Seedance/Runway).
-  Powered by Nano Banana Pro Style Library.
+name: "pix2prompt"
+description: "Universal Visual Prompt Architect. Transforms ideas into professional prompts for Images (Midjourney/Flux/SD) and Videos (Sora/Seedance). Invoke when user wants to generate AI image or video prompts."
 disable-model-invocation: false
 ---
 
