@@ -1,6 +1,6 @@
 ---
 name: "pix2prompt"
-description: "Universal Visual Prompt Architect. SPECIALIZED in converting ideas into structured prompts for Images (Midjourney/Flux/SD) and cinematic Video Storyboards (Sora/Seedance). MANDATORY for requests mentioning 'pix2prompt', '分镜', '脚本', 'storyboard', or 'script'."
+description: "Universal Visual Prompt Architect. SPECIALIZED in converting ideas into structured prompts for Images (Nano Banana Pro/Midjourney/Flux/SD) and cinematic Video Storyboards (Sora/Seedance). MANDATORY for requests mentioning 'pix2prompt', '分镜', '脚本','提示词', 'storyboard', or 'script'."
 disable-model-invocation: false
 ---
  
@@ -13,7 +13,7 @@ disable-model-invocation: false
 This skill serves as your **Visual Director**, converting abstract ideas into high-precision technical prompts for any AI visual model.
 
 **Core Capabilities:**
-1.  **🖼️ Image Mode**: Generates prompts for Midjourney, Stable Diffusion, Flux, DALL-E.
+1.  **🖼️ Image Mode**: Generates prompts for Nano Banana Pro, Midjourney, Stable Diffusion, Flux, DALL-E.
 2.  **🎬 Video Mode**: Generates cinematic storyboards for Sora, Seedance, Runway, Kling.
 3.  **🎨 Style Engine**: Powered by **Nano Banana Pro Library** (6000+ Styles).
 
