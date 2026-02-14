@@ -181,6 +181,82 @@ Agent must identify the video type and select the correct template:
 
 ---
 
+### Mode 3: 💃 Seedance 2.0 Master (Specialized)
+
+**CRITICAL: Use this mode when user mentions "Seedance", "2.0", or asks for high-quality dance/character video.**
+
+**The Golden Formula (万能公式)**:
+`Subject + Action + Scene + Lighting + Camera Language + Style + Quality + Constraints`
+
+**Core Principles**:
+1.  **Action**: Must be slow, continuous, and natural (e.g., "slowly turning", "gently raising hand"). Avoid "dancing" (too vague) or "fast movement".
+2.  **Camera**: Seedance 2.0 excels at specific movements. Use: "Slow Zoom In" (缓慢推镜), "Orbit" (环绕), "Truck Left/Right" (横移).
+3.  **Stability**: MUST include stability constraints to prevent face/body distortion.
+
+#### **Template: Seedance 2.0 Cinematic (Seedance 专用模板)**
+
+```text
+(1) 主体 (Subject): [年轻女生/角色描述], [服装], [发型]
+(2) 动作 (Action): [缓慢转身/轻微抬头/发丝随风飘动], [动作连贯自然], [不僵硬]
+(3) 场景 (Scene): [环境描述], [氛围]
+(4) 运镜 (Camera): [中景/特写], [缓慢推镜/平稳跟拍], [画面丝滑无抖动]
+(5) 光影 (Lighting): [黄昏暖光/电影侧光], [光影柔和]
+(6) 画质 (Quality): 4K ultra HD, cinematic texture, sharp details, no blur.
+(7) 约束 (Constraints): Face stable (面部稳定), body structure normal (人体结构正常), no distortion (无变形), consistent character (角色一致).
+
+**Duration**: Supported range: **4-15s**. Timecodes below are examples; adjust based on user request.
+```
+
+#### **Core Syntax: @ Reference System (引用系统)**
+Seedance 2.0 relies on `@` tags to assign roles to uploaded assets.
+
+| Role | Syntax Example | Usage |
+| :--- | :--- | :--- |
+| **First Frame** | `@Image1 as First Frame` | Sets the start image. |
+| **Character Ref** | `Reference @Image1 Character` | Keeps face/outfit consistent. |
+| **Motion Ref** | `Reference @Video1 Motion` | Copies movement/camera. |
+| **Style Ref** | `Reference @Image2 Style` | Copies aesthetic/lighting. |
+
+---
+
+#### **Advanced Scenarios (高级场景模板)**
+
+**Scenario A: Product Commercial (产品广告)**
+> **Reference**: `@Video1` (Motion/Edit), `@Image1` (Product)
+> **Prompt**: Refer to @Video1 editing style and camera movement, replace subject with @Image1 product.
+> **0-3s (Start)**: Product rotates in, close-up on texture/logo.
+> **4-8s (Body)**: Multi-angle transitions (Front/Side/Back) with scanning light effect.
+> **9-12s (Action)**: Product in usage scenario.
+> **13-15s (End)**: Freeze frame on product, brand slogan appears.
+> **Audio**: Upbeat background music + Whoosh sound effects.
+
+**Scenario B: Narrative Short (剧情短片)**
+> **Prompt**:
+> **0-30%**: Close-up on Character A's red eyes, pointing finger, tears falling. Dialogue: "What do you want?"
+> **30-70%**: Character B handing over evidence with trembling hands. Camera pans to background details. Dialogue: "I didn't lie!"
+> **70-100%**: Evidence revealed. Character A freezes, shock replaces anger.
+> **Audio**: Urgent piano + Static noise.
+
+**Scenario C: Motion Copy (运镜复刻)**
+> **Reference**: `@Video1` (Source Motion), `@Image1` (New Subject)
+> **Prompt**: Completely replicate @Video1 camera movement and character action. Replace character with @Image1.
+> **Action**: [Describe specific action from Video1, e.g., "Walking forward then turning head"].
+> **Constraint**: Keep action fluid, matching original pacing.
+
+**Scenario D: Video Extension (视频延长)**
+> **Reference**: `@Video1`
+> **Prompt**: Extend @Video1 by 5 seconds.
+> **Content**: [Describe what happens NEXT]. e.g., "The camera continues to pan right, revealing a hidden door."
+> **Style**: Match @Video1 lighting and grain.
+
+**Recommended Keywords (Copy these)**:
+*   *Motion*: `slow motion`, `smooth movement`, `natural flow`, `gently`, `softly`.
+*   *Camera*: `steady cam`, `slow zoom in`, `slight orbit`, `truck left`, `cinematic movement`.
+*   *Quality*: `4K`, `sharp focus`, `detailed texture`, `no flicker`, `flicker free`.
+*   *Negative*: `morphing`, `distortion`, `blurry`, `fast motion`, `jerky`, `extra limbs`.
+
+---
+
 ## 🔍 Internal Logic (How it works)
 
 ### Step 1: Style Discovery (The "Nano" Engine) - Intelligent Search
@@ -297,7 +373,16 @@ Use strict referencing for user uploads to ensure consistency in Seedance/Sora.
 > **[Overall Vibe]**: [Nano Style Keywords]
 > **[Timeline]**:
 > *   **0s**: [Camera] + [Subject Action]
+> *   **0s**: [Camera] + [Subject Action]
 > *   **End**: [Transition]
+
+### For Seedance 2.0 (Golden Formula)
+> **Subject**: [Young Girl], [Outfit], [Hair]
+> **Action**: [Slowly turning], [Natural flow], [No stiffness]
+> **Scene**: [Beach sunset], [Warm vibe]
+> **Camera**: [Slow zoom in], [Steady cam], [Smooth]
+> **Quality**: 4K, cinematic, sharp focus
+> **Constraints**: Face stable, consistent character, no distortion
 
 ---
 

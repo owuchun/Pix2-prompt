@@ -14,7 +14,8 @@ Pix2Prompt 都能为您生成精准、风格化的 Prompt。
 
 *   **双模态支持 (Dual-Mode)**:
     *   🖼️ **Image Mode**: 支持 Midjourney, Flux, Stable Diffusion, DALL-E, 豆包 (Doubao), 千问 (Qwen-VL) 等主流绘图模型。
-    *   🎬 **Video Mode**: 支持 Sora, Seedance, Runway, Kling (可灵), Luma Dream Machine, Vidu 等视频生成模型。
+    *   🎬 **Video Mode**: 支持 Sora, Runway, Kling (可灵), Luma Dream Machine, Vidu 等视频生成模型。
+    *   💃 **Seedance 2.0 Master**: **[NEW]** 专为 Seedance 2.0 优化的黄金公式（万能公式、稳定运镜、角色一致性约束）。
 *   **风格引擎 (Style Engine)**: 内置 6000+ 专业视觉风格 (Y2K, Cyberpunk, Surrealism, Minimalist...)。
 *   **结构化输出**: 自动补全光影、构图、相机参数、负面提示词。
 
@@ -48,8 +49,24 @@ Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token*
 > ```markdown
 > 【整体描述】Cyberpunk aesthetic, neon rain, futuristic city, fast-paced.
 > 0-3s: [Low Angle Tracking], Motorcycle wheels spinning with neon trails...
-> 3-7s: [POV Shot], Rider dodging flying cars in the rain...
+
+### 💃 Seedance 2.0 Master (Specialized)
+> **用户**: "帮我做一个产品展示视频，参考这个运镜，换成我的香水产品。"
+> **Pix2Prompt**:
+> ```markdown
+> **Scenario**: Product Commercial (产品广告)
+> **Golden Formula**: Subject + Action + Scene + Lighting + Camera + Style + Quality + Constraints
+> **@ Reference**:
+> - @Video1 as Motion Ref (运镜参考)
+> - @Image1 as Product (产品主体)
+> **Prompt**: Refer to @Video1 editing style... (See SKILL.md for full template)
 > ```
+
+**支持场景**:
+1.  **产品广告 (Commercial)**: 多角度展示、光效扫描。
+2.  **剧情短片 (Narrative)**: 情绪递进、台词对白。
+3.  **运镜复刻 (Motion Copy)**: 像素级复刻参考视频动作。
+4.  **视频延长 (Extension)**: 智能续写视频内容。
 
 ## 🌈 风格测试案例：多巴胺少女风 (Dopamine Girl Showcase)
 

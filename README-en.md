@@ -16,7 +16,8 @@ Pix2Prompt has you covered.has you covered.
 
 *   **Dual-Mode Support**:
     *   🖼️ **Image Mode**: Supports Midjourney, Flux, Stable Diffusion, DALL-E, Doubao, Qwen-VL, etc.
-    *   🎬 **Video Mode**: Supports Sora, Seedance, Runway, Kling, Luma Dream Machine, Vidu, etc.
+    *   🎬 **Video Mode**: Supports Sora, Runway, Kling, Luma Dream Machine, Vidu, etc.
+    *   💃 **Seedance 2.0 Master**: **[NEW]** Specialized "Golden Formula" for Seedance 2.0 (Stable Motion, Consistent Character).
 *   **Style Engine**: Built-in 6000+ professional visual styles (Y2K, Cyberpunk, Surrealism, Minimalist...).
 *   **Structured Output**: Automatically completes lighting, composition, camera parameters, and negative prompts.
 
@@ -52,6 +53,24 @@ Pix2Prompt uses an intelligent search strategy that **saves 97% of Tokens** comp
 > 0-3s: [Low Angle Tracking], Motorcycle wheels spinning with neon trails...
 > 3-7s: [POV Shot], Rider dodging flying cars in the rain...
 > ```
+
+### 💃 Seedance 2.0 Master (Specialized)
+> **User**: "Make a product commercial, copy this camera movement, use my perfume bottle."
+> **Pix2Prompt**:
+> ```markdown
+> **Scenario**: Product Commercial
+> **Golden Formula**: Subject + Action + Scene + Lighting + Camera + Style + Quality + Constraints
+> **@ Reference**:
+> - @Video1 as Motion Ref
+> - @Image1 as Product
+> **Prompt**: Refer to @Video1 editing style... (See SKILL.md for full template)
+> ```
+
+**Supported Scenarios**:
+1.  **Product Commercial**: Multi-angle scans, lighting effects.
+2.  **Narrative Short**: Emotional progression, dialogue.
+3.  **Motion Copy**: Pixel-perfect action replication.
+4.  **Video Extension**: Smart content continuation.
 
 ## 🌈 Style Showcase: Dopamine Girl
 
