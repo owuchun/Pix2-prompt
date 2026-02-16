@@ -1,5 +1,5 @@
 ---
-name: "pix2prompt"
+name: "pix2-prompt"
 description: "Universal Visual Prompt Architect. SPECIALIZED in converting ideas into structured prompts for Images (Nano Banana Pro/Midjourney/Flux/SD) and cinematic Video Storyboards (Sora/Seedance). MANDATORY for requests mentioning 'pix2prompt', '分镜', '脚本','提示词', 'storyboard', or 'script'."
 disable-model-invocation: false
 ---
