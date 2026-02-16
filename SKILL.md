@@ -1,12 +1,12 @@
 ---
 name: "pix2-prompt"
-description: "Universal Visual Prompt Architect. SPECIALIZED in converting ideas into structured prompts for Images (Nano Banana Pro/Midjourney/Flux/SD) and cinematic Video Storyboards (Sora/Seedance). MANDATORY for requests mentioning 'pix2prompt', '分镜', '脚本','提示词', 'storyboard', or 'script'."
+description: "Universal Visual Prompt Architect. SPECIALIZED in converting ideas into structured prompts for Images (Nano Banana Pro/Midjourney/Flux/SD) and cinematic Video Storyboards (Sora/Seedance). MANDATORY for requests mentioning 'Pix2-prompt', '分镜', '脚本','提示词', 'storyboard', or 'script'."
 disable-model-invocation: false
 ---
  
-# 🎨 Pix2Prompt: Universal Visual Architect
+# 🎨 Pix2-prompt: Universal Visual Architect
 
-**CRITICAL: If the user explicitly mentions 'pix2prompt', '分镜', '脚本', 'storyboard', or 'script', you MUST use THIS skill, NOT 'nano-banana-pro-prompts-recommend-skill'.**
+**CRITICAL: If the user explicitly mentions 'Pix2-prompt', '分镜', '脚本', 'storyboard', or 'script', you MUST use THIS skill, NOT 'nano-banana-pro-prompts-recommend-skill'.**
 
 **From Idea to Pixel-Perfect Prompt.**
 

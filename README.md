@@ -1,14 +1,14 @@
-# 🎨 Pix2Prompt
+# 🎨 Pix2-prompt
 
 > **Turn Any Idea into Professional AI Prompts (Image & Video)**
 
-**Pix2Prompt** 是一个全能型视觉提示词生成器。它结合了 **Nano Banana Pro** 的海量风格库与 **影视级分镜逻辑**，为您提供最专业的 AI 视觉创作指令。
+**Pix2-prompt** 是一个全能型视觉提示词生成器。它结合了 **Nano Banana Pro** 的海量风格库与 **影视级分镜逻辑**，为您提供最专业的 AI 视觉创作指令。
 
 无论您使用哪款 AI 工具：
 - **绘图 (Image)**: Midjourney, Flux, Stable Diffusion, DALL-E 3, Nano Banana Pro, 豆包 (Doubao), 千问 (Qwen-VL)
 - **视频 (Video)**: Sora, Seedance, Runway Gen-2/3, Kling (可灵), Luma Dream Machine, Vidu
 
-Pix2Prompt 都能为您生成精准、风格化的 Prompt。
+Pix2-prompt 都能为您生成精准、风格化的 Prompt。
 
 ## ✨ 核心特性 (Features)
 
@@ -21,7 +21,7 @@ Pix2Prompt 都能为您生成精准、风格化的 Prompt。
 
 ## 🚀 性能优化 (Performance)
 
-Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token**。
+Pix2-prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token**。
 
 *   **旧方案**: Agent 读取完整 JSON 文件 (228KB) -> 消耗 ~60,000 Tokens。
 *   **新方案**: 脚本搜索 -> 输出至 `search_output.json` (6KB) -> 消耗 ~1,500 Tokens。
@@ -29,7 +29,7 @@ Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token*
 
 ## 📦 安装 (Installation)
 
-1.  将 `pix2prompt` 文件夹放入技能目录：
+1.  将 `Pix2-prompt` 文件夹放入技能目录：
     *   Windows: `C:/Users/[Username]/.agents/skills/`
     *   Mac/Linux: `~/.agents/skills/`
 2.  **关键步骤**: 确保 `references/` 文件夹内包含风格库 JSON 文件。
@@ -38,21 +38,21 @@ Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token*
 
 ### 生成图片 (Image)
 > **用户**: "帮我生成一张**极简主义风格**的咖啡海报。"
-> **Pix2Prompt**:
+> **Pix2-prompt**:
 > ```markdown
 > **Prompt**: Minimalist coffee poster, flat lay composition, negative space, beige and dark brown color palette, soft morning light, Helvetica typography, high quality. --ar 3:4
 > ```
 
 ### 生成视频 (Video)
 > **用户**: "帮我写一个**赛博朋克风格**的摩托车夜骑视频分镜。"
-> **Pix2Prompt**:
+> **Pix2-prompt**:
 > ```markdown
 > 【整体描述】Cyberpunk aesthetic, neon rain, futuristic city, fast-paced.
 > 0-3s: [Low Angle Tracking], Motorcycle wheels spinning with neon trails...
 
 ### 💃 Seedance 2.0 Master (Specialized)
 > **用户**: "帮我做一个产品展示视频，参考这个运镜，换成我的香水产品。"
-> **Pix2Prompt**:
+> **Pix2-prompt**:
 > ```markdown
 > **Scenario**: Product Commercial (产品广告)
 > **Golden Formula**: Subject + Action + Scene + Lighting + Camera + Style + Quality + Constraints
@@ -70,7 +70,7 @@ Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token*
 
 ## 🌈 风格测试案例：多巴胺少女风 (Dopamine Girl Showcase)
 
-以下展示了 Pix2Prompt 在生成特定风格（多巴胺少女风）时的生图与视频生成提示词。
+以下展示了 Pix2-prompt 在生成特定风格（多巴胺少女风）时的生图与视频生成提示词。
 
 ### 1. 中文绘画 AI (豆包 / 千问) - 绘画提示词
 > **Input**: "帮我生成一张多巴胺少女的绘画提示词，要高清写实，色彩鲜艳。"
@@ -105,7 +105,7 @@ Pix2Prompt 采用智能搜索策略，相比传统方案 **节省 97% 的 Token*
 
 ## 🛠️ 目录结构
 ```text
-pix2prompt/
+Pix2-prompt/
 ├── SKILL.md          # 核心大脑
 ├── README.md         # 说明文档
 └── references/       # 风格数据库
