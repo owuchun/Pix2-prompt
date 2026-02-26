@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pix2-Prompt Data Manager</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .line-clamp-4 {
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 4;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100 min-h-screen p-8">
+
+    <div class="max-w-7xl mx-auto">
+        <header class="flex justify-between items-center mb-8">
+            <h1 class="text-3xl font-bold text-gray-800">Pix2-Prompt Data Manager</h1>
+            <div class="flex gap-4">
+                <input type="text" id="searchInput" placeholder="Search keywords..."
+                    class="p-2 border rounded shadow-sm w-64">
+                <button id="selectAllBtn"
+                    class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded shadow">
+                    Select All Matches
+                </button>
+                <button id="scanDupesBtn"
+                    class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded shadow">
+                    Scan Duplicates
+                </button>
+                <select id="fileSelect" class="p-2 border rounded shadow-sm bg-white">
+                    <option value="">Loading files...</option>
+                </select>
+            </div>
+        </header>
+
+        <div id="status" class="hidden mb-4 p-4 rounded text-center font-bold"></div>
+
+        <div id="grid" class="columns-1 md:columns-2 lg:columns-3 xl:columns-4 gap-6 space-y-6 pb-24">
+            <!-- Items injected here -->
+        </div>
+
+        <!-- Duplicates View Container -->
+        <div id="dupesContainer" class="hidden pb-24">
+            <h2 class="text-2xl font-bold mb-4">Duplicate Prompts Detected</h2>
+            <div id="dupesList" class="space-y-8"></div>
+        </div>
+    </div>
+
+    <!-- Floating Action Button -->
+    <div id="fabContainer"
+        class="fixed bottom-8 right-8 z-50 transform transition-all duration-300 translate-y-24 opacity-0">
+        <button id="saveBtn"
+            class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full shadow-2xl flex items-center gap-2 text-lg disabled:opacity-50 disabled:cursor-not-allowed">
+            <span>🗑️</span>
+            <span id="saveBtnText">Delete Selected</span>
+        </button>
+    </div>
+
+    <script>
+        let currentFile = "";
+        let currentData = [];
+        let filteredIndices = []; // Indices of items currently visible after filtering
+        let selectedIndices = new Set();
+
+        // Duplicate mode state
+        let isDuplicateMode = false;
+        let duplicateGroups = [];
+        let selectedDupes = new Set(); // Stores strings like "filename:index"
+
+        const fileSelect = document.getElementById("fileSelect");
+        const searchInput = document.getElementById("searchInput");
+        const selectAllBtn = document.getElementById("selectAllBtn");
+        const scanDupesBtn = document.getElementById("scanDupesBtn");
+        const grid = document.getElementById("grid");
+        const dupesContainer = document.getElementById("dupesContainer");
+        const dupesList = document.getElementById("dupesList");
+        const saveBtn = document.getElementById("saveBtn");
+        const saveBtnText = document.getElementById("saveBtnText");
+        const fabContainer = document.getElementById("fabContainer");
+        const statusDiv = document.getElementById("status");
+
+        // Fetch files on load
+        async function loadFiles() {
+            try {
+                const res = await fetch("/api/files");
+                const files = await res.json();
+                fileSelect.innerHTML = '<option value="">Select a file...</option>' +
+                    files.map(f => `<option value="${f}">${f}</option>`).join("");
+            } catch (err) {
+                showStatus("Error loading files: " + err.message, "error");
+            }
+        }
+
+        // Load data when file changes
+        fileSelect.addEventListener("change", async (e) => {
+            exitDuplicateMode();
+            currentFile = e.target.value;
+            if (!currentFile) {
+                grid.innerHTML = "";
+                currentData = [];
+                filteredIndices = [];
+                return;
+            }
+            loadData(currentFile);
+        });
+
+        async function loadData(filename) {
+            showStatus("Loading...", "info");
+            try {
+                const res = await fetch(`/api/file/${filename}`);
+                currentData = await res.json();
+                selectedIndices.clear();
+                filterData(); // Initial filter (shows all)
+                showStatus(`Loaded ${currentData.length} items from ${filename}`, "success");
+            } catch (err) {
+                showStatus("Error loading data: " + err.message, "error");
+            }
+        }
+
+        // Scan Duplicates
+        scanDupesBtn.addEventListener("click", async () => {
+            showStatus("Scanning for duplicates across all files...", "info");
+            try {
+                const res = await fetch("/api/duplicates");
+                if (!res.ok) throw new Error(await res.text());
+
+                const data = await res.json();
+                if (!Array.isArray(data)) throw new Error("Server returned invalid data format");
+
+                duplicateGroups = data;
+
+                if (duplicateGroups.length === 0) {
+                    showStatus("No duplicates found!", "success");
+                    return;
+                }
+
+                enterDuplicateMode();
+                renderDuplicates();
+                showStatus(`Found ${duplicateGroups.length} groups of duplicates.`, "success");
+            } catch (err) {
+                showStatus("Error scanning duplicates: " + err.message, "error");
+            }
+        });
+
+        function enterDuplicateMode() {
+            isDuplicateMode = true;
+            grid.classList.add("hidden");
+            dupesContainer.classList.remove("hidden");
+            fileSelect.value = ""; // Deselect file
+            currentFile = "";
+            searchInput.disabled = true;
+            selectAllBtn.disabled = true;
+            selectedDupes.clear();
+
+            // Inject filter checkbox
+            if (!document.getElementById("crossFileFilter")) {
+                const headerDiv = document.querySelector("#dupesContainer h2");
+                const filterHtml = `
+                    <label class="ml-4 text-sm font-normal text-gray-600 inline-flex items-center cursor-pointer">
+                        <input type="checkbox" id="crossFileFilter" class="mr-2 h-4 w-4" onchange="renderDuplicates()">
+                        Only show cross-file duplicates
+                    </label>
+                `;
+                headerDiv.insertAdjacentHTML('beforeend', filterHtml);
+            }
+
+            updateSaveButton();
+        }
+
+        function exitDuplicateMode() {
+            isDuplicateMode = false;
+            grid.classList.remove("hidden");
+            dupesContainer.classList.add("hidden");
+            searchInput.disabled = false;
+            selectAllBtn.disabled = false;
+            selectedDupes.clear();
+            updateSaveButton();
+        }
+
+        function renderDuplicates() {
+            const onlyCrossFile = document.getElementById("crossFileFilter")?.checked;
+
+            const filteredGroups = duplicateGroups.filter(group => {
+                if (!onlyCrossFile) return true;
+                const files = new Set(group.map(i => i.file));
+                return files.size > 1;
+            });
+
+            if (filteredGroups.length === 0) {
+                dupesList.innerHTML = `<div class="text-gray-500 italic">No duplicate groups found matching criteria.</div>`;
+                return;
+            }
+
+            dupesList.innerHTML = filteredGroups.map((group, groupIndex) => {
+                // Determine if this is a cross-file group for styling
+                const files = new Set(group.map(i => i.file));
+                const isCrossFile = files.size > 1;
+                const groupTitle = isCrossFile ?
+                    `<span class="text-red-600 font-bold">Cross-file Duplicate Group</span> (Across ${files.size} files)` :
+                    `Duplicate Group #${groupIndex + 1}`;
+
+                return `
+                    <div class="bg-white p-6 rounded-lg shadow border ${isCrossFile ? 'border-orange-200 bg-orange-50' : 'border-gray-200'}">
+                        <div class="flex justify-between items-center mb-4">
+                            <h3 class="font-bold text-lg text-gray-700">${groupTitle}</h3>
+                        </div>
+                        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                            ${group.map(item => {
+                    const id = `${item.file}:${item.index}`;
+                    const isSelected = selectedDupes.has(id);
+                    const imgUrl = item.item.sourceMedia && item.item.sourceMedia.length > 0 ? item.item.sourceMedia[0] : "https://placehold.co/400x300?text=No+Image";
+
+                    return `
+                                    <div class="border rounded p-3 relative cursor-pointer flex flex-col h-full bg-white ${isSelected ? 'border-red-500 ring-2 ring-red-100' : 'border-gray-300'}"
+                                         onclick="toggleDupe('${id}')">
+                                        <div class="mb-2 font-mono text-xs bg-gray-100 px-2 py-1 rounded self-start text-gray-600 border border-gray-200">
+                                            📄 ${item.file}
+                                        </div>
+                                        <div class="relative h-32 mb-2 bg-gray-100 shrink-0">
+                                            <img src="${imgUrl}" class="w-full h-full object-cover rounded-sm">
+                                        </div>
+                                        <div class="flex justify-between items-start grow">
+                                             <p class="text-xs text-gray-600 line-clamp-3 break-words mr-2" title="${item.item.content}">${item.item.content || item.item.description}</p>
+                                             <input type="checkbox" class="mt-1 w-5 h-5 text-red-600 shrink-0" ${isSelected ? 'checked' : ''}>
+                                        </div>
+                                    </div>
+                                `;
+                }).join("")}
+                        </div>
+                    </div>
+                `;
+            }).join("");
+        }
+
+        window.toggleDupe = (id) => {
+            if (selectedDupes.has(id)) {
+                selectedDupes.delete(id);
+            } else {
+                selectedDupes.add(id);
+            }
+            updateSaveButton();
+            renderDuplicates(); // Update UI
+        };
+
+        // Search functionality
+        searchInput.addEventListener("input", () => {
+            if (!isDuplicateMode) filterData();
+        });
+
+        function filterData() {
+            const term = searchInput.value.toLowerCase();
+            filteredIndices = [];
+
+            // Re-calculate filtered indices
+            currentData.forEach((item, index) => {
+                const text = (item.title || "") + " " + (item.content || item.description || "");
+                if (term === "" || text.toLowerCase().includes(term)) {
+                    filteredIndices.push(index);
+                }
+            });
+
+            renderGrid();
+        }
+
+        // Select All Matches
+        selectAllBtn.addEventListener("click", () => {
+            if (isDuplicateMode) return;
+            const allSelected = filteredIndices.length > 0 && filteredIndices.every(index => selectedIndices.has(index));
+
+            if (allSelected) {
+                // Deselect current visible matches
+                filteredIndices.forEach(index => selectedIndices.delete(index));
+            } else {
+                // Select all current visible matches
+                filteredIndices.forEach(index => selectedIndices.add(index));
+            }
+            updateSaveButton();
+            renderGrid();
+        });
+
+        function renderGrid() {
+            // Only render items that are in filteredIndices
+            grid.innerHTML = filteredIndices.map(index => {
+                const item = currentData[index];
+                const imgUrl = item.sourceMedia && item.sourceMedia.length > 0 ? item.sourceMedia[0] : "https://placehold.co/400x300?text=No+Image";
+                const isSelected = selectedIndices.has(index);
+
+                return `
+                    <div class="bg-white rounded-lg shadow-md overflow-hidden relative border-2 break-inside-avoid mb-6 cursor-pointer transition-all duration-200 ${isSelected ? 'border-red-500 ring-2 ring-red-200 transform scale-[1.02]' : 'border-transparent hover:shadow-xl'}" onclick="toggleSelect(${index})">
+                        <div class="relative">
+                            <img src="${imgUrl}" class="w-full h-auto block" loading="lazy">
+                        </div>
+                        <div class="p-4">
+                            <h3 class="font-bold text-lg mb-2 leading-tight">${highlightText(item.title || "No Title")}</h3>
+                            <p class="text-sm text-gray-600 line-clamp-4">${highlightText(item.content || item.description || "No content")}</p>
+                        </div>
+                        <div class="absolute top-2 right-2">
+                             <input type="checkbox" class="w-6 h-6 text-red-600 rounded focus:ring-red-500 shadow-sm" ${isSelected ? 'checked' : ''}>
+                        </div>
+                        ${isSelected ? '<div class="absolute inset-0 bg-red-50 opacity-10 pointer-events-none"></div>' : ''}
+                    </div>
+                `;
+            }).join("");
+
+            // Updates button text state based on whether all visible are selected
+            const allVisibleSelected = filteredIndices.length > 0 && filteredIndices.every(i => selectedIndices.has(i));
+            selectAllBtn.textContent = allVisibleSelected ? "Deselect All Matches" : "Select All Matches";
+        }
+
+        function highlightText(text) {
+            const term = searchInput.value.trim();
+            if (!term) return text;
+            const regex = new RegExp(`(${term})`, 'gi');
+            return text.replace(regex, '<span class="bg-yellow-200">$1</span>');
+        }
+
+        window.toggleSelect = (index) => {
+            if (selectedIndices.has(index)) {
+                selectedIndices.delete(index);
+            } else {
+                selectedIndices.add(index);
+            }
+            updateSaveButton();
+            renderGrid();
+        };
+
+        function updateSaveButton() {
+            const count = isDuplicateMode ? selectedDupes.size : selectedIndices.size;
+            if (count > 0) {
+                fabContainer.classList.remove("translate-y-24", "opacity-0");
+                saveBtnText.textContent = `Delete ${count} Items`;
+                saveBtn.disabled = false;
+            } else {
+                fabContainer.classList.add("translate-y-24", "opacity-0");
+                saveBtn.disabled = true;
+            }
+        }
+
+        saveBtn.addEventListener("click", async () => {
+            // Handle Duplicate Deletion
+            if (isDuplicateMode) {
+                if (!confirm(`Are you sure you want to delete ${selectedDupes.size} duplicate items?`)) return;
+
+                const deletions = {}; // filename -> [indices]
+                selectedDupes.forEach(id => {
+                    const [file, idx] = id.split(":");
+                    if (!deletions[file]) deletions[file] = [];
+                    deletions[file].push(parseInt(idx));
+                });
+
+                showStatus("Deleting duplicates...", "info");
+                try {
+                    const res = await fetch("/api/bulk-delete", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json" },
+                        body: JSON.stringify(deletions)
+                    });
+
+                    if (res.ok) {
+                        showStatus("Duplicates deleted successfully!", "success");
+                        scanDupesBtn.click(); // Rescan
+                    } else {
+                        throw new Error(await res.text());
+                    }
+                } catch (err) {
+                    showStatus("Error deleting duplicates: " + err.message, "error");
+                }
+                return;
+            }
+
+            // Standard Deletion
+            if (!confirm(`Are you sure you want to delete ${selectedIndices.size} items from ${currentFile}? This cannot be undone.`)) return;
+
+            const newData = currentData.filter((_, index) => !selectedIndices.has(index));
+
+            showStatus("Saving...", "info");
+            try {
+                const res = await fetch(`/api/file/${currentFile}`, {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(newData)
+                });
+
+                if (res.ok) {
+                    showStatus("Saved successfully!", "success");
+                    loadData(currentFile); // Reload
+                } else {
+                    throw new Error(await res.text());
+                }
+            } catch (err) {
+                showStatus("Error saving: " + err.message, "error");
+            }
+        });
+
+        function showStatus(msg, type) {
+            statusDiv.textContent = msg;
+            statusDiv.className = `mb-4 p-4 rounded text-center font-bold ${type === 'error' ? 'bg-red-100 text-red-800' : 'bg-green-100 text-green-800'}`;
+            statusDiv.classList.remove("hidden");
+            if (type === 'success') {
+                setTimeout(() => statusDiv.classList.add("hidden"), 3000);
+            }
+        }
+
+        // Init
+        loadFiles();
+    </script>
+</body>
+
+</html>

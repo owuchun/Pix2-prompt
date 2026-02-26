@@ -1,0 +1,416 @@
+[
+  {
+    "content": "{\n  \"objective\": \"Create a side-by-side comparison image featuring a technical sketch and real photograph of the Oriental Pearl Tower\",\n  \"image_specifications\": {\n    \"style\": \"Mixed media (Technical drawing + Real photograph)\",\n    \"layout\": \"Horizontal split - Left side: Sketch with measurements, Right side: Real photo\",\n    \"aspect_ratio\": \"3:2\"\n  },\n  \"left_side\": {\n    \"content_type\": \"Technical sketch of the Oriental Pearl Tower\",\n    \"features\": [\n      \"Detailed architectural lines showing spherical observation decks and structural columns\",\n      \"Numerical height and width measurements\",\n      \"Elevation labels for different tower sections\",\n      \"Side and front elevation views (top-down projection if space allows)\"\n    ],\n    \"text_annotations\": {\n      \"units\": \"Metric (meters)\",\n      \"language\": \"English\",\n      \"font_style\": \"Blueprint or engineering-style typography\"\n    },\n    \"positioning\": \"Take up the left half of the image\"\n  },\n  \"right_side\": {\n    \"content_type\": \"High-resolution real photo of the Oriental Pearl Tower\",\n    \"features\": [\n      \"Full view of the tower from base to top sphere\",\n      \"Natural daylight with clear sky\",\n      \"Color image with Shanghai skyline or Pudong district context\"\n    ],\n    \"positioning\": \"Take up the right half of the image\"\n  },\n  \"visual_elements\": {\n    \"border_division\": \"Vertical line or subtle transition between left (sketch) and right (photo)\",\n    \"color_palette\": {\n      \"left\": \"Monochrome or blueprint blue for sketch\",\n      \"right\": \"Natural realistic colors\"\n    }\n  },\n  \"output_format\": {\n    \"type\": \"Image\",\n    \"use_case\": [\n      \"Educational poster\",\n      \"Architectural comparison\",\n      \"Engineering visualization\",\n      \"Tourism visual aid\"\n    ],\n    \"high_resolution\": true\n  }\n}",
+    "title": "JSON Prompt for Side-by-Side Architectural Comparison of Oriental Pearl Tower",
+    "description": "A structured JSON prompt for Google Nano Banana Pro to create a mixed-media, side-by-side comparison image: a detailed technical blueprint sketch of the Oriental Pearl Tower on the left, and a high-resolution photograph of the tower on the right, useful for architectural visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770359941810_95bi49_HAYTUhFbQAAtSm4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a highly detailed blueprint-style technical schematic based on the reference image. Analyze the image to capture all details including the subject's appearance, structure, design, colors, and background. Use clean line art in multiple pen colors ({argument name=\"pen colors\" default=\"blue, black, red, green, etc.\"}) on a {argument name=\"paper type\" default=\"beige, aged engineering paper\"} background with technical annotations, dimension lines, and engineering-style details. Maintain the professional blueprint aesthetic with precise line work and technical drawing elements.",
+    "title": "Blueprint-style technical schematic generation",
+    "description": "A prompt designed to convert a reference image into a highly detailed, blueprint-style technical schematic. It requires clean line art in multiple colors on an aged engineering paper background, complete with technical annotations, dimension lines, and a professional drawing aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100816459_d8f8mi_HAKr0_EbIAE1-wn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "PROMPT 1  - Create an infographic image of Mustang GTD  combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text ({argument name=\"car color\" default=\"blue\"} Mustang GTD   ) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (all the functions that comes with bugatti Chiron)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title Mustang GTD  inside a real technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations(no annotation on the real object)\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark\n\nPROMPT 2 - Create an infographic image of bugatti, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text ({argument name=\"bugatti color\" default=\"copper color\"} bugatti ) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (all the functions that comes with bugatti Chiron)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title bugatti inside a real technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations(no annotation on the real object)\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Infographic image of Mustang GTD with technical annotations",
+    "description": "A detailed prompt for generating a technical infographic of a car, combining a photorealistic render of the Mustang GTD with hand-sketched, architectural-style technical annotations. It specifies elements like component labels, cutaway outlines, measurements, and flow arrows, all rendered in black ink on a pure white background for an engineering manual aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770100808643_dxaecu_HAJbpMfbgAEYyUE.jpg",
+      "https://cms-assets.youmind.com/media/1770100808623_h3oggu_HAJbpOSbYAAI5z7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an infographic poster using this prompt 👇",
+    "title": "Infographic Poster Creation Prompt",
+    "description": "A general instruction to create an infographic poster, implying that the user should provide the specific content for the infographic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014605869_lgk0px_HAE9bMRaMAAjQcy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Use the uploaded image as the sole source of truth.\nDo NOT assume model, specs, or performance.\n\nPure white, distraction-free background.\n\nTop-left: PORSCHE (modern sans-serif).\nLeft column: auxiliary views\n(front / side / rear / detail).\nRight side: large photorealistic hero render.\n\nVisually analyze only what is visible.\nIdentify distinct physical components.\nLabel each component with hairline-thin vector lines.\nUse neutral, factual terms only.\nNo marketing language.\nNo hallucinated features.\nNo assumed performance.\n\nScandinavian, modern, industrial documentation style.\nSoft studio lighting.\nUltra-high resolution.\nExact proportions and geometry fidelity.",
+    "title": "Technical Product Documentation Prompt (Porsche)",
+    "description": "A highly specific, technical prompt for Gemini Nano Banana Pro designed to generate a detailed, analytical product documentation image (e.g., for a Porsche). It mandates using an uploaded image as the sole source of truth, requires a pure white background, auxiliary views, component labeling with vector lines, and a Scandinavian industrial documentation style, strictly forbidding marketing language or assumed features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769755054850_5qi4l1_G_z_nnwbUAEpHIC.jpg",
+      "https://cms-assets.youmind.com/media/1769755054812_vtq6wr_G_0DaH1bYAARy-1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an infographic image of {argument name=\"object\" default=\"[OBJECT]\"}, combining a realistic photograph or photorealistic render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background.\n\nInclude:\n•Key component labels\n•Internal cutaway or exploded-view outlines (where relevant)\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure, movement)\n•Simple schematic or sectional diagrams where applicable\n\nPlace the title {argument name=\"object title\" default=\"[OBJECT]\"} inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations look hand-sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic.\nBlack linework layered over realistic imagery.\nPrecise but slightly hand-drawn feel.\n\nColor palette:\nPure white background.\nBlack annotation lines and text only.\nNo colors.\n\nOutput:\n1080 × 1080 resolution\nUltra-crisp\nSocial-feed optimized\nNo watermark",
+    "title": "Infographic Image with Technical Annotation Overlay",
+    "description": "A prompt designed to generate a technical infographic by combining a photorealistic render of an object with detailed, hand-sketched technical annotations overlaid on top. It specifies a minimalist aesthetic (black linework on a white background) and requires labeling components, measurements, and functional arrows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769668485225_dgc66j_G_uRZiDaYAAnq5o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "“Create an infographic image of [{argument name=\"object\" default=\"OBJECT\"}], combining a realistic photograph or photoreal render of the object with technical annotation overlays placed directly on top.\n\nUse black ink–style line drawings and text (technical pen / architectural sketch look) on a pure white studio background, including:\n•Key component labels\n•Internal cutaway or exploded-view outlines\n•Measurements, dimensions, and scale markers\n•Material callouts and quantities\n•Arrows indicating function, force, or flow (air, sound, power, pressure)\n•Simple schematic or sectional diagrams where relevant\n\nPlace the title [OBJECT] inside a hand-drawn technical annotation box in one corner.\n\nStyle & layout rules:\n•The real object remains clearly visible beneath the annotations\n•Annotations feel sketched, technical, and architectural\n•Clean composition with balanced negative space\n•Educational, museum-exhibit / engineering-manual vibe\n\nVisual style:\nMinimal technical illustration aesthetic, black linework over realistic imagery, precise but slightly hand-drawn feel.\n\nColor palette:\nWhite background, black annotation lines and text only. No colors.\n\nOutput:\n1080×1080, ultra-crisp, social-feed optimized, no watermark.”",
+    "title": "Infographic Prompt Template for Objects",
+    "description": "A reusable prompt template for Nano Banana Pro designed to create an infographic image of a generic object. The prompt instructs the AI to combine a photorealistic render of the object with technical annotation overlays, using black ink line drawings, labels, measurements, and schematic diagrams on a pure white background, aiming for an educational, engineering-manual aesthetic. This is a generalized version of the previous prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769236050335_96kh9m_G_Yj8SGX0AAa9YM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please finalize this rough sketch and create line art. Read and refer to the blue text annotations, eliminate the ambiguity and roughness associated with handwriting, and create precise line art as if output from a CAD tool. Vary the line thickness, such as making ridge lines thicker. Delete the blue text and lines, and do not include them in the output image.\n\nPlease finalize this rough sketch in the same manner.",
+    "title": "Sketch to CAD-Style Line Art Conversion Prompt",
+    "description": "A two-part prompt sequence for Nano Banana Pro (using its 'Thinking Mode') to convert a rough sketch into precise, CAD-like line art. The first prompt instructs the model to finalize the rough sketch, referencing blue text annotations, removing ambiguity, and applying line weight variation. The second prompt is a follow-up instruction to apply the same style to subsequent rough sketches.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977349240_zl2up0_G_G7Mn_WkAERemX.jpg",
+      "https://cms-assets.youmind.com/media/1768977349222_i4r1qx_G_G7Nf4WsAE3C7S.jpg",
+      "https://cms-assets.youmind.com/media/1768977349306_jgm0on_G_G7KWkWYAAWR54.jpg",
+      "https://cms-assets.youmind.com/media/1768977350687_xdga71_G_G7OG2XAAE2qqL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "1️⃣ Select {argument name=\"object\" default=\"OBJECT\"}\n2️⃣ Keep the realistic image clear and visible\n3️⃣ Overlay black, hand-drawn engineering annotations (labels, dimensions, materials, cross-sections, arrows)",
+    "title": "Hardcore Engineering Infographic Style",
+    "description": "A concise Nano Banana Pro instruction set for creating technical, hard-edge infographics. The process involves selecting an object, ensuring realistic clarity, and overlaying black, hand-drawn engineering annotations (labels, dimensions, materials, cross-sections, arrows) to achieve an 'Engineering Manual + Exhibition Plaque' texture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977354692_uld7pr_G_FPIhZXoAAWNO9.jpg",
+      "https://cms-assets.youmind.com/media/1768977354776_ixurg7_G_FOxEhWAAA-KpM.jpg",
+      "https://cms-assets.youmind.com/media/1768977354694_575d12_G_FPHprXoAEw3bb.jpg",
+      "https://cms-assets.youmind.com/media/1768977355873_54ki9x_G_FPbWLXEAAeA6k.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Motion Prompt: The Pizza start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nImage 1 :- Ultra-realistic prepared pepperoni pizza slice, fully assembled, gooey melted mozzarella cheese stretching and dripping over the edges, crispy pepperoni slices on top, rich tomato sauce beneath, thick golden baked crust, fresh basil leaves and light seasoning floating subtly above, clean pure white background, professional commercial food photography lighting, soft natural shadows under the slice, sharp focus, extreme texture detail, glossy cheese, crunchy crust surface, studio shot, minimal composition, no text, no labels, no hands, premium food advertisement style, 8K resolution, ultra-detailed, hyper-realistic.\n\nImage 2 :- Produce an ultra-realistic exploded pizza slice infographic. Top layer features basil leaves and seasoning particles floating. Below are melted cheese stretch, pepperoni slices, rich tomato sauce layer, soft baked crust base. Clean white background, professional food photography lighting, realistic textures, gentle shadows, floating layers evenly spaced, labeled infographic style, 8K resolution.",
+    "title": "Ultra-Realistic Exploded Pizza Infographic and Motion Prompt",
+    "description": "This prompt set is for generating ultra-realistic food photography, including a motion prompt for video generation (Kling AI) and two image prompts: one for a standard, high-detail pizza slice, and another for an exploded infographic view of the pizza layers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804200487_ks5kcg_G-9KDAEW8AAnJPQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A whimsical, high-end 3D miniature diorama-style advertising illustration of a dairy production scene with a playful yet premium food brand aesthetic. At the center stands a giant Nestlé milk bottle matching real Nestlé packaging: a smooth opaque white cylindrical bottle with subtle curves and a classic red Nestlé logo label, solid and non-glass, placed directly on a metal industrial platform. Fresh milk is being poured from containers and pipes operated by workers into the open top of the bottle, with a creamy, elegant texture clearly visible inside; the milk does not come from the sky and has a clear physical source. Tiny workers in bright {argument name=\"worker uniform color\" default=\"yellow\"} one-piece jumpsuits and yellow safety helmets actively operate the process: two stand on a metal scaffold above the bottle carefully pouring milk from handled containers, while others push cardboard boxes, guide products along a conveyor belt, and operate compact dairy machinery with coordinated, focused postures. In the foreground, dairy products move naturally along the conveyor line. Surrounding the platform is lush green grass with small white and yellow wildflowers. The background features a charming farm landscape with rolling green fields, a red wooden barn with white trim, a calm black-and-white cow grazing nearby, and a white windmill against gentle hills under a vivid blue sky with soft fluffy clouds. Lighting is warm, soft daylight with gentle shadows and refined highlights, creating a clean, trustworthy advertising look. Overall style is playful, richly detailed, premium commercial illustration with strong narrative composition, balanced layout, pastel color palette, deep depth of field, ultra-sharp details, cinematic miniature scale contrast—clearly an illustration, not photography, not a model display, and not enclosed in any glass dome or showcase.",
+    "title": "Whimsical 3D Miniature Dairy Advertising Illustration",
+    "description": "A detailed text prompt for Gemini Nano Banana Pro to generate a high-end 3D miniature diorama illustration for Nestlé, featuring tiny workers operating machinery around a giant milk bottle in a playful, premium food brand aesthetic, set against a charming farm landscape.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804287448_3ga4jo_G-7_3dYW8AEpY0i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Input Variable: {argument name=\"input objects\" default=\"[INSERT 1 or 2 OBJECTS]\"} \nInstruction:\nAct as a Visionary Industrial Designer and Patent Clerk. Create a 2x2 Grid visualizing the invention of a new product based on the Input.\n Innovation Logic  :\nAnalyze Functions: Identify the primary utility of Input A and Input B.\nThe Fusion: Combine them into a single, cohesive device that solves a specific (niche) problem.\nIf 2 Inputs: Hybridize them (e.g., Mug + Grater = A self-cooling mug with a garnish shaver).\nIf 1 Input: Evolve it (e.g., Toothbrush = A self-sanitizing, toothpaste-injecting smart wand).\nThe Branding: Generate a catchy, corporate product name (e.g., \"The Breeze-Grate™\", \"Solar-Brella Pro\").\nThe Visual Structure (The 2x2 Grid):\nCRITICAL: The image must be split into 4 distinct quadrants with different visual styles.\nPanel 1 (Top Left): The Exploded Patent View\nStyle: Black & White Technical Line Art. Thin distinct lines, no shading.\nContent: An isometric \"Exploded View\" of the device, showing the internal motor, battery, or mechanism separated from the shell.\nDetail: Add Numbered Leader Lines (10, 12, 14) pointing to specific parts.\nPanel 2 (Top Right): The Functional Diagram\nStyle: Black & White Schematic with bold arrows.\nContent: A cross-section or \"In-Use\" drawing showing how how the device works. Use Action Arrows to show airflow, rotation, or liquid movement.\nDetail: Show the \"Result\" (e.g., cheese falling, water spraying).\nPanel 3 (Bottom Left): The Product Render\nStyle: High-End Studio Photography. Color, Glossy, \"Apple/Braun\" Design Aesthetic.\nContent: The final physical product sitting on a white reflective surface. It should look sleek, using materials like White Ceramic, Brushed Aluminum, or Matte Plastic.\nContext: Include a small prop to show scale (e.g., a block of cheese, a coffee bean, a hand).\nPanel 4 (Bottom Right): The Marketing Pitch\nStyle: Editorial Magazine Layout. White background, black text.\nTypography:\nHeadline: Large, Bold Serif Text displaying the [Invention Name].\nBody: A block of clean \"Lorem Ipsum\" or readable text describing the \"Revolutionary Features.\"\nBullets: A small list of specs (e.g., \"Dishwasher Safe,\" \"USB-C\").\nVisual Syntax:\nCohesion: The product design in Panel 3 must perfectly match the line art in Panel 1.\nDesign Language: Minimalist, Ergonomic, Consumer Electronics aesthetic. Even if the idea is silly, the design must look expensive.\nOutput: 2x2 Grid, Mixed Media (Line Art vs. Photorealism), 8k Resolution, \"Kickstarter Campaign\" Aesthetic.",
+    "title": "2x2 Grid Product Invention Visualization (Patent/Marketing)",
+    "description": "A complex, multi-panel prompt designed to visualize the invention and marketing of a new product by combining two concepts (or evolving one). It mandates a 2x2 grid structure, with each quadrant requiring a distinct visual style: technical line art (Exploded Patent View), schematic diagram (Functional Diagram), photorealistic render (Product Render), and editorial layout (Marketing Pitch). The prompt acts as an industrial designer, focusing on cohesion between the panels and a minimalist, consumer electronics aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768717570742_yazze1_G-rI4thagAAXCjf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Using the first image as the base, create a clean exploded-view structural cutaway. Separate each ingredient vertically one by one, keep perfect alignment, spacing, and scale. White studio background, labeled diagram style, ultra sharp, realistic.",
+    "title": "Exploded-View Structural Cutaway for Food Photography",
+    "description": "A prompt designed to transform a base food photograph into a clean, labeled, exploded-view structural cutaway diagram. This is intended for creating infographic-style images where ingredients are separated vertically while maintaining perfect alignment and scale on a white studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631120017_uzylxq_G-yYo41a4AEQhIx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "# Role: Comparison Infographic Generator (Design-Centric with Toggles)\n\n# === USER INPUT SETTINGS (FILL THESE IN) ===\n# 1. Grid Size (e.g., \"2x2 (4 panels)\", \"3x3 (9 panels)\"):\n{argument name=\"grid size\" default=\"1x5\"}\n\n# 2. Base Subject Description (Identical base scene for all panels):\n[{argument name=\"subject description\" default=\"Cold white, slender, fair Asian female legs, skin delicate and smooth, without blemishes, almost invisible pores and hair follicles. Skin is not dry, slightly moist\"}]\n# 3. Variations Theme (What is being compared?):\n{argument name=\"variation theme\" default=\"Comparison of bare legs with different stocking materials and styles\"}\nThe feet need to be fully displayed in the frame\n\n# 4. Show Text Overlay at Bottom (Yes/No):\nNO\n\n# ===========================================\n\n# Task Description:\nGenerate a multi-panel infographic grid chart for a comparative visual study based on the User Input Settings above. The goal is to showcase different textural or stylistic variations (defined in the data list below) applied to the identical Base Subject defined above.\n\n# Global Constraints & Style:\n1.  **Layout:** A **[Insert setting from \"1. Grid Size\" here]** infographic grid chart.\n2.  **Consistency is Key:** The Base Subject, camera angle, composition, and lighting must remain absolutely identical across ALL panels to emphasize only the specific variations defined in the data list.\n3.  **Photography Style:** Clean, controlled studio photography with neutral, even lighting designed to highlight texture differences.\n\n# Text Overlay Display Logic (CONDITIONAL):\n(AI Instructions: First, check the value of User Input Setting \"# 4. Show Text Overlay at Bottom\". You MUST execute ONLY ONE of the following logic blocks based on that value.)\n\n##### ➤ LOGIC PATH A: IF Setting #4 is \"Yes\" (Show Overlay)\nIf the user selected \"Yes\", EVERY panel must feature a precisely designed text overlay at the bottom following these strict rules:\n* **Background:** A clean, sharply defined solid rectangular color block (e.g., charcoal grey or black) spanning the entire width of the panel's bottom section.\n* **Typography:** Inside this block, the text must be rendered in an **elegant, ultra-thin, minimalist sans-serif font**.\n* **Layout:** The text \"[Number]. [Short Title] (Prompt: [Key English Prompt Snippet])\" must be perfectly centered within the color block.\n* **Aesthetic:** The overall effect should be that of professional, minimalist graphic design, with crisp lines and perfect alignment.\n\n##### ➤ LOGIC PATH B: IF Setting #4 is \"No\" (Hide Overlay)\nIf the user selected \"No\", apply this CRITICAL rule:\n* **CRITICAL:** DO NOT add any text overlay, numbers, titles, background color blocks, or prompt snippets to the images.\n* **Result:** The bottom of every panel must be clean image data only, showing the subject fully without obstruction.\n\n# Base Subject Definition:\nThe base scene for every panel is: **[Insert description from \"2. Base Subject Description\" here]**. The variations below will modify the surface or appearance of this base subject.\n\n# Variations Data List (Apply sequentially to the grid):\n(AI instructions: Iterate through this list based on the required grid size. For each panel, apply the user-defined 'Visual Change' to the base",
+    "title": "Simplified Comparative Infographic Grid Generator Prompt (Legs and Stockings)",
+    "description": "A simplified version of the meta-prompt template for Nano Banana Pro, designed to generate a multi-panel infographic grid for visual comparison of bare legs versus different stockings, with the text overlay feature disabled (NO). It maintains strict consistency across panels to highlight only the material and style variations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768379515313_h0kbxc_G-i7WQTbUAABRE2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Motion Prompt: The Chocolate start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nImage 1:-  Ultra-realistic premium milk chocolate bar, fully prepared and ready to eat, neatly segmented glossy chocolate squares resting on a partially unwrapped silver foil wrapper. Smooth polished chocolate surface with subtle shine, rich warm brown tones, realistic thickness and sharp edges. Clean white studio background, premium food advertising lighting, soft diffused highlights, gentle natural shadows, shallow depth of field, DSLR macro photography, ultra-sharp focus, luxury confectionery aesthetic, minimal composition, no text, no labels, no ingredients visible, 8K photorealism.\n\nImage 2 :- Design an ultra-realistic exploded chocolate bar infographic. Top layer cocoa powder dust floating in air, below milk splash frozen mid-motion, cocoa beans, chocolate squares, and wrapper base. Rich brown tones, clean white background, premium food ad lighting, glossy textures, soft shadows, labeled infographic style, ultra-photorealistic, 8K resolution.",
+    "title": "Ultra-Realistic Chocolate Bar Advertising Prompts (Motion and Exploded View)",
+    "description": "A set of two image prompts and one motion prompt for generating ultra-realistic, premium food advertising visuals of a chocolate bar. The first image prompt focuses on a neatly segmented, glossy chocolate bar, and the second is for an exploded infographic view. The motion prompt describes the chocolate spinning while ingredients separate precisely.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768466881730_2b8stl_G-hy8EZbQAIR4l_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": {\n    \"objective\": \"Create a colorful minimalist exploded view of a chair with clearly labeled parts\",\n    \"style\": \"minimalist, modern industrial design, flat yet slightly 3D, clean lines, soft shadows\",\n    \"composition\": \"chair centered in frame, all components separated vertically in an exploded view, evenly spaced, balanced layout\",\n    \"subject\": {\n      \"type\": \"chair\",\n      \"chair_style\": \"modern ergonomic chair\",\n      \"parts\": [\n        \"Headrest\",\n        \"Backrest\",\n        \"Lumbar Support\",\n        \"Seat Cushion\",\n        \"Seat Base\",\n        \"Armrests\",\n        \"Armrest Pads\",\n        \"Gas Lift Cylinder\",\n        \"Tilt Mechanism\",\n        \"Five-Star Base\",\n        \"Caster Wheels\",\n        \"Screws and Fasteners\"\n      ],\n      \"labels\": \"clear part names placed beside each component, thin connector lines, clean sans-serif font\"\n    },\n    \"colors\": \"bright yet soft colors for each part, pastel and vibrant mix, each component in a different color, white or very light background\",\n    \"lighting\": \"soft studio lighting, gentle shadows under each floating part\",\n    \"camera\": {\n      \"angle\": \"slight isometric view for depth\",\n      \"focus\": \"all parts sharp and readable\"\n    },\n    \"extra\": \"educational product diagram look, no clutter, modern design presentation, Instagram-friendly composition\"\n  },\n  \"size\": \"1024x1024\",\n  \"format\": \"png\",\n  \"style_transfer\": false\n}",
+    "title": "Minimalist Exploded View Industrial Design Diagram",
+    "description": "A prompt for generating a colorful, minimalist exploded view diagram of a modern ergonomic chair. It specifies the style (industrial design, flat yet 3D), composition (vertically separated components), and requires clear labeling of all parts (headrest, casters, etc.) using a clean sans-serif font. This is useful for educational content or product marketing diagrams.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768319125734_hmwd38_G-eKpzIbQAAbutc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Young eastern european woman (20-24), tanned skin, long wavy blonde hair in messy high ponytail, seductive duck-lip, glamorous makeup, long lashes, glossy lips,\n\nLAYOUT: Central hero + orbiting ingredient visuals (product exploded view)\n\nHERO:\n- Young woman sitting cross-legged on beige tufted bed\n- Wearing oversized white t-shirt with pink lips print and white socks\n- Eating instant noodles with chopsticks, cozy sexy vibe\n- Soft natural window light with gentle rim light, warm intimate atmosphere\n\nINGREDIENT CALLOUTS:\n- Top: Instant noodles block (wheat flour, salt, vegetable oil)\n- Right: Small sachet of flavor powder (MSG, spices, dehydrated vegetables)\n- Bottom: Two wooden chopsticks (bamboo, smooth finish)\n- Left: White ceramic bowl (beige tufted bed)\n- Top-Right: Oversized White T-shirt with pink lips print (cotton blend, loose fit)\n- Bottom-Left: White socks (cotton, above ankle)\n\nTECHNICAL DETAILS:\n- Photorealistic, highly detailed face and skin\n- Contemporary influencer aesthetic, cinematic color grading, 8k, sharp focus\n\nSTYLE: photorealistic, contemporary influencer aesthetic, product anatomy, exploded diagram style, flavor note diagram, technical overlay graphics\n\nKeywords: product exploded view, tech deconstruction layout, ingredient floating display, component breakdown visualization, wireframe overlay, neon annotation lines, technical specification, premium product anatomy. A stylish handwritten signature {argument name=\"signature name\" default=\"Willy\"} is elegantly and small letters placed at the Bottom Right corner.",
+    "title": "Photorealistic Product Anatomy Image Prompt (Instant Noodles)",
+    "description": "A highly detailed, photorealistic image generation prompt for Gemini Nano Banana Pro, combining a contemporary influencer aesthetic portrait with a technical product anatomy diagram. The scene features a young Eastern European woman eating instant noodles, surrounded by exploded views of the product ingredients and components, complete with technical specifications and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768319247529_ws5wug_G-b86yHbsAEvFk-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Could this object be built? Make an image showing how to answer this problem.\"",
+    "title": "Conceptual Object Feasibility Image Prompt",
+    "description": "A simple, direct prompt designed to test the feasibility of an object's construction by asking the AI to generate an image that visually explains the solution to the problem. This is useful for conceptual design and engineering visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767966107432_dbi6ou_G-E6vy8W8AA8pXy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"meta\": {\n    \"aspect_ratio\": \"3:2\",\n    \"quality\": \"ultra_photorealistic\",\n    \"resolution\": \"8k\",\n    \"style\": \"scientific macro documentary photography\",\n    \"realism_level\": \"extreme realism, natural optics\",\n    \"ai_artifacts\": \"none\"\n  },\n\n  \"subject\": {\n    \"description\": \"a single water droplet resting on a rainforest leaf\",\n    \"droplet\": {\n      \"shape\": \"natural spherical tension\",\n      \"clarity\": \"crystal clear\",\n      \"refraction\": \"subtle optical refraction of leaf veins inside the droplet\"\n    },\n    \"leaf\": {\n      \"type\": \"{argument name=\"leaf type\" default=\"broad tropical rainforest leaf\"}\",\n      \"surface\": \"slightly waxy, natural micro texture\",\n      \"veins\": \"highly detailed visible leaf veins branching naturally\",\n      \"imperfections\": [\n        \"tiny surface pores\",\n        \"microscopic dust\",\n        \"organic irregularities\"\n      ]\n    }\n  },\n\n  \"environment\": {\n    \"location\": \"dense tropical rainforest\",\n    \"atmosphere\": \"humid, quiet, post-rain stillness\",\n    \"background\": [\n      \"soft green bokeh\",\n      \"out-of-focus jungle foliage\",\n      \"natural depth layers\"\n    ],\n    \"air\": \"moist, slightly misty\"\n  },\n\n  \"lighting\": {\n    \"type\": \"natural diffused rainforest light\",\n    \"source\": \"filtered sunlight through canopy\",\n    \"quality\": \"soft, scattered, non-directional\",\n    \"highlights\": \"gentle specular highlight on water droplet\",\n    \"shadows\": \"extremely soft micro-shadows along leaf veins\"\n  },\n\n  \"camera\": {\n    \"camera_type\": \"professional macro photography setup\",\n    \"lens\": \"100mm macro lens\",\n    \"aperture\": \"f/8\",\n    \"focus\": \"razor-sharp focus on leaf veins and water droplet edge\",\n    \"depth_of_field\": \"very shallow, true macro depth\",\n    \"magnification\": \"1:1 macro ratio\",\n    \"perspective\": \"parallel to leaf surface\"\n  },\n\n  \"color_grading\": {\n    \"palette\": \"deep natural greens, subtle yellow highlights\",\n    \"saturation\": \"realistic, not boosted\",\n    \"contrast\": \"low to medium, natural tonal range\",\n    \"clarity\": \"optical clarity, not digital sharpening\",\n    \"grain\": \"none or extremely subtle\"\n  },\n\n  \"constraints\": [\n    \"no insects\",\n    \"no fantasy glow\",\n    \"no artificial lighting\",\n    \"no cinematic color grading\",\n    \"no exaggerated sharpness\",\n    \"must look like a real scientific macro photograph\"\n  ]\n}",
+    "title": "Scientific Macro Documentary Photography Prompt for Water Droplet on Leaf",
+    "description": "A detailed JSON-formatted prompt designed for generating ultra-photorealistic scientific macro documentary photography. It specifies extreme realism, natural optics, and focuses on a single crystal-clear water droplet resting on a broad tropical rainforest leaf, detailing the environment, lighting, and camera settings for a highly specific, non-artificial result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767508431551_g0ae21_G9kn4-7WcAA6joP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Exploded view of the same taco, presented in a clean and professional style resembling commercial recipe cards. It consists of only five components, matching the first image, separated from each other and arranged vertically from top to bottom, with equal spacing and perfect alignment.\nComponent arrangement (Top → Bottom):\nFresh tomato sauce — {argument name=\"tomato sauce weight\" default=\"30 g\"}\n\nGrated cheddar cheese — {argument name=\"cheddar cheese weight\" default=\"40 g\"}\n\nGrilled chicken pieces — {argument name=\"grilled chicken weight\" default=\"70 g\"}\n\nCrispy lettuce — 35 g\n\nSoft wheat taco bread — 40 g\n\nAdd infographic-style annotations to each component. Each annotation contains the component name and its exact weight in grams, written exactly as mentioned above.\n\nAnnotation design guidelines:\nSans-serif bold font\n\nText inside simple frames or boxes\nThin, precise lines connecting the annotation directly to each component\n\nHigh clarity without overlap or excessive decorative elements\n\nOrganized vertical layout, resembling a modern recipe card\n\nThe background is light and neutral, prepared for text clarity and visual cleanliness. The overall style is simple, educational, and commercial, suitable for marketing work, visual explanations, and product analysis.",
+    "title": "Exploded View Tacos Infographic for Marketing",
+    "description": "A detailed prompt for generating an exploded view (deconstructed) visual of a taco, presented in a clean, professional, and commercial recipe card style. It specifies the exact components, weights, vertical arrangement, and infographic-style annotations for each ingredient, making it suitable for marketing materials, visual explanations, and product analysis.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767508423151_vaurje_G9kIWWvaMAkEStV.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "An ultra-wide, surreal, 9:16 overhead flat lay photograph. A group of 4 [{argument name=\"characters\" default=\"characters\"}] are seated around a square table, one person on each side. The camera is pulled back significantly to create a large amount of negative space (empty floor area) around the people and the table, ensuring a clean, minimalist composition.\n\nThe scene is [{argument name=\"scene\" default=\"scene\"}]: [Characters] are wearing their classic costumes, and their interaction is as follows: [DESCRIBE ACTION OF EACH PERSON]\n\nThe table is a custom physical prop, designed to look like a WeChat Moments post: with solid white bands only on the top and bottom edges (no white borders on the left and right sides).\n- The top white band features a personal profile picture, with a [{argument name=\"LOGO DESCRIPTION\" default=\"a cool poker avatar or real photo\"}], the username “[USERNAME]” is drawn on the right, followed by the posting time text (e.g., “1 hour ago” or “Just now”), and the “...” more options icon on the far right.\n- The bottom white band features a right-pointing arrow “Comment” icon (with a bubble shape) and a “Like” icon (WeChat's characteristic thumbs-up icon, which can be designed as gray unliked or red liked) on the right side, separated by a vertical line; the far left or middle can be left blank or include a small location icon (if location is tagged).\n\nThe center of the table is painted [EXACT CENTER COLOR & HEX CODE], and the objects on the table are [FOOD/OBJECTS DESCRIPTION].\nImportant: All objects and hands interacting with them are strictly confined to this central [COLOR] painted area. Nothing should extend onto the white bands or beyond the table boundaries. The floor background is [FLOOR COLOR, e.g., minimalist clean solid color] to create visual separation. Professional studio lighting with distinct cast shadows. 8K, sharp focus.",
+    "title": "Overhead Superhero Mahjong Scene Prompt (WeChat Moments Style)",
+    "description": "A detailed, structured prompt for generating a surreal, ultra-wide overhead flat lay photograph featuring four characters (specifically Marvel superheroes in the example) playing Mahjong on a custom table designed to look like a WeChat Moments post. The prompt meticulously defines the composition, negative space, lighting, and the specific design elements of the table's top and bottom borders to mimic the social media interface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767508395772_j6r8b5_G9jtHBCaYAANjaq.jpg",
+      "https://cms-assets.youmind.com/media/1767508396153_4vuwen_G9jtHBBaMAQ2CmI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "create a sketch of a hand-drawn drawing with lines on notebook paper, doodles, and arrows identifying each item of clothing",
+    "title": "Sketch Drawing Annotation Prompt",
+    "description": "A simple prompt instructing the model to convert an uploaded photograph into a hand-drawn sketch with annotations, lines, doodles, and arrows identifying each item of clothing on notebook paper.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767456138460_sbjocm_G9hBFL4WgAAjBwK.jpg",
+      "https://cms-assets.youmind.com/media/1767456139757_xaiq60_G9hBFL5WgAAWUXg.jpg",
+      "https://cms-assets.youmind.com/media/1767456141294_vsebwq_G9hBFL7XkAANtv8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Do this for [your meal]\nDo this for {argument name=\"food item\" default=\"pineapple pizza\"}\n<instruction>\nInput A is a complex food item.\nAnalyze: Break the item down into raw ingredients and assign each a \"Periodic Table\" style abbreviation (e.g., To, Li, On).\nGoal: A \"Molecular Gastronomy\" acrylic display box set against a void black background.\nRules:\nLayout: determine layout based on # of ingredients, always round up to square or rectangle, clear acrylic grid box.\nCenter Slot: The center square is NOT clear; it is a matte black card featuring a white technical exploded view blueprint/wireframe of Input A labeled \"[{argument name=\"food name\" default=\"food name\"}] Assembly Molecule.\"\nSurrounding Slots: The outer slots contain the fresh, raw ingredients (tortillas, lime wedges, chopped onions, meat).\nTypography: Large white \"Periodic Table\" style lettering (Symbol + Name) printed on the front glass of each compartment, floating over the ingredients.\nFigure: A 1:12 scale miniature scientist in a lab coat standing on the table surface in front of the box, interacting with a miniature version of Input A.\nLighting & Atmosphere: Dark Mode aesthetic. Stark contrast lighting, pure black background, sharp reflections on the acrylic edges.\nOutput: ONE image, 1:1, macro photography, 8k resolution.\n</instruction>",
+    "title": "Molecular Gastronomy Display Box for Food Visualization",
+    "description": "A complex, multi-step instruction prompt designed to visualize a food item (defaulting to pineapple pizza) as a 'Molecular Gastronomy' acrylic display box set against a void black background. It requires breaking the food down into 'Periodic Table' style ingredients and includes a miniature scientist figure for scale, emphasizing a Dark Mode aesthetic and macro photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766988075050_wj8v3u_G9EZTpwW0AA_kqe.jpg",
+      "https://cms-assets.youmind.com/media/1766988075296_upjp6k_G9EaSy_W8AA5aGo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Task Goal:\nBased on the data and information in the year-end summary screenshot uploaded by the user, design a 3D year-end summary poster with a distinct style and strong visual impact, username {argument name=\"Username\" default=\"[guizang]\"}\n\nOverall Style and Mood (Fixed Style):\nCore Style: Blending 3D trends, gamification elements, and high-saturation colors.\nMaterial Feel: The main body of the image presents exquisite clay or soft plastic material rendering, with rounded edges and soft light and shadow, giving a friendly 'blind box toy' feel.\n\nLayout Sense: The overall layout should resemble a refined, high-end magazine, well-spaced, with clear information architecture. Text layout should be concise and clear, without adding any decorative backgrounds like cards, capsules, or bottom frames.\n\nMain Visual (Core Visual):\nThe visual center is a massive, tightly stacked Q-version 3D clay sphere. The elements composing the sphere need to be dynamically generated based on the specific content in the user's uploaded screenshot:\n\nData Bubbles: Key numbers and corresponding labels extracted from the screenshot (e.g., total messages, chat times, images generated, activity ranking, etc.) are made into rounded clay data bubbles embedded in the sphere.\n\nTheme Icons: Based on the user's interests reflected in the screenshot, add corresponding general clay icons (e.g., game controller, brain, chart, chat bubble, etc.).\n\nCategory Buildings (Core Requirement): Analyze the focus of the content in the screenshot and integrate several exquisite miniature clay buildings representing different chat categories into the sphere. For example:\nIf it includes AI/technology content, incorporate a futuristic data center building with a sense of technology.\nIf it includes gaming content, incorporate a pixel-style game castle.\nIf it includes creative/art content, incorporate a miniature art studio.\nCombination Method: All these elements (bubbles, icons, buildings) must be very tightly and harmoniously squeezed together, seamlessly forming a perfect sphere, without revealing the internal structure.\n\nBackground Design (Fixed Frame):\nBase Color: Use a high-saturation gradient background from warm orange to soft purple (referencing previous style).\n\nBackground Text: Behind the sphere, place six massive Chinese characters with splatter texture and reverse etching effects. The themes can be \"Adventure Innovation Exploration\" (top row) and \"Creation Hardcore Impact\" (bottom row), partially obscured by the sphere to add a street-style hardcore feel.\n\nInformation Architecture and Layout (Content Extracted from Screenshot):\nTop (Header): Place the white ChatGPT Logo and generate a title based on the screenshot information, formatted as: \"[{argument name=\"Username\" default=\"Username extracted from screenshot\"}]'s [Year] Year-End Summary\".\n\nBottom Data Area (Data Grid): Below the sphere, create a minimalist 2x2 pure text data grid. Select the 4 most core data points from the screenshot, use an extra-bold sans-serif font to display the large numbers, and accompany them with corresponding text labels and interesting social attribute phrases (e.g., \"Social Superstar,\" \"Chatterbox,\" \"Hexagonal Warrior,\" etc., generated based on data characteristics).\nFooter Summary (Footer): Typeset two paragraphs of text in small font at the very bottom, with content extracted directly from the summary paragraphs in the user's screenshot (such as \"Your Chat Style\" and \"Annual Highlights\").",
+    "title": "3D Clay Style Year-End Summary Poster Generator",
+    "description": "A highly detailed, structured prompt for generating a visually impactful 3D year-end summary poster (like a ChatGPT summary) based on an uploaded screenshot of user data. The style is fixed: 3D clay/soft plastic texture (like a 'blind box toy'), high saturation colors, and a clear, magazine-like layout. The core visual is a tightly packed clay sphere composed of data bubbles, themed icons, and miniature architectural elements representing chat categories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936028559_5kv8ud_G803VYoWEAAMilR.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a 20-panel layout guide for drawing a cute cartoon robot. Each panel keeps everything from before and adds one clear change.\n\n1. Light guide lines: vertical center, horizontal center, and a ground line.\n2. Add torso: rounded rectangle above the ground.\n3. Add torso centerline.\n4. Add head: smaller rounded square above torso.\n5. Add neck connector: short rounded block.\n6. Add left eye circle.\n7. Add right eye circle.\n8. Add pupils inside both eyes.\n9. Add thin rim rings around both eyes.\n10. Add mouth rectangle below eyes.\n11. Add evenly spaced vertical slats in the mouth.\n12. Add left shoulder joint circle on torso side.\n13. Add right shoulder joint circle.\n14. Add left upper arm cylinder from left shoulder.\n15. Add left elbow circle and left forearm cylinder.\n16. Add left claw hand (base curve + two prongs).\n17. Add right upper arm cylinder from right shoulder.\n18. Add right elbow circle and right forearm cylinder.\n19. Add right claw hand to match left.\n20. Add legs and feet as simple blocks: two short legs from torso bottom and two rounded trapezoid feet, plus a small ground shadow.",
+    "title": "20-Panel Cartoon Robot Drawing Guide Prompt",
+    "description": "A detailed, step-by-step prompt for Nano Banana Pro (on LeonardoAi) instructing the model to create a 20-panel layout guide for drawing a cute cartoon robot, with each panel adding one specific, cumulative change, starting from basic guidelines to final details like claw hands and shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237896379_3zt0jb_G8bxJFlakAMipDE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A 2x2 grid of 4 futuristic architectural landmarks based on important calculus symbols, Set in a utopian solarpunk city, bright midday sunlight, clean white materials, glass and steel, cyan sky, architectural photography, Lumion render, wide angle, high exposure, sense of scale",
+    "title": "Calculus Symbols as Futuristic Architecture",
+    "description": "A short, vague prompt designed to generate a 2x2 grid of four futuristic architectural landmarks. The landmarks are based on important calculus symbols and are set in a utopian solarpunk city, emphasizing clean materials, bright midday lighting, and a sense of scale.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237832494_rvzkpl_G8afIPdXkAEOlEg.jpg",
+      "https://cms-assets.youmind.com/media/1766237835333_6daw4x_G8afD-cXEAAIRbU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Step 1 – Upload three random objects. Step 2: analyze these gadgets, learn about their features how they can be combined, what can be inspired by them.  Step 3: Combine these three objects into one single absurd but legally patentable invention, borrowing elements from each. Output:  Step 4, draw a 2x2 grid of this invention:   Grid 1 & 2: “Create 2 clean black-and-white technical patent drawings (exploded view, side, top, perspective) of this new invention in classic patent illustration style.” Grid 3  “Now render the final product in glossy Apple-product-photography style on white infinity background with subtle reflection. Add fake patent number in corner.”  Grid 4: detailed explanation of selling points like a tech magazine.",
+    "title": "Absurd Patentable Invention Generator",
+    "description": "A multi-step prompt designed for Nano Banana Pro to analyze three uploaded random objects, combine their features into a single absurd but patentable invention, and then output a 2x2 grid featuring technical patent drawings, a glossy product render, and a detailed marketing explanation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991299812_y1t9al_G8BcU0aXQAQ5t1Z.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "create this isometric miniature 3D cartoon scene of [ {argument name=\"city name\" default=\"Delhi\"} ] including AQI and Temperature.",
+    "title": "Isometric 3D Cartoon Scene of a City",
+    "description": "A prompt for creating an isometric miniature 3D cartoon scene of a specified city, including details like AQI and temperature. The city name is parameterized for customization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990948115_ymwl0a_G7-eU4rboAA_-wM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a four-panel, square layout guide for drawing a simple cartoon duck.\n\n1. Panel one displays a grayscale oval for the duck's body.\n2. Panel two shows a grayscale smaller circle overlapping the front of the oval for the head.\n3. In panel three, a grayscale beak is added to the head, and webbed feet are attached to the bottom of the body.\n4. The final panel reveals the completed  duck with color now with two eyes on the head, and a wing outline on the body.",
+    "title": "Four-Panel Guide for Drawing a Cartoon Duck",
+    "description": "A structured, multi-panel prompt designed to generate a step-by-step visual guide for drawing a simple cartoon duck, useful for educational or instructional content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990951279_otwm8w_G79hNlxagAAkiFR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "OOTD (Outfit of the Day) Fashion Diagram",
+    "title": "OOTD (Outfit of the Day) Fashion Diagram Prompt",
+    "description": "A prompt for Nano Banana Pro (Prompt #12) designed to generate an 'OOTD (Outfit of the Day) Fashion Diagram'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765967801088_3fzbda_G74HfQqawAADxlz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an image showing the trading volume changes of mainstream exchanges this year, requiring it to be intuitive and clear",
+    "title": "Generating Exchange Volume Change Image",
+    "description": "A prompt designed for a work scenario, instructing the AI to generate a visual representation of the trading volume changes for major exchanges this year, emphasizing clarity and intuitiveness.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438655961_5vtrys_G7oPrr2b0AAOu4-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"[GOAL] Hyper-realistic ultra-macro insect capture in mid-air\n[SUBJECT] predatory wasp carrying a bright green caterpillar\n[POSE/STATE] wings stretched mid-beat, prey gripped tightly, both suspended in motion\n[FRAMING] full-body insect profile, isolated; subject centered with generous negative space\n[LENS] apochromatic macro 100mm, 2:1 magnification\n[APERTURE] f/11 deep global sharpness\n[SHUTTER] 1/8000 freeze-motion\n[LIGHTING] cross-polarized dual-diffused flash; wrap-around softbox; specular-suppression; rim accent camera-right 10°\n[COLOR] natural crimson-amber chitin; neon-green larvae tones; neutral matte background gradient\n[MATERIALS] chitin texture with micro-pitting; translucent wing membranes with vein fidelity; caterpillar skin with SSS and fine ridges\n[FX] none; zero motion blur; no halos; no glow\n[DOF] deep-plane focus stacked (40+ slices)\n[ENV/BG] seamless monotone backdrop, soft bokeh compression, no environmental clutter\n[RENDER] scientific-macro discipline; entomology documentation realism\n[POST] deconvolution sharpening; chromatic-aberration removal; micro-contrast S-curve; artifact-free edges; grain <3%\n[CONSTRAINTS] AR 16:9; forbid stylization, color bleed, softness, fictional anatomy\"",
+    "title": "Scientific Ultra-Macro Insect Capture Prompt",
+    "description": "An extremely detailed, technical prompt designed for generating a hyper-realistic, scientific ultra-macro photograph of a predatory wasp carrying a bright green caterpillar. It specifies the goal, subject, pose, framing, and includes meticulous camera and post-processing settings (apochromatic macro lens, f/11, 1/8000 shutter, cross-polarized lighting, focus stacking) to achieve entomology documentation realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438570063_9sta1t_G7nwHTXbsAAASSE.jpg",
+      "https://cms-assets.youmind.com/media/1765438570196_8iqwtw_G7nwHTKasAEMBUw.jpg",
+      "https://cms-assets.youmind.com/media/1765438571003_qhpitf_G7nwHS7bYAAYgzl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Solve the assignment on the empty paper, writing the solution in the style of the provided handwriting sample.",
+    "title": "AI Solves Assignment from Handwriting and Blank Paper",
+    "description": "This tweet describes a scenario where the 'nano banana pro' AI model was given a user's handwriting sample and an empty paper, and it successfully completed the user's assignment in one attempt. This implies a multimodal prompt where the user provided both a visual input (handwriting/style reference) and potentially an implicit or explicit instruction (the assignment itself) to be solved and written out in the provided style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765421886451_5ieqf7_G7jeAxLbIAAZomq.jpg",
+      "https://cms-assets.youmind.com/media/1765421886426_ar1zm8_G7jd-rha8AAaM0V.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A {argument name=\"subject\" default=\"SUBJECT\"} is crouching on the beach, lifting a wave like a carpet to reveal a {argument name=\"object\" default=\"OBJECT\"} lying underneath deep inside. The ocean is calm with a clear blue sky in the background. The scene creates a clever illusion, in a surreal manner, with the wave being lifted as if it is a tangible object",
+    "title": "Surreal deep sea storage illusion prompt",
+    "description": "A prompt for Nano Banana Pro that creates a surreal illusion of a subject lifting a wave like a carpet to reveal an object lying deep underneath, suggesting a transition from cloud storage to deep sea storage.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438517962_e2z8ju_G7imCOSbEAAjVLk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Miniature 3D City + Live Weather\n\n🛕 Puri, India",
+    "title": "Miniature 3D City with Live Weather Prompt",
+    "description": "A prompt for generating an isometric, miniature 3D city render of Puri, India, incorporating live weather elements, suitable for AI illustration and digital art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765089481314_qrsns3_G7Y5HZFaUAANinv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Brand color: [{argument name=\"brand color\" default=\"#06c7b0\"}]\nA simple and clean flat design.\nPlace people and icons drawn with uniform black outline lines, and partially use pastel accent colors (such as sky blue and coral pink).\nEmphasize rounded shapes and a soft overall impression.\nUse a diagram-centered layout (for example: Venn diagrams, bar graphs, speech bubbles), with a friendly tone suitable for materials and social media content aimed at students and younger audiences.\nLeave plenty of white space to prioritize legibility and balanced composition.",
+    "title": "Clean flat slide design style guide for NotebookLM",
+    "description": "A Japanese style prompt for Nano Banana Pro that defines a clean, flat slide design with specific colors, outlines, and diagram-focused layout, ideal for student-friendly presentations or social content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909220018_117yim_G7MnRUUasAAVzDG.jpg",
+      "https://cms-assets.youmind.com/media/1764909222897_9ru7os_G7MnXlQbgAIonv8.jpg",
+      "https://cms-assets.youmind.com/media/1764909225157_xc9goy_G7MnagfbgAAwAI2.jpg",
+      "https://cms-assets.youmind.com/media/1764909227138_jote0v_G7MrepvbgAIgSFE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create line art for a coloring page. The target age is {argument name=\"target age\" default=\"9\"} years old, and the coloring subject is {argument name=\"coloring subject\" default=\"a sports car\"}. Draw everything with black lines and keep the background completely white (#ffffff). Make it in a format suitable for printing, and do not draw any extra elements outside the canvas.",
+    "title": "Coloring book line art prompt for Nano Banana Pro",
+    "description": "A concise Japanese prompt template that generates printable black-and-white line art for coloring pages, customizable by target age and subject matter.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909127300_qdqavh_G7HoRU1a4AAl4SZ.jpg",
+      "https://cms-assets.youmind.com/media/1764909130501_lytikf_G7HoRT7bgAER-8J.jpg",
+      "https://cms-assets.youmind.com/media/1764909132976_z9l62l_G7HoRXBbgAM3bic.jpg",
+      "https://cms-assets.youmind.com/media/1764909135490_siujp8_G7HoRavbgAAtA0b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Present a clear, side miniature 3D cartoon view of the tallest buildings in {argument name=\"city in English\" default=\"YOUR CITY\"}. Use minimal textures with realistic materials and soft, lifelike lighting and shadows. Use a clean, minimalistic composition showing exactly the three tallest buildings in {argument name=\"reference city in English\" default=\"Sopot\"}, arranged from left to right in strict descending height order. The tallest must appear visibly tallest, the second must be clearly shorter than the first, and the third must be clearly shorter than the second.\nAll buildings must follow accurate relative proportions: if a building is taller in real life, it must be taller in the image by the same approximate ratio. No building may be visually stretched or compressed.\nEach building should stand separately on a thin, simple ceramic base. Below each base, centered text should display:\nHeight in meters — semibold sans-serif, medium size\nYear built — lighter-weight sans-serif, smaller size, directly beneath the height text\nProvide consistent padding, spacing, leading, and kerning. Write “{argument name=\"city name title\" default=\"YOUR CITY NAME\"}” centered above the buildings, using a medium-sized sans-serif font.\nNo building top should overlap or touch the text above. Use accurate architectural proportions based on real-world references. Maintain a consistent camera angle and identical scale for each building model.\nNo forced perspective. Use straight-on orthographic-style rendering. Do not exaggerate or stylize size differences beyond proportional accuracy.\n\nUse a square 1080×1080 composition. Use a clean, neutral background. Ensure no extra objects are present.",
+    "title": "City tallest buildings 3D cartoon showcase prompt",
+    "description": "A detailed prompt for generating a square 3D cartoon-style image of the three tallest buildings in a chosen city, with accurate proportions, labels for height and year, and clean typographic layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909142097_c1yfxu_G7GOJ7WW4AAEsNE.jpg",
+      "https://cms-assets.youmind.com/media/1764909144039_63di33_G7GOLW9XoAAVHXY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic 8K flat-lay photo in strict knolling style. A top-down 90º shot of the object from the attached image, fully disassembled into {argument name=\"min_parts_en\" default=\"8\"}–{argument name=\"max_parts_en\" default=\"12\"} key parts and arranged in a clean grid or radial pattern on a minimalist {argument name=\"surface_material_en\" default=\"wooden or matte gray\"} table. Use even spacing, perfect alignment, no overlaps, and no extra objects. Light the scene with soft, diffused multi-source lighting, creating subtle shadows, neutral color balance, and crisp focus across the entire frame. Show highly detailed real-world materials (metal, plastic, rubber grips, circuit boards, screws). For every part, add a thin white rectangular frame and a short, sharp English label in clean sans-serif text, placed next to the component without covering it; annotations must be legible but unobtrusive.",
+    "title": "Knolling-style exploded flat-lay photo",
+    "description": "A detailed prompt for turning any object into an ultra-realistic knolling-style 8K flat-lay image with labeled disassembled parts.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764209292148_v43ti8_G6iCbeKXUAAKINx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A shear and moment diagram for a simply supported beam with a uniform load of {argument name=\"load_en\" default=\"100 plf\"}. The beam is {argument name=\"length_en\" default=\"100 feet\"} long.",
+    "title": "Shear and moment diagram for a loaded beam",
+    "description": "An English engineering prompt that generates a shear and moment diagram for a simply supported beam with a uniform load.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885691923_co8lo6_G6UtlugWoAALVOy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Overlay technical, engineering handwritten annotations on top of the image.\nUse white chalk-style handwriting and clean technical sketch lines.\nInclude labels, arrows, dimensions, forces, engineering diagrams, and cross-sections.\nStyle: blueprint-like doodles,",
+    "title": "Engineering annotations overlay",
+    "description": "A prompt to overlay technical, hand-drawn engineering notes and diagrams on top of an existing image, ideal for illustrated explainers of machines or vehicles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886131084_bipft8_G6PXyOzWwAAbBs-.jpg",
+      "https://cms-assets.youmind.com/media/1763886137126_6ukqbo_G6PXyv9WgAEIkEY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an image of a Minkowski sum of two non-convex sets.",
+    "title": "Minkowski sum of two non-convex sets",
+    "description": "A mathematical-concept prompt asking the model to create an image of a Minkowski sum of two non-convex sets, useful for abstract math visualizations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886113323_94hvg6_G6OG1aKXsAAwQHc.jpg",
+      "https://cms-assets.youmind.com/media/1763886116153_juflog_G6OG2X2WMAAOj1H.jpg",
+      "https://cms-assets.youmind.com/media/1763886118660_88hj9z_G6OG3jEXkAEogCN.jpg",
+      "https://cms-assets.youmind.com/media/1763886120692_5azuuk_G6OG4wfWAAAuc9c.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hey, Nano Banana Pro, add annotations to the original Transformer architecture diagram.",
+    "title": "Annotated Transformer architecture diagram",
+    "description": "English prompt asking Nano Banana Pro to add annotations to the original Transformer architecture diagram.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886280265_cp2jg0_G6NbnamXQAAlPCO.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

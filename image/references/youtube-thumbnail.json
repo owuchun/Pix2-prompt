@@ -1,0 +1,115 @@
+[
+  {
+    "content": "Use the transcript of this video as a prompt to have Nano Banana create an eyecatch image",
+    "title": "Eyecatch Image Generation from Video Transcript",
+    "description": "A user generated an eyecatch image using Nano Banana based on a video transcript, noting that image generation AI might replace manual creation in Canva.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063246826_sqqf2n_G_J9h8uWcAALe9H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "High impact youtube thumbnail.  Visual Structure: Right Side: A large, well-lit cutout of {argument name=\"figure 1\" default=\"Trump smiling smugly or looking triumphant with a \\\"thumbs up\\\" and a confident smirk\"}. He should be facing slightly left.  Left Side/Background: A dark, moody photo of the person [photo attached] who has a shocked expression on her face, reacting to Trump. She in a dark corporate boardroom with the Chatham House Logo.  The Text (Top Center, Bright Yellow): \"{argument name=\"headline\" default=\"THEY CONFESSED\"}\"",
+    "title": "YouTube Thumbnail: Trump vs. Chatham House Reaction",
+    "description": "A prompt for generating a high-impact YouTube thumbnail image with a specific visual structure: a triumphant Trump cutout on the right and a shocked corporate figure (Chatham House head) on the left, overlaid with the text 'THEY CONFESSED'. This is a political/news-style graphic prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468540222_5coi91_G-qCL3rXAAAlpnS.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "3D Pixar-style hook image, 16:9 format.\n\nCHARACTER: Fire character in VR headset with OpenGradient logo. Expression: realizing/pointing. Pose: standing in a construction site, pointing at a transformation in the pipes.\n\nSCENE: A messy wall of rusty, leaking pipes labeled \"OLD DEFI\". One section of the pipe transforms into a glowing, crystalline, see-through conduit pulsating with green \"brain\" energy.\n\nFOREGROUND: A heavy wrench and blurred blueprints on a workbench in the corner. Creates depth.\n\nBACKGROUND: Dark industrial background but lit up by the green glow of the new pipe.\n\nTEXT: \"PIPING TO BRAINS\" on LEFT, bold white with glow.\n\nCOMPOSITION: Text dominant 70/30. Depth of field: blurred foreground -> sharp subject -> slight background blur. Cinematic lighting with neon green accent.",
+    "title": "3D Pixar-Style Hook Image: Programmable Money to Intelligence",
+    "description": "A prompt for generating a 3D Pixar-style hook image illustrating the transition from 'OLD DEFI' (rusty pipes) to 'programmable intelligence' (glowing, crystalline conduit). It features a fire character in a VR headset pointing at the transformation, with specific instructions for composition, depth of field, and neon green accent lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767966041535_5q7hhd_G-EtUfLWYAAPe1D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I want a youtube thumbnail prompt. split screen. On the right, {argument name=\"figure 1 name\" default=\"trump\"} looking angry at the camera, pointing towards the left side. On the left is a scene of {argument name=\"figure 2 name\" default=\"mark carney\"}, visibility in shock. behind mark carney is a canadian flag scene. At the top of the frame in high contrast yellow \"{argument name=\"headline text\" default=\"THE REAL TARGET\"}\"",
+    "title": "YouTube Thumbnail Prompt: Political Split Screen",
+    "description": "A prompt designed to create a high-contrast YouTube thumbnail with a split-screen layout. It features two political figures (Trump and Mark Carney) with specific expressions and background elements, overlaid with high-contrast text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682101544_zqk3zf_G97ZcnmWAAMsBg0.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Powerful youtube thumbnail:   {argument name=\"figure 1\" default=\"Trump\"} (Right Side): Well-lit close-up. Expression: A very confident smirk or a \"winning\" smile. Left Side: An official UK House of Lords document which clearly says \"{argument name=\"document text\" default=\"ignore the President\"}\" in bright neon green. Tilt the document slightly for dynamism. The Text (Top, Yellow): {argument name=\"overlay text\" default=\"CAUGHT ON TAPE\"}",
+    "title": "Political YouTube Thumbnail (Trump and Document)",
+    "description": "A prompt for generating a powerful, high-impact YouTube thumbnail featuring a close-up of Trump on the right side with a confident smirk, juxtaposed with an official UK House of Lords document on the left that contains text in bright neon green, creating a dynamic and high-contrast visual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767606985929_1o5o1o_G91WniFWsAAHp3v.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Youtube thumbnail Concept:\nBackground (Split 50/50):\n\nLeft Side (War): Grayscale or desaturated sepia tone. Shows a chaotic background of smoke or tanks.\nRight Side (Fusion): High-saturation, deep blues and glowing purples. Shows a futuristic tokamak reactor core.\nSubject: A large, shoulder up cutout of Trump placed dead center, acting as the divider between the two worlds. He should look confident/determined, facing slightly toward the \"Fusion\" side.\nText (Top, full width):\n\n\"{argument name=\"main text\" default=\"THE NEW WEAPON\"}\" (in large, blocky #FFFF00 Yellow font).\nNote: Add a heavy black drop shadow or a dark gradient vignette at the very top to ensure the yellow text is readable against the glowing background.\"",
+    "title": "Youtube Thumbnail Concept: The New Weapon",
+    "description": "A prompt for generating a YouTube thumbnail concept split 50/50 between a grayscale 'War' side and a high-saturation 'Fusion' side, with a central cutout of Trump acting as the divider, featuring large yellow text reading 'THE NEW WEAPON'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767454950751_5bzahg_G9c452JWUAA95hp.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Split-screen YouTube thumbnail composition. LEFT SIDE (60%): JD Vance's face, professional warm lighting, determined confident expression with slight smirk, slight low angle shot looking up, high contrast and saturated colors, dark blurred background, heroic and resolute mood. RIGHT SIDE (40%): Shattered fractured glass effect overlaying darkened desaturated images of MAGA supporters and political figures pulling in different directions, visible crack lines and fragmentation throughout, chaotic and divided composition, dark grays and muted reds, broken and unstable visual. TOP OF ENTIRE THUMBNAIL: Bold yellow text with thick black outline reading \"{argument name=\"text\" default=\"JD VANCE DESTROYS THE PLOT\"}\", text spans across both sides at top third.",
+    "title": "Split-Screen YouTube Thumbnail: JD Vance Political Commentary",
+    "description": "A detailed prompt for generating a high-contrast, split-screen YouTube thumbnail designed for political commentary, featuring a heroic portrait of JD Vance contrasted with a chaotic, shattered glass overlay representing political division.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673144809_axg9zf_G83DIibXkAASun2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A miniature diorama showing tiny {argument name=\"PEOPLE / CHARACTERS\" default=\"PEOPLE / CHARACTERS\"} struggling with an oversized {argument name=\"EVERYDAY OBJECT\" default=\"EVERYDAY OBJECT\"}. Exaggerated scale contrast, expressive poses, cinematic lighting. Ultra-detailed props, handcrafted realism, macro lens perspective.",
+    "title": "Tiny People, Giant Problem Diorama Prompt",
+    "description": "A short, customizable prompt for generating a miniature diorama image where tiny people or characters struggle with an oversized everyday object, emphasizing exaggerated scale contrast and macro lens perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673108268_xsbx7s_G80ni2waUAAVUuU.jpg",
+      "https://cms-assets.youmind.com/media/1766673108495_d5iuef_G80ni5TagAQyG4e.jpg",
+      "https://cms-assets.youmind.com/media/1766673110224_jakcyh_G80ni-aagAEVRO5.jpg",
+      "https://cms-assets.youmind.com/media/1766673111983_rrp39r_G80njEtacAAY0WV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "metadata:\nmodel_context: \"Corporate Tech, High-Energy Business Youtube Thumbnail mixed with Anime Art\"\n\nimage_structure:\ncomposition_type: \"Diagonal Split Layout (Arrowhead Shape)\"\nvisual_flow: \"Left Text (Problem/Solution) -> Right Visual (Result/Character)\"\nlayers:\nlayer_background_left:\nshape: \"Geometric polygon covering left 60% of screen, with a sharp arrow-point extending into the right side\"\ncolor: \"Matte Black (#1A1A1A)\"\ntexture: \"Subtle carbon fiber or mesh pattern to add tech depth\"\nlayer_typography:\n\nlocation: \"Centered within the left black area\"\nalignment: \"Left-aligned or Centered\"\nelements:\n- type: \"Headline (Main)\"\ntext: \"{argument name=\"main headline\" default=\"Design to Earn\\nwith AI Side Jobs\"}\"\nstyle: \"Extremely bold, heavy Gothic font (Impact style). White text.\"\nhighlight: \"Apply Bright Yellow (#FFD700) color to the word '稼ぐ' (Earn) and 'AI'\"\n- type: \"Sub-Headline (Detail)\"\ntext: \"{argument name=\"sub headline\" default=\"Complete Guide to Nano Banana Pro\"}\"\nstyle: \"Smaller white sans-serif text, clean and readable\"\n- type: \"Body Text (Explanation)\"\ntext: \"{argument name=\"explanation text\" default=\"From beginner to professional quality.\\nCourse aiming for monetization via the shortest route.\"}\"\nstyle: \"Small, thin grey or white text block, justified layout\"\nlayer_cta_button:\nshape: \"Rounded Pill Shape\"\ncolor: \"Bright Yellow (#FFD700)\"\n\ntext: \"{argument name=\"CTA text\" default=\"Apply Now ▶\"}\"\ntext_color: \"Black\"\nlocation: \"Bottom left, below the text block\"\nstyle: \"Flat design with slight drop shadow\"\nlayer_visual_right:\nshape: \"Fills the remaining right side (behind the arrow overlap)\"\ncontent: \"Japanese Kawaii Anime Girl illustration\"\n\nstyle: \"2D Cel-shaded anime art, high detail, vibrant colors\"\ndetails:\nsubject: \"A cute anime girl with a futuristic / cyber-fashion look\"\nappearance:\nhair: \"Pastel pink and blue gradient bob cut, with cyber hair clips\"\neyes: \"Large sparkling anime eyes, confident smile\"\nclothing: \"Stylish tech-wear hoodie with yellow accents to match the background theme\"\npose: \"Dynamic pose, pointing finger towards the text on the left or giving a thumbs up\"\nbackground_context: \"Simple light grey or white background with abstract pop patterns (dots/stars) to make the character stand out\"\nstyle_and_tone:\nart_style: \"Modern Corporate Tech Design mixed with Japanese Anime aesthetics\"\ncolor_palette:\n\nprimary: \"Black, Yellow\"\nsecondary: \"Pastel Pink/Blue (Character), White\"",
+    "title": "Corporate Tech/Anime Eyecatch Image Prompt",
+    "description": "A detailed JSON prompt for Nano Banana Pro to generate a visually striking eyecatch image (thumbnail/banner) combining Corporate Tech design with Japanese Anime art. It uses a diagonal split layout, with the left side dedicated to typography (headline, sub-headline, CTA) in black and yellow, and the right side featuring a cute, futuristic anime girl illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766667410900_oh0noq_G8xq_PGbIAEm5d8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A MrBeast‑style YouTube thumbnail, but it’s Donald Trump and the video is where he reveals what’s in the Epstein files.",
+    "title": "MrBeast-style thumbnail about Epstein files",
+    "description": "An English prompt that generates a MrBeast-style YouTube thumbnail featuring Donald Trump revealing what’s in the Epstein files.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885675982_nbo6av_G6VucuKXcAAphIA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please create a YouTube thumbnail using this character.\n- Use only the upper body, with a cheerful pose and expression.\n- Include large text that says “{argument name=\"title_text_en\" default=\"雑談\"}” and add the furigana “{argument name=\"furigana_en\" default=\"ざつだん\"}”.\n- Give it a pop feel, but make the background simple and composed of stripes.",
+    "title": "YouTube thumbnail using a specific character for chat stream",
+    "description": "A Japanese prompt to create a YouTube thumbnail using a given character, with only the upper body, a cheerful pose, large ‘雑談’ text with furigana, and a simple pop background with stripes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886334863_qtx3by_G6Paa6sacAAhM5D.jpg",
+      "https://cms-assets.youmind.com/media/1763886337496_4qck1l_G6PablnbwAAtCG1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "From the perspective of a genius thumbnail designer and psychologist, think through the composition and generate a thumbnail image that will maximize the number of views.",
+    "title": "High-conversion YouTube thumbnail by genius designer-psychologist",
+    "description": "A Japanese prompt asking Nano Banana Pro to design the highest-performing YouTube thumbnail possible from the perspective of a genius thumbnail designer and psychologist.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886479035_e4rx7h_G6PW3Y_bwAAlC_6.png",
+      "https://cms-assets.youmind.com/media/1763886505180_0o48xo_G6PW4E2acAIXdoh.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

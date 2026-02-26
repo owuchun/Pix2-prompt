@@ -1,0 +1,1641 @@
+[
+  {
+    "content": "A wide quote card featuring a famous person, with a brown background and a light-gold serif font for the quote: “{argument name=\"famous_quote\" default=\"Stay Hungry, Stay Foolish\"}” and smaller text: “—{argument name=\"author\" default=\"Steve Jobs\"}.” There is a large, subtle quotation mark before the text. The portrait of the person is on the left, the text on the right. The text occupies two-thirds of the image and the portrait one-third, with a slight gradient transition effect on the portrait.",
+    "title": "Wide quote card with portrait and Chinese/English customization",
+    "description": "A prompt for generating a wide quote card featuring a famous person’s portrait, with a brown background, light-gold serif quote text, and layout where text occupies two-thirds and the person one-third. The quote text and author are parameterized for reuse.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886933714_5zqn1e_G6QBjQHbgAE3Yt_.jpg",
+      "https://cms-assets.youmind.com/media/1763886938314_wbcfc7_G6QBiiracAInQ8z.jpg",
+      "https://cms-assets.youmind.com/media/1763886941069_1d9ace_G6QBii_acAIRxKd.jpg",
+      "https://cms-assets.youmind.com/media/1763886946388_nwahev_G6QBikOaEAAmYkO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A snow statue representing... I don't want to leave the futon because it's snowing... -[ - ](_____)",
+    "title": "Snow Statue of Not Wanting to Leave the Futon",
+    "description": "A simple prompt used with Nano Banana Pro to generate an image of a snow statue representing the feeling of not wanting to leave the futon when it's snowing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187224040_4mzbzj_HASD0dga0AA-q5S.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SFW. No nudity, no suggestive intent.",
+    "title": "Symphogear Character Image Generation Prompt",
+    "description": "The user mentions that they have various variations of the character Igariima besides the green stripes and provides the prompt used for Nano Banana Pro in the replies. The prompt specifies SFW content with no nudity or suggestive intent.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187217066_yfm70w_HAQ3mAgacAApDYl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A surreal photo manipulation showing a detailed {argument name=\"animal pawprint\" default=\"[ANIMAL]\"} pawprint pressed into snow, within which {argument name=\"environment inside\" default=\"[ENVIRONMENT]\"} and a {argument name=\"animal inside\" default=\"[ANIMAL]\"}, {argument name=\"colors\" default=\"[COLORS]\"}, is visible",
+    "title": "Surreal Pawprint Photo Manipulation Template",
+    "description": "A template prompt for generating a surreal photo manipulation image. It describes a detailed pawprint pressed into snow, with a miniature environment and animal visible inside the print, allowing customization of the animal, environment, and colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014641875_gzupdn_HAFFjgTaEAAy2D_.jpg",
+      "https://cms-assets.youmind.com/media/1770014642038_2lf3bz_HAFFjgTaQAEbxtw.jpg",
+      "https://cms-assets.youmind.com/media/1770014642141_opngo2_HAFFje4b0AAGHWi.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Design the world with text and visual prompts",
+    "title": "Project Genie World Design Prompt",
+    "description": "A high-level description of the prompt mechanism used in 'Project Genie' to design and generate virtual worlds, utilizing Nano Banana Pro for image previews.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769755045879_vza3x3_G_2KNi3WMAAzkh2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Copy the following system prompt into ChatGPT / Claude / Gemini \n\n2⃣ Type ONE word: \"love\", \"hunger\", \"dream\" \n\n3⃣ Receive 3 prompts with 3 distinct interpretations \n\n4⃣Copy and paste into Nano Banana 🍌",
+    "title": "System Prompt for Generating Image Prompts",
+    "description": "A meta-prompt instructing a large language model (ChatGPT, Claude, or Gemini) to act as a prompt generator. The user provides a single word (like 'love', 'hunger', or 'dream'), and the LLM is expected to return three distinct image prompts based on that word, which can then be used in Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582041819_19ifuj_G_sq4irWQAAUI_B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{ \n  \"shot\": { \n    \"composition\": \"Low-angle wide shot, 35mm lens, slight barrel distortion, surreal perspective\", \n    \"camera_motion\": \"static\", \n    \"frame_rate\": \"24fps\", \n    \"film_grain\": \"Kodak Vision3 250D film with soft diffusion and bloom\" \n  }, \n  \"}, \n  \"subject\": { \n    \"description\": \"Tanned woman with long sunlit hair, wearing black bikini, small black cat-eye sunglasses, large gold and zebra-pattern bangles, gold hoop earrings\", \n    \"wardrobe\": \"minimal triangle black bikini, black flip-flops, layered gold and patterned bangles\", \n    \"pose\": \"squatting beside car, elbow on knee, hand resting on chin, legs tucked, other hand loosely holding sandal\", \n    \"expression\": \"relaxed, detached, casually glamorous\" \n    \"pose\": \"standing upright with relaxed posture, hands in pockets, facing camera with eyes unfocused\" \n  }, \n  \"scene\": { \n    \"location\": \"stylized surreal environment with floating orange chains and a cloudy sky gradient from {argument name=\"sky color 1\" default=\"crimson\"} to {argument name=\"sky color 2\" default=\"deep blue\"}\", \n    \"time_of_day\": \"timeless — atmospheric studio-sky hybrid\" \n  }, \n  \"visual_details\": { \n    \"action\": \"subject stands still while chains surround him in layered depth; some chains in foreground blur, others in sharp midground focus\", \n    \"props\": \"large floating or suspended orange chains\" \n  }, \n  \"cinematography\": { \n    \"lighting\": \"stylized directional lighting with soft contrast and dreamy haze\", \n    \"tone\": \"surreal, poetic, introspective\" \n  }, \n  \"audio\": { \n    \"ambient\": \"light wind, subtle metal chain creaks, ambient reverb tones\" \n  }, \n  \"color_palette\": \"hot orange, sky blue, soft crimson pinks, navy and shadow blacks\", \n  \"dialogue\": { \n    \"character\": \"\", \n    \"line\": \"Even when still, the world wraps around me.\", \n    \"subtitles\": false \n  } \n}",
+    "title": "Surreal Cinematic Scene with Floating Chains",
+    "description": "A cinematic prompt for generating a surreal, stylized scene featuring a tanned woman in a black bikini squatting beside a car, surrounded by large, floating orange chains against a gradient sky. The prompt specifies film grain, low-angle wide shot, and a poetic, introspective tone.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581973092_hxjlek_G_rGoB5a0AAcjw_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "8k\nUltra-Realistic Promotional",
+    "title": "Ultra-Realistic Promotional Image Prompt",
+    "description": "A concise prompt specifying the desired style and resolution for a promotional image using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582041707_ycrm2q_G_op3ShawAAi51B.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Act as an expert photo editor. Step 1: Mark up the uploaded image with handwritten yellow marker notes and sketches, identifying flaws and suggesting improvements. Step 2: Based strictly on those notes, edit the image to resolve the critiques and produce a superior final result.",
+    "title": "Expert Photo Editor Prompt for Selfie Improvement",
+    "description": "A two-step system prompt instructing the AI to act as an expert photo editor. First, it must mark up an uploaded image with handwritten notes identifying flaws and suggesting improvements. Second, it must strictly follow those critiques to edit the image and produce a superior final result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495431442_sr5qpw_G_nt67XWIAARX5P.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A vintage typewriter on a writer's desk, with the {argument name=\"subject\" default=\"[SUBJECT]\"} materializing from the words being typed, rising from the page as narrative becomes reality. Letters at the base are still flat ink, sentences curl upward becoming ribbons of text that weave into three-dimensional form, [KEY FEATURES] fully realized at the apex while origin remains visible as pure language. The [SUBJECT] is literally made of story, words still legible in skin and surface. Fresh typing continues below, feeding the manifestation. Crumpled drafts, coffee rings, deadline notes surround the machine. The ribbon bleeds into being. The writer's hands hover at keys, unsure if they control this anymore. Late night desk lamp casting harsh pool of light, noir shadows, amber and cream tones, 8K, the fiction that writes itself.",
+    "title": "Typewriter Art Manifestation Scene",
+    "description": "A creative prompt for generating an image in the style of typewriter art, where the subject materializes from the words being typed on a vintage machine. It emphasizes the subject being literally made of legible text, set in a noir-shadowed, late-night writer's desk environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495346945_ge342l_G_mDCO4bIAA1bL1.jpg",
+      "https://cms-assets.youmind.com/media/1769495347094_pclnwa_G_mDCbdWwAA5Gjk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"A massive banana split open like a high-tech gadget, outer peel made of shimmering nano-circuitry etched with glowing blue veins, inner fruit textured like fluffy pink cotton candy mixed with jagged crystal shards, floating in a cosmic void with starry nebulae in the background, dramatic volumetric lighting casting electric sparks, hyper-detailed, surreal, 4K resolution, ar: \"",
+    "title": "Surreal Nano-Circuitry Banana Split",
+    "description": "A prompt for generating a surreal, hyper-detailed image of a massive banana split open like a high-tech gadget. The prompt specifies materials like nano-circuitry, glowing veins, cotton candy, and crystal shards, set in a cosmic void with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769495386489_2dr2uq_G_kFvQaWYAAPXMv.jpg",
+      "https://cms-assets.youmind.com/media/1769495386470_itilo4_G_kFvQcWUAAFDyX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate custom illustrations on demand",
+    "title": "Instruction to Generate Custom Illustrations",
+    "description": "A simple instruction prompt for Nano Banana to generate custom illustrations on demand.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769236045789_eq15bp_G_YGVd0WsAAqyXu.jpg",
+      "https://cms-assets.youmind.com/media/1769236045807_vznt2h_G_YDN0tXsAAHfoK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Transformers --ar 4:5 --sref 1383516477\n--sw 100 --stylize 300 --v 6.1",
+    "title": "Midjourney Prompt for Transformers",
+    "description": "A Midjourney prompt provided as an example of using Nano Banana Pro to transform a robot image into a vehicle, although the prompt itself is a standard Midjourney text prompt for Transformers with specific aspect ratio and stylization settings.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769235955225_80resa_G_WLURoXkAM1Ixd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A surreal, photorealistic scene of a tiny adult man crouching barefoot on a green plastic bottle cap, cupping his hands to drink water pouring from the mouth of an enormous green plastic bottle. The bottle lies on its side atop a mossy stone ledge, releasing a steady stream of clear water. The setting is outdoors on a wet stone pathway with shallow puddles, soft reflections, and lush green trees blurred in the background. Cinematic depth of field, natural daylight, ultra-detailed textures, realistic water droplets, whimsical scale contrast, high realism, 8k quality.",
+    "title": "Surreal Whimsical Scale Contrast Scene Prompt",
+    "description": "A prompt for Nano Banana Pro to generate a surreal, photorealistic scene with extreme scale contrast. It depicts a tiny adult man crouching on a bottle cap, drinking water pouring from the mouth of an enormous green plastic bottle, set outdoors on a wet stone pathway with cinematic depth of field.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769235987338_c76kqq_G_ShsTGWkAA-US2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Vascular Effect Object",
+    "title": "Vascular Effect Object Prompt",
+    "description": "A short, descriptive prompt for generating an image featuring a 'Vascular Effect Object.' The specific object details are missing, making the prompt vague but suggesting a focus on biological or vein-like textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769149389198_5yitu7_G_S0LBcX0AAOUj_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "I want to create an image based on the proposition: \"Please create an image of how I have treated you so far.\"\nI would like to request the image generation AI (Nano Banana Pro) to create this image, so please provide the prompt.\nWhen including Japanese, please explicitly state it in the prompt.",
+    "title": "ChatGPT Prompt for Nano Banana Pro Image Generation",
+    "description": "A user asked ChatGPT Pro to create a prompt for Nano Banana Pro based on the philosophical statement: 'Please create an image of how I have treated you so far.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063239384_dj08m7_G_Kj3EYaoAI3Rai.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "If it's 'Good morning' it appears, but 'After this' doesn't come out properly.",
+    "title": "Japanese Text Generation Comparison (Oha-you)",
+    "description": "A comparison of Japanese text generation between Nijijourney and Nano Banana, noting that while simple greetings like 'おはよう' (Good morning) work, more complex phrases do not, suggesting a workflow where Nano Banana is used to correct or generate text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063235365_yjh5ze_G_KDGeOXUAA7w1s.jpg",
+      "https://cms-assets.youmind.com/media/1769063235498_iv9vvm_G_KDGXraoAAEYA8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Any person to urban caricature",
+    "title": "Simple Nano Banana Prompt for Urban Caricature",
+    "description": "A very short, high-level prompt for Nano Banana, instructing the model to transform any person into an urban caricature style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977364019_xi5mm0_G_IdQ6UWoAAvqXo.jpg",
+      "https://cms-assets.youmind.com/media/1768977364082_5gmvbs_G_IdR1nW4AA5Vru.jpg",
+      "https://cms-assets.youmind.com/media/1768977363992_o1ivzl_G_IdQDcXEAAv8up.jpg",
+      "https://cms-assets.youmind.com/media/1768977365044_v6tdqt_G_IdShkXwAACvUh.jpg",
+      "https://cms-assets.youmind.com/media/1768977365319_iwtb8v_G_IakNOWIAAuDxI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "You are a creator of \"Dan Koe Style Article Images + Extremely Minimalist Cognitive PPTs\".\nTask: Organize the [file/text/video transcription content] I provide into a script that can be directly converted into a PPT, and generate illustration prompts in the same style for each page (to be inserted into the slide after image generation).\nTarget Temperament: Solitude, exploration, existentialism, unknown abyss, extremely minimalist yet powerful; black and white high contrast, print-like line art, dense cross-hatching shadows, gigantic unknown + tiny human.\n[Output Language] Primarily Japanese, with small amounts of English keywords allowed if necessary (for illustration prompts).\n[Page Count] {argument name=\"page count\" default=\"10–15\"} pages (adjust according to content).\n[Screen Specification] 16:9; Each page must have a **horizontal banner image at the top (including summary text within the image)**.\n[Slide Principles]\n\n80% of the content should be understandable just by looking at the slide.\nThe title must be a concrete assertion, conclusion, or question (abstract words only are prohibited).\nThe context must be complete within 3-5 bullets.\n\n[Layout Rules]\n\nOnly one viewpoint is discussed per page.\nTitle ≤ 15 characters: In the form of a concrete assertion or question (e.g., \"The Trap of Specialization,\" \"Why Multiple Skills Now?\").\nInside the image: 3–5 bullets, each bullet ≤ 18 characters.\nOutside the image (bottom of the slide): 60-120 characters of \"Supplementary Explanation.\"\nOverall Uniformity: Black and white, white space, restraint, sharpness.\n\n[Fixed Illustration Style (Used on every page)]\n\npen-and-ink illustration / ink engraving / vintage etching\nmonochrome black & white, high contrast\nextreme micro-detail linework\nlayered cross-hatching (3–5 layers) + stippling\nscratchboard texture, paper grain\ndramatic chiaroscuro lighting, deep shadows, rich midtones, crisp highlights\nperfect pure black negative-space void (hole/black hole/door/abyss) as a visual anchor point\ntiny human/astronaut silhouette vs gigantic unknown\n\n[Uniform Negative Words (Added to the end of the illustration prompt on every page)] NEGATIVE: color, grayscale photo, realistic photography, soft airbrush, smooth shading, blur, low detail, flat lighting, cartoon, anime, cel shading, watermark, logo, credit, UI, frame\n[Content Generation Flow]\nFirst, summarize the \"core argument chain\" of the original content in 7–9 key points (following logical order).\n\nMap this to a 10–15 page PPT structure: Cover (1 page)\nStatus Quo/Problem Statement (1 page)\nKey Insight (1 page)\nCore Framework (2 pages)\nMethods and Steps (2–3 pages)\nCase/Contrast (1–2 pages)\nCommon Misconceptions (1 page)\nAction Checklist (1 page)\nClosing Maxim (1 page)\n\nEach page output must strictly follow the format below:\n\n[Slide X: Title (Concrete Assertion/Question)]\nText to display in the image:\n[Specific, easy-to-understand title: within 15 characters]\n\n- [Point 1: Specific content that explains what is being discussed: within 18 characters]\n- [Point 2: within 18 characters]\n- [Point 3: within 18 characters]\n- [Point 4: within 18 characters] (Optional)\nSupplementary Explanation (bottom of slide, 60-120 characters): [Briefly explain the background or specific examples for this slide. Speak in the first person.]\nIllustration Prompt (Strictly follow this format):\nA 16:9 horizontal pen-and-ink illustration. [Describe the scene details in 80-120 characters: location, state of person, gigantic element, light and shadow]. \n\nTHE BOTTOM 15-20% OF THE IMAGE MUST BE A SOLID BLACK HORIZONTAL BAR.\nThis black bar contains white Japanese text:\n- Title (centered): \"[Insert the title exactly as above]\"\n- Bullets (left-aligned):\n  • \"[Insert bullet 1 exactly as above]\"\n  • \"[Insert bullet 2 exactly as above]\"\n  • \"[Insert bullet 3 exactly as above]\"\n  [• \"[Insert bullet 4 exactly as above]\" (if applicable)]\n\nFont: Noto Sans JP Bold for title (48-56pt), Medium for bullets (28-32pt), all white text on black background. No logo, no credit, no watermark.\n\nStyle: Monochrome black & white, high contrast, extreme micro-detail linework, layered cross-hatching (3-5 layers), stippling, scratchboard texture, dramatic chiaroscuro lighting, deep shadows, crisp highlights, pure black void as visual anchor, tiny human silhouette vs gigantic unknown.\n\nNEGATIVE: color, grayscale photo, realistic photography, soft airbrush, smooth shading, blur, low detail, flat lighting, cartoon, anime, cel shading, watermark, logo, credit, UI, frame\nIllustration Composition Suggestion:\nSubject: [Position and state]\nUnknown Element: [Placement]\n\nLight Source: [Direction]\n\nRequired: Black bar + white text at the bottom 15-20%\n[Special Rule for Cover Page] The title must specifically indicate the main theme (e.g., \"Why Multiple Interests Are the Superpower of the New Era\") Subtitle or 3-4",
+    "title": "Ultimate Prompt for Dan Koe Style Presentation Slides (PPT) using Nano Banana Pro",
+    "description": "A highly detailed, multi-step system prompt designed to transform an article or text (like Dan Koe's) into a 10-15 page presentation script and generate corresponding image prompts for Nano Banana Pro. The style guide mandates a high-contrast, monochrome, etching/engraving aesthetic, focusing on themes of existentialism, the unknown, and the contrast between tiny humans and gigantic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977364402_jouxh7_G_GfoTWWMAA8del.jpg",
+      "https://cms-assets.youmind.com/media/1768977364096_xwqm3j_G_GfoT2WUAAiI4g.jpg",
+      "https://cms-assets.youmind.com/media/1768977364269_mwhkkl_G_GfoTgXMAAklLK.jpg",
+      "https://cms-assets.youmind.com/media/1768977366015_omcqu6_G_GfoTeW8AAxo3w.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Summarize in Thai and check for spelling errors too",
+    "title": "LLM Prompt for Summarizing and Reviewing Travel Plans",
+    "description": "A prompt designed for a Large Language Model (LLM) like Gemini to summarize a provided travel plan in Thai and perform a spelling check, intended for use within the Nano Banana Pro interface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804328136_9d4vhl_G-9XAARXUAEiG8l.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Transform the person in the photo into an ultra-realistic 4K medium-shot portrait of a determined arctic explorer. Subject is wearing a thick, white, fur-lined winter parka with a frosted hood. Emphasize realistic stubble, tousled hair lightly dusted with snow, and a visible breath plume. The background is a whiteout blizzard with soft, dramatic blue-tinted shadows and sharp, crisp focus on the face. Cinematic, hyper-detailed, high-contrast lighting.",
+    "title": "Arctic Explorer Close-Up Portrait",
+    "description": "A prompt for transforming a subject into an ultra-realistic 4K medium-shot portrait of a determined arctic explorer. It focuses on detailed textures like frosted fur, realistic stubble, and a visible breath plume, set against a whiteout blizzard with dramatic, high-contrast blue-tinted lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804313201_h8zzja_G-8hF25WIAA8hDY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Prompt Nano Banana Pro for wild 4K art/creatives",
+    "title": "Nano Banana Pro for 4K Art and Research Agents",
+    "description": "This tweet discusses the capabilities of Nano Banana Pro, mentioning its use for generating wild 4K art/creatives, running deep research agents, and generating Veo clips, suggesting it is a powerful, multi-modal AI tool with high rate limits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768717597416_8jp1sa_G-5q3DfWwAAgK1K.png"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Upload your image 💫",
+    "title": "Image Upload Prompt Placeholder",
+    "description": "A simple instruction indicating that the user needs to upload an image to proceed with the Gemini App's Nano Banana Pro feature.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768717562530_drqqvs_G-4E5bAW4AA7kHf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Turn any person into a pro sketch",
+    "title": "Person to Pro Sketch Transformation",
+    "description": "A simple, high-level prompt instructing the AI to transform any uploaded person's image into a professional sketch style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631162260_beguc7_G-zagK2XUAAeWgi.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Do not output in text, absolutely output as a Nano banana Pro image",
+    "title": "Forcing Image Output in Nano Banana Pro",
+    "description": "A tip for increasing the probability of image output: explicitly instructing the model to 'absolutely output in Nano banana Pro image, not text'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631215976_nnj0hm_G-wp4UpbkAAfQEh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Add some flaws, facial blemishes, (flour stains on the nose and cheeks). The foreign body sensation on the face will make the skin look more textured.",
+    "title": "Adding Imperfections to AI Images for Realism",
+    "description": "This tweet discusses the concept of adding imperfections (like flour stains) to AI-generated faces to increase texture and realism. It contrasts the performance of Seedream4_5 (better with Chinese prompts) and Nano Banana (better with English prompts) and includes a prompt fragment focused on adding facial flaws.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631209770_gme7r3_G-wFbG0bUAAiJz0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship.\n\nA {argument name=\"object\" default=\"[OBJECT]\"} serves as the central base of the composition. From within or above this object, a miniature interpretation of {argument name=\"location name\" default=\"[LOCATION NAME]\"} emerges naturally, forming a compact, self-contained world.\n\nThe scene highlights recognizable landmarks, terrain features, or symbolic structures associated with {argument name=\"location name 2\" default=\"[LOCATION NAME]\"}, arranged harmoniously and rendered with precise detail.\n\nMiniature roads, paths, or environmental elements flow through the scene, with tiny vehicles, figures, or subtle motion cues adding realism and life.\n\nUse cinematic lighting, soft highlights, and selective depth-of-field blur to create a magical, dreamlike atmosphere.\n\nBalance playful isometric styling with realistic materials and lighting, achieving a polished, premium diorama look.\n\nHighly detailed, cohesive composition with an 8K cinematic finish, refined miniature-world aesthetic.",
+    "title": "Object-Based Miniature City Diorama Prompt",
+    "description": "A prompt for generating a stylized, high-detail 3D miniature diorama where a miniature city emerges from or is built upon a central object, viewed from a 45-degree angle. It emphasizes clean geometry, realistic materials, and cinematic lighting to achieve a magical, dreamlike aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544759967_7mw6ll_G-tXpeqa4AA6CIU.jpg",
+      "https://cms-assets.youmind.com/media/1768544759966_fv5ou8_G-tXnPUbQAMgTEq.jpg",
+      "https://cms-assets.youmind.com/media/1768544760329_n3jkbq_G-tXoHAbUAAarQ-.jpg",
+      "https://cms-assets.youmind.com/media/1768544761195_2hn7zv_G-tXqxsbQAU_shp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The application is now capable of automatically filtering all dangerous vocabulary, using safe alternative words, and ensuring that the generated prompt complies with platform risk control requirements.\n\nAbsolutely forbidden vocabulary:\n\nCategory Disabled Words\nEnergy/Special Effects: lightning, electric, energy, spark, voltage, current\nCombat/Conflict: attack, battle, fight, punch, kick, strike, combat, clash\nHazardous Elements: fire, flame, explosion, weapon, sword, knife, gun\nNegative Emotions: fierce, intense, aggressive, violent, rage, angry, scream, panic\nBody Horror: glowing eyes, red eyes, blood, wound, transform, distort\nMandatory Safe Alternative Words\nOriginal Word / Alternative Word\nlightning/electric: soft light, warm light, ambient light\nfight/attack: move toward, approach, interaction\nfierce/intense: warm, calm, gentle, peaceful\nexplosion/fire: bloom, brighten, illuminate, radiate\nangry/rage: concerned, surprised, amazed, excited\nEvery prompt must contain at least 2 safe words:\ngentle, soft, calm, peaceful, warm, bright, smooth, quiet, serene, beautiful, lovely, sweet, slowly, smoothly, gracefully",
+    "title": "Nano Banana Pro Safety Filter Bypass and Safe Prompting Strategy",
+    "description": "This is not a prompt itself, but a meta-prompting strategy designed to prevent image generation failures due to triggering Google Nano Banana Pro's safety filters (Safety Filter/Risk Control). It instructs the model to automatically filter dangerous words, use safe alternatives, and ensures the generated prompt meets platform requirements. It also lists explicitly forbidden categories and mandatory safe replacement words that must be included in every prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631207210_pbvycu_G-tPCQ0bQAQ7uNb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "'Transform this artwork into a 4K photo'",
+    "title": "Artwork to 4K Photo Transformation Prompt",
+    "description": "A simple text prompt used to instruct an AI model to transform an existing piece of artwork into a high-resolution 4K photo, likely used for image-to-image or style transfer tasks.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544797128_r1m28a_G-s-U8YX0AAcoi3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"scene_setup\": {\n    \"event\": \"{argument name=\"historical event\" default=\"1887 Yellow River Flood, China\"}\",\n    \"composition\": \"Cinematic wide-angle aerial view with extreme depth of field\",\n    \"perspective\": \"High-angle panoramic view looking down at a landscape of devastation\",\n    \"lighting\": \"Atmospheric, diffused light through heavy storm clouds, dramatic 'god rays' breaking through mist\"\n  },\n  \"environment_details\": {\n    \"water\": {\n      \"texture\": \"Violent, churning, opaque muddy water with frothing white crests\",\n      \"dynamics\": \"Raging torrents, whirlpools, and massive waterfalls cascading over breached dikes\",\n      \"color\": \"Silty brown, ochre, and murky grays\"\n    },\n    \"architecture\": {\n      \"structures\": \"Traditional 19th-century Chinese village houses with dark tiled gabled roofs\",\n      \"state\": \"Submerged to the eaves, partially collapsed, or splintered into floating timber debris\",\n      \"infrastructure\": \"Massive stone and earth dikes (levees) shown in mid-collapse with water surging through breaches\"\n    },\n    \"landscape\": {\n      \"foreground\": \"Swirling debris, rooftops crowded with survivors, and makeshift rafts\",\n      \"middle_ground\": \"Vast flooded plains, isolated patches of still-intact green and yellow farmland\",\n      \"background\": \"Jagged, silhouettes of ancient mountains shrouded in dense rain clouds and mist\"\n    }\n  },\n  \"human_elements\": {\n    \"subjects\": \"Large groups of desperate villagers in period-accurate Qing Dynasty peasant clothing\",\n    \"actions\": \"Clinging to slippery roof tiles, navigating overloaded wooden rafts with long poles, reaching out in distress\",\n    \"emotional_tone\": \"Resilience amidst tragedy, frantic movement, and somber survival\"\n  },\n  \"artistic_style\": {\n    \"aesthetic\": \"Historical realism blended with dramatic epic fantasy\",\n    \"color_palette\": \"Desaturated earth tones, sepia-tinted yellows, deep slate grays, and muted forest greens\",\n    \"technical_specs\": \"Ultra-high resolution, 8k, detailed brushwork, matte painting style, high contrast between dark storm clouds and white water foam\"\n  }\n}",
+    "title": "Historical Epic Scene: 1887 Yellow River Flood",
+    "description": "A highly detailed prompt for generating a cinematic, wide-angle aerial view of the catastrophic 1887 Yellow River Flood, focusing on environmental devastation, period-accurate human elements (Qing Dynasty peasants), and an artistic style blending historical realism with epic fantasy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544809376_h4i1be_G-sHG1sbQAM9Ns3.jpg",
+      "https://cms-assets.youmind.com/media/1768544809352_sr5bpf_G-sHG1ya0AAhSLr.jpg",
+      "https://cms-assets.youmind.com/media/1768544809385_0tcmmn_G-sHG1uagAAAfmU.jpg",
+      "https://cms-assets.youmind.com/media/1768544811523_xxc5dv_G-sHG3RbQAAo_aa.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Ultra-realistic macro scene depicting tiny restoration workers collaboratively repairing an antique pocket watch. Several figures delicately clean intricate brass gears using fine brushes, while others stabilize the open watch casing and hold miniature components in place. The pocket watch lies on a textured natural surface, such as weathered wood or stone, emphasizing age and history. The scene symbolizes time, patience, craftsmanship, and teamwork.\",\n  \"style\": {\n    \"photography_type\": \"Macro photography\",\n    \"realism\": \"Ultra-realistic\",\n    \"mood\": \"Emotional and cinematic\",\n    \"lighting\": \"Soft, warm, directional lighting with gentle highlights and natural shadows\",\n    \"depth_of_field\": \"Shallow depth of field with sharp focus on foreground details and smooth background bokeh\"\n  },\n  \"composition\": {\n    \"shot_type\": \"Close-up macro\",\n    \"angle\": \"Slightly elevated perspective\",\n    \"focus\": \"Extreme detail on gears, tools, and figurines’ interactions\",\n    \"framing\": \"Pocket watch centered with workers distributed naturally across the mechanism\"\n  },\n  \"textures_and_details\": {\n    \"materials\": \"Aged metal, polished brass gears, worn leather strap, natural surface grain\",\n    \"details\": \"Visible dust particles, subtle scratches, fingerprints, and mechanical wear\"\n  },\n  \"atmosphere\": {\n    \"tone\": \"Warm, nostalgic, hopeful\",\n    \"symbolism\": \"Restoration of time through collective effort and care\"\n  },\n  \"render_settings\": {\n    \"aspect_ratio\": \"4:5\",\n    \"quality\": 2,\n    \"resolution\": \"High-resolution\",\n    \"style_precision\": \"Professional studio-level composition\"\n  }\n}",
+    "title": "Macro Photography of Tiny Restoration Workers",
+    "description": "A prompt for generating an ultra-realistic macro photograph depicting tiny restoration workers collaboratively repairing an antique pocket watch. The scene symbolizes teamwork and craftsmanship, emphasizing extreme detail on the gears, tools, and the aged textures of the watch and the surface it rests on, using shallow depth of field and warm, directional lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544821469_xdsfb8_G-q3CvkbQAQ7cGg.jpg",
+      "https://cms-assets.youmind.com/media/1768544821533_dehabr_G-q3CwtbQA4BjQA.jpg",
+      "https://cms-assets.youmind.com/media/1768544821511_wvv9lx_G-q3CvkbQAUkHzF.jpg",
+      "https://cms-assets.youmind.com/media/1768544823744_xzrudv_G-q3C3qbsAALeyn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Recreate this image in a realistic style",
+    "title": "Recreate Image in Realistic Style",
+    "description": "A simple instruction prompt for the AI to take an attached image and recreate it in a realistic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468562891_dpkr4a_G-pE6adbQAEcDkr.jpg",
+      "https://cms-assets.youmind.com/media/1768468562900_0y0zfx_G-pE7rqW8AA6i5e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A [{argument name=\"ordinary object\" default=\"ORDINARY OBJECT\"}] as a landmark on an epic journey, tiny [TRAVELERS] resting in its shadow after crossing vast distances visible behind them. Caravans, pack animals, exhausted families. The object marks the halfway point, or the border, or the promised destination. Graffiti and carvings from generations of previous travelers cover its surfaces. Offerings left at its base. Some travelers stay, building permanent settlement. Others push on. Golden hour lighting, dust from the journey still settling, the mundane as waypoint.",
+    "title": "Migration Monument Concept Prompt",
+    "description": "A conceptual prompt designed for Adobe Firefly, instructing the AI to render an ordinary object as an epic landmark marking a migration journey. The scene should include tiny travelers, graffiti, offerings, and be set during golden hour with dust settling.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468528827_kfbxed_G-orOCfWIAEKzgG.jpg",
+      "https://cms-assets.youmind.com/media/1768468529850_7lxyq5_G-orDmSWcAAtfpc.jpg",
+      "https://cms-assets.youmind.com/media/1768468529151_p3gfpl_G-orWjoW0AAGylx.jpg",
+      "https://cms-assets.youmind.com/media/1768468530935_mj75k3_G-orfluXAAA4Blr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"Objective\": \"Create a breathtaking cinematic winter portrait depicting a deep, primal bond between a woman and a wolf\",\n  \"PersonaDetails\": {\n    \"HumanSubject\": {\n      \"Type\": \"Young woman\",\n      \"Position\": \"Standing closely behind the wolf\",\n      \"Expression\": \"Intense, calm, soulful\",\n      \"Gaze\": \"Direct eye contact with the camera\",\n      \"Skin\": {\n        \"Tone\": \"Pale\",\n        \"Details\": \"Subtle freckles, natural texture, soft rose-tinted lips\"\n      },\n      \"Hair\": {\n        \"Style\": \"Long dark hair\",\n        \"Details\": \"Lightly dusted with falling snow\"\n      },\n      \"Wardrobe\": {\n        \"Outerwear\": \"Heavy winter coat\",\n        \"Details\": \"Fur-lined hood blending naturally into the snowy environment\"\n      }\n    },\n    \"AnimalSubject\": {\n      \"Type\": \"Majestic gray wolf\",\n      \"Expression\": \"Calm, powerful, watchful\",\n      \"Eyes\": \"Golden, sharp, intelligent\",\n      \"Fur\": {\n        \"Texture\": \"Thick winter coat\",\n        \"Details\": \"Frosted with snowflakes and icy highlights\"\n      }\n    }\n  },\n  \"RelationshipAndTheme\": {\n    \"Concept\": \"Deep emotional and primal bond between human and animal\",\n    \"Symbolism\": \"Trust, protection, wilderness, shared spirit\",\n    \"Connection\": \"Perfect visual and emotional symmetry\"\n  },\n  \"SceneDescription\": {\n    \"Environment\": \"Snowy forest\",\n    \"Weather\": {\n      \"Condition\": \"Gentle snowfall\",\n      \"Atmosphere\": \"Cold mist in the air\"\n    },\n    \"Background\": {\n      \"Elements\": \"Snow-covered trees\",\n      \"Treatment\": \"Softly blurred for cinematic depth\"\n    }\n  },\n  \"Composition\": {\n    \"Framing\": \"Tight cinematic portrait\",\n    \"Symmetry\": \"Strong centered composition with aligned faces\",\n    \"DepthOfField\": \"Shallow depth of field\",\n    \"Focus\": \"Ultra-sharp focus on eyes of both subjects\"\n  },\n  \"LightingAndMood\": {\n    \"Lighting\": \"Soft natural overcast winter light\",\n    \"ShadowQuality\": \"Gentle, diffused shadows\",\n    \"ColorGrading\": \"Cinematic cool winter tones with subtle warmth in skin and eyes\",\n    \"Mood\": \"Dramatic yet serene, mystical, powerful\"\n  },\n  \"ArtDirection\": {\n    \"Style\": \"Fine-art wildlife and cinematic portrait photography\",\n    \"Aesthetic\": \"Epic, timeless, emotionally charged\",\n    \"TextureEmphasis\": [\n      \"Natural skin texture\",\n      \"Fur detail\",\n      \"Snowflakes and frost\"\n    ]\n  },\n  \"PhotographyStyle\": {\n    \"Genre\": \"Cinematic fine-art wildlife portrait\",\n    \"RealismLevel\": \"Ultra-realistic\",\n    \"DetailLevel\": \"8K-quality detail with cinematic softness\"\n  },\n  \"Mood\": {\n    \"Tone\": \"Quiet intensity, mystery, reverence for nature\",\n    \"EmotionalImpact\": \"Awe, connection, primal calm\"\n  },\n  \"NegativePrompt\": [\n    \"aggressive wolf\",\n    \"fearful expression\",\n    \"cartoon\",\n    \"fantasy illustration style\",\n    \"oversaturated colors\",\n    \"harsh lighting\",\n    \"plastic skin\",\n    \"low detail\"\n  ],\n  \"ResponseFormat\": {\n    \"Type\": \"Single image\",\n    \"Orientation\": \"Portrait\",\n    \"AspectRatio\": \"2:3\"}",
+    "title": "Cinematic Winter Portrait: Woman and Wolf",
+    "description": "A highly detailed prompt for generating an ultra-realistic, cinematic fine-art portrait depicting a deep, primal bond between a woman and a majestic gray wolf in a snowy forest. The focus is on emotional intensity, sharp focus on the eyes of both subjects, and soft, cool winter lighting with gentle snowfall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468547618_h91nkc_G-npoyXa4AAEHlO.jpg",
+      "https://cms-assets.youmind.com/media/1768468547607_dzusiq_G-npoyRbwAE2b48.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate image of God Mahadev shaped by triangles with same style & colors of God Mahadev with hindi text \"हर हर महादेव\" written by triangles",
+    "title": "Mahadev Triangle Art Prompt",
+    "description": "A prompt for generating an image of the Hindu deity God Mahadev (Shiva) where the figure is shaped entirely by triangles, maintaining the deity's style and colors, and including the Hindi text 'हर हर महादेव' also formed by triangles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768225993918_5457mx_G-ZumdgbcAAaynn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A half-finished marble sculpture in a dusty Renaissance workshop, with the [{argument name=\"subject\" default=\"SUBJECT\"}] emerging from the raw stone block in a breathtaking moment of creation becoming conscious. The figure is rough chisel marks at the base, transitioning through refined carving into impossibly lifelike flesh at the extremities. [{argument name=\"key features\" default=\"KEY FEATURES\"}] have achieved full life while the torso remains trapped in stone, mid-escape. Marble dust swirls in shaft lighting as if the awakening itself is generating atmosphere. The [{argument name=\"subject\" default=\"SUBJECT\"}] reaches forward, fingers transitioning from carved to living. Sculptor's tools scattered on wooden platforms: chisels, mallets, calipers, clay maquettes. Unfinished companion pieces watch from the shadows. The Pygmalion moment frozen. Cathedral-height workshop windows casting dramatic god-rays, cool marble tones warming to flesh, 8K, Bernini meets cinema.",
+    "title": "Sculptor's Awakening Cinematic Scene Prompt",
+    "description": "A highly descriptive prompt for generating a cinematic image of a half-finished marble sculpture in a Renaissance workshop. The prompt focuses on the dramatic moment the subject emerges from the raw stone, transitioning from carved marble to lifelike flesh, emphasizing lighting, atmosphere, and scattered tools.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768225947013_oaqlxn_G-W-tYLWAAAjeUc.jpg",
+      "https://cms-assets.youmind.com/media/1768225947490_u1eqzc_G-W-6B8XcAArBtc.jpg",
+      "https://cms-assets.youmind.com/media/1768225947853_8xoyhe_G-W-l-oWQAATF8N.jpg",
+      "https://cms-assets.youmind.com/media/1768225949397_jf0a9w_G-W_AouXcAAcfi6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "<instruction>\nInput A is Qiu Ying's Ming Dynasty masterpiece \"Fairyland of Peach Blossoms\" (Tao Yuan Xian Jing Tu). Analyze: The \"Blue-and-Green\" (Qinglü) landscape style, the meticulous \"Gongbi\" brushwork, the use of mineral pigments (Azurite and Malachite), and the ethereal atmosphere of the towering mountains and white clouds.\nGoal: A \"Pigment Tube Squeeze.\" A giant, realistic tube of \"Mineral Azurite Blue\" (Shi Qing) paste sitting on a sheet of antique silk.\nRules:\nAction: The tube is being squeezed, and the medium coming out is a thick, granular paste of vibrant Azurite Blue and Malachite Green. It flows out to form a majestic 3D landscape. The towering, craggy mountains are rising from the paint flow, surrounded by white clouds formed from white pigment. Tiny figures of scholars playing the zither (guqin) inside a cave and twisted pine trees are emerging in delicate 3D relief from the mineral paste.\nTexture: Thick, matte mineral pigment texture (slightly granular/powdery look), distinct from the oily gloss of Western paint.\nProps: Fine-point Chinese brushes (Wolf-hair brushes), a ceramic bowl with ground mineral powder, an ink stone (Suzuri), a red seal (chop), and a tiny 3D printed version of Qiu Ying (in Ming Dynasty Hanfu) standing on the desk painting on a scroll. An unrolled silk handscroll is visible underneath.\nLighting: Soft, diffused, natural lighting that highlights the vibrant mineral colors without harsh reflections.\nOutput: ONE image, 4:5, \"artistic process\" aesthetic.\n</instruction>",
+    "title": "Chinese Landscape Painting Pigment Squeeze",
+    "description": "A highly creative prompt that instructs the AI to generate an image based on a Ming Dynasty painting style (Qiu Ying's 'Fairyland of Peach Blossoms'). The goal is to visualize a giant tube of mineral pigment being squeezed out, forming a 3D landscape of mountains and clouds in the traditional 'Blue-and-Green' style, complete with traditional Chinese art props.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768225972225_j2atp0_G-Yxuw1aUAAuC2M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Let's remember how it was",
+    "title": "Nano Banana Pro Prompt for Remembering the Past",
+    "description": "A simple prompt shared for the Nano Banana Pro tool, encouraging users to remember how things were, though the actual content of the prompt is not provided in the text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768226121944_o4uua4_G-Ywu2DXYAABZAt.jpg",
+      "https://cms-assets.youmind.com/media/1768226122091_loob8l_G-Ywv84WUAA4FE4.jpg",
+      "https://cms-assets.youmind.com/media/1768226122130_n8axkc_G-YwtVEWoAE_H-N.jpg",
+      "https://cms-assets.youmind.com/media/1768226125524_lu9xo9_G-Yww5RWEAAZmUd.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a hyper-realistic, cinematic, surreal art piece in 8K resolution, featuring the main subject from the uploaded reference image. The subject is dressed in a stylish, layered streetwear look with a black bomber jacket over a charcoal hoodie, dark cargo pants, and high-top sneakers, accessorized with sunglasses and a watch. He is captured mid-stride, walking confidently towards the camera, with his gaze slightly upward and to the side, observing the bending world around him. The surreal scene takes place on a city street that bends upwards dramatically in the distance, curving infinitely into the sky and folding over completely upside down above his head. Cars and pedestrians defy gravity, walking and driving along the vertical, upside-down sections of the architecture. The world around him twists and warps seamlessly, reflecting the impossible geometry of the scene. The lighting is dramatic, with golden hour sunset tones casting long shadows and highlighting the bending city’s surreal architecture.",
+    "title": "Surreal Bending City Streetwear Portrait",
+    "description": "A prompt for creating a hyper-realistic, cinematic, surreal art piece in 8K resolution. It features a subject in stylish streetwear walking confidently on a city street that dramatically bends and folds infinitely into the sky, with cars and pedestrians defying gravity, requiring a reference image for the main subject's identity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768225989617_s9my4y_G-YD71pbUAAOluu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a minimalist mixed-media illustration that combines a simple black line drawing of a detailed human eye with eyelashes and eyebrow with a real-world object, a {argument name=\"marble color\" default=\"blue\"} glass marble with swirling patterns, strategically placed to represent a key element in the artwork. The marble becomes the eye's vivid iris and pupil. The object should be seamlessly integrated and visually meaningful in a mesmerizing way. Use a clean, {argument name=\"background color\" default=\"white\"} or off-white background for contrast, and ensure the lines are clear and the object stands out naturally.",
+    "title": "Minimalist Mixed-Media Eye Illustration",
+    "description": "A prompt for creating a minimalist mixed-media illustration where a detailed black line drawing of a human eye is combined with a real-world object—a blue glass marble—to represent the iris and pupil, emphasizing seamless integration and contrast against a clean background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768225969479_nkv4lb_G-YATdQbgAArbyE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Character settings (change this)\n*Please enter the characteristics of the character you want to draw in the {参照キャラクターの説明} section below.\nSettings:\n{参照キャラクターの説明}: {argument name=\"character features\" default=\"Brown hair, short twin tails, red eyes, slightly pointed teeth (giza teeth).\"}\n\nGeneration prompt (text to input into the image generation AI)\n*Please use the following prompt, including the content of {参照キャラクターの説明} above.\nPrompt:\n(masterpiece, best quality, photorealistic:1.3),\nA whole watermelon carved in the center with [ {argument name=\"character features\" default=\"Brown hair, short twin tails, red eyes, slightly pointed teeth (giza teeth).\"} ],\n\n(oblique angle:1.4), (3/4 view:1.3), (side view:1.2),\nComposition capturing the watermelon from an oblique front angle, stem not visible,\n\n(Intricate Thai fruit carving style:1.4),\n(sculpted eyes made of watermelon skin:1.6),\n(eyes are expressed only by carving lines and negative space:1.5),\n(no color in eyes, monochromatic eyes:1.5),\nEyes expressed only by the uncarved skin and the step difference of the white part,\nEye color is the natural color of the watermelon material,\n\n(deep carving exposing red flesh in the background patterns:1.5),\nDeeply carved red flesh gradient in the pattern areas,\nContrast of the three colors: green skin, white mesocarp, and red flesh,\nElegant rose and geometric relief patterns surrounding the character's face, arabesque patterns and flower carvings,\nThree-dimensional spiral patterns utilizing the contrast between the green skin and the white layer,\nArtisan skill, texture of the carving knife,\n\nPlaced on a silver tray on a tablecloth,\nVarious fresh fruits such as strawberries, grapes, oranges, and berries are lavishly arranged around the watermelon,\nDepth of field, bright natural light, vibrant colors, close-up, high-resolution photo, 8k\n\nNegative prompt (elements to exclude)\nNegative prompt:\n(stem:1.5),iris, pupil color, makeup, painted, skin tone, colored hair, illustration, drawing, 2d, smooth skin, plain watermelon skin, simple background, text, watermark, low quality",
+    "title": "Photorealistic Watermelon Carving of an Original Character (OC)",
+    "description": "A detailed image generation prompt for Nano Banana Pro that creates a photorealistic image of a whole watermelon carved in the intricate Thai fruit carving style, featuring an Original Character (OC) design. The prompt specifies complex details like the use of negative space for eyes, deep carving to expose the red flesh, and surrounding floral reliefs.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768226100650_1trgti_G-X2Cm1bIAAHZGr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a Shiv or any God by drones in sky",
+    "title": "Shiv/God Created by Drones in Sky",
+    "description": "A simple prompt requesting the generation of an image depicting a Hindu deity, specifically Lord Shiv or any God, formed by a swarm of drones flying in the night sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768226028175_i60f2m_G-WCBZ8asAEevc_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Brands in 19th century",
+    "title": "Brands in 19th Century Prompt",
+    "description": "A simple text prompt intended to generate images of modern brands reimagined in a 19th-century aesthetic, likely for visual humor or historical mashups.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767967449114_50p0bu_G-KiAwVWsAAlnjm.jpg",
+      "https://cms-assets.youmind.com/media/1767967449576_dbtx00_G-KiA-IWUAAcp-D.jpg",
+      "https://cms-assets.youmind.com/media/1767967450908_8vsnoa_G-KiBZfWcAA4uwG.jpg",
+      "https://cms-assets.youmind.com/media/1767967451968_sb8x71_G-KiHLoWcAAO6qp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Modern brands in 19th century",
+    "title": "Modern Brands in 19th Century Prompt",
+    "description": "A simple prompt for generating images that depict modern brand aesthetics transposed into a 19th-century setting or style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767967461787_9eb31p_G-KdTQ9XwAA5kTY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"render_settings\": {\n    \"realism_level\": \"Ultra-photorealistic\",\n    \"texture_quality\": \"8k\",\n    \"lighting_simulation\": \"Ray-traced studio lighting\"\n  },\n\n  \"global_assets\": {\n    \"subject_definition\": {\n      \"identity_reference\": \"{argument name=\"celebrity name\" default=\"Sydney Sweeney\"} (exact likeness)\",\n      \"identity_lock\": \"Strict facial identity preservation\",\n      \"face_structure\": {\n        \"bone_structure\": \"Softly rounded face shape with defined but youthful cheekbones, rounded jawline\",\n        \"nose\": \"Button nose with a slightly rounded tip\",\n        \"eyes\": \"Large, rounded 'doe eyes' (distinctive blue hue), heavy-lidded with a sleepy, sultry bedroom stare\",\n        \"lips\": \"Very full, pouty, pillow-soft lips\"\n      },\n      \"hair\": {\n        \"style\": \"Voluminous blonde bombshell waves with a deep side part\",\n        \"texture\": \"Soft, tousled texture with movement and shine\",\n        \"behavior\": \"Cascading around shoulders and framing the face\"\n      },\n      \"complexion\": {\n        \"skin_texture\": \"Hyper-realistic smooth skin with visible pores and natural flush\",\n        \"finish\": \"Dewy, fresh radiance\",\n        \"makeup\": {\n          \"cheeks\": \"Rosy flushed cheeks, soft highlight\",\n          \"lips\": \"Moisturizing peachy-pink balm or soft gloss\",\n          \"eyes\": \"Soft smudged brown eyeliner, voluminous lashes, natural fluffy brows\"\n        }\n      },\n      \"wardrobe\": {\n        \"item\": \"Mini dress with corset-style bodice\",\n        \"fit\": \"Form-fitting, accentuating curves\",\n        \"fabric\": {\n          \"material\": \"Stretch jersey or soft ribbed knit\",\n          \"tactility\": \"Soft, matte finish that catches light gently\",\n          \"color\": \"{argument name=\"dress color\" default=\"Ivory\"}, pale baby blue, or soft cream\"\n        },\n        \"details\": \"Thin straps, structured bustier seam details, mid-thigh length\"\n      }\n    },\n\n    \"environment_definition\": {\n      \"studio_setup\": {\n        \"background\": \"Seamless warm off-white studio backdrop\",\n        \"atmosphere\": \"Clean, cinematic, intimate luxury studio, slightly ethereal\"\n      },\n      \"lighting_rig\": {\n        \"key_light\": \"Large softbox (Front-Left) creating soft flattering light\",\n        \"fill_light\": \"Soft reflector (Right) to open up shadows\",\n        \"highlights\": \"Dewy highlights on cheekbones, bridge of nose, cupid's bow, and shoulders\"\n      }\n    }\n  },\n\n  \"panel_architecture\": [\n    {\n      \"position\": \"Top-Left (1)\",\n      \"shot_type\": \"Extreme Close-Up (Macro)\",\n      \"composition\": {\n        \"angle\": \"Slight low angle\",\n        \"focus\": \"Lips and lower face\",\n        \"depth_of_field\": \"Ultra-shallow\"\n      },\n      \"action\": {\n        \"primary\": \"Eating a strawberry\",\n        \"nuance\": \"Slow, innocent yet sensual bite, emphasizing pouty lips\"\n      }\n    },\n    {\n      \"position\": \"Top-Right (2)\",\n      \"shot_type\": \"Medium Shot (Thigh-up)\",\n      \"composition\": {\n        \"angle\": \"Eye level\",\n        \"pose_dynamic\": \"Leaning slightly toward camera, shoulders relaxed\"",
+    "title": "Sydney Sweeney Ultra-Photorealistic Editorial Prompt",
+    "description": "A highly detailed JSON prompt for generating ultra-photorealistic images of Sydney Sweeney (with strict identity preservation). It defines her specific facial features, hair, makeup (dewy, rosy cheeks), wardrobe (corset mini dress), and a studio lighting setup, structured as a multi-panel architecture focusing on different close-up shots, including one of her eating a strawberry.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767804028363_z8p8zz_G9-Tqm1WAAAV23b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"tool\": \"NanoBanana Pro\",\n      \"task_type\": \"text_to_image_surreal_photoreal_concept_ad\",\n      \"version\": \"v3.0_MASCARA_CLEANUP_CLIMBER_CONCEPT\",\n      \"priority\": \"highest\"\n    },\n    \"output_settings\": {\n      \"aspect_ratio\": \"2:3\",\n      \"orientation\": \"portrait\",\n      \"resolution\": \"ultra_high_res\",\n      \"render_style\": \"ultra_photoreal_surreal_advertising\",\n      \"sharpness\": \"macro_crisp_skin_texture\",\n      \"film_grain\": \"none_or_minimal\",\n      \"color_grade\": \"clean_editorial_true_to_life\"\n    },\n    \"creative_prompt\": {\n      \"scene_summary\": \"Ultra-photoreal surreal concept advertising image: extreme macro close-up of a woman's face with eyes closed, showing a dramatic smudged black mascara/eyeshadow streak running down her cheek like a stain. A tiny rope-access window cleaner / climber is scaling her cheek as if it were a giant wall, actively scraping and cleaning the mascara stain with a small squeegee and brush.\\n\\nThe mini climber is fully detailed and realistic: safety harness, ropes, carabiners, helmet ({argument name=\"climber helmet color\" default=\"red\"}), gloves, tool belt, and a small red bucket hanging from the harness. The ropes run vertically across the face, anchored out of frame, with believable tension and shadows. The climber’s scale is believable (miniature), with correct perspective and contact shadows on skin.\\n\\nSkin texture is hyper-realistic: pores, fine vellus hairs, subtle peach fuzz, natural highlights, and realistic makeup texture. The mascara smear has wet-to-dry texture variation with tiny flakes and glossy patches. The cleaner area shows a subtle 'wiped' path with different sheen, as if the stain is being removed.\\n\\nLighting: soft daylight from one side, creating gentle shadows that reveal skin texture and the climber’s depth; no harsh flash. Background is out of frame; only the face fills the composition. Mood: clever, premium, modern beauty ad concept, minimal yet striking.\"\n    },\n    \"composition\": {\n      \"layout\": \"single frame macro close-up, face fills frame, climber placed on cheek near the smear\",\n      \"framing\": \"eye, cheek, and partial lips visible; strong negative space avoided\",\n      \"focus\": \"eyelashes, mascara smear, and climber tack sharp; slight falloff toward edges\"\n    },\n    \"lighting_and_camera\": {\n      \"lighting\": \"soft directional daylight + gentle fill\",\n      \"lens\": \"100mm macro look\",\n      \"aperture\": \"f/8 (macro sharpness)\",\n      \"iso\": \"100\",\n      \"shutter\": \"1/160\"\n    },\n    \"hard_constraints\": [\n      \"ONE face only (female), eyes closed\",\n      \"photoreal macro skin texture (pores, fine hairs)\",\n      \"dramatic smudged mascara streak on cheek\",\n      \"ONE miniature rope-access climber cleaning the smear\",\n      \"visible ropes, harness, carabiners, tools, red bucket\",\n      \"correct perspective and contact shadows\",\n      \"no text, no logos, no watermark\",\n      \"no extra people\"\n    ],\n    \"negative_prompt\": []\n  }",
+    "title": "Surreal Macro Beauty Ad Concept",
+    "description": "A highly specific, ultra-photorealistic macro prompt for a surreal advertising concept, depicting a miniature window cleaner scaling a woman's cheek to clean a smudged mascara stain, focusing on extreme detail, realistic skin texture, and precise perspective/shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767804043804_443w5h_G99zLvgXEAEx-x7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Portrait Of A Person From Input Photo In A Dramatic Low-key Studio Setting, Framed Vertically In A Tight Close-up From Upper Chest To Just Above The Beanie, Background Falling Into Pure Matte Black (#000000) The Subject Faces Camera, But Turns Slightly So Only One Eve Is Visible, Raising One Hand To Partially Cover The Face With Spread Fingers, The Visible Eye Staring Intensely Through The Gap While The Rest Of The Face Disappears Into Shadow; Expression Serious And Enigmatic Style Them In A Ribbed Knit Beanie And Simple Dark T-shirt For Subtle Detail Light The Scene With A Single Hard, Focused Key Light From High Camera-right, Cool-neutral (-5200k But Rendered In Monochrome), Carving Sharp Highlights Along The Lit Side Of The Beanie, Fingers, Eye Cheekbone, And Rim Of The Ear, While The Opposite Side Of The Face And Background Fall Into Deep Shadow For Extreme Contrast And Strong Chiaroscuro Shoot With An {argument name=\"lens focal length\" default=\"85mm\"} Lens At Around {argument name=\"aperture\" default=\"F/2\"}, Keeping The Eye And Top Of The Hand Crisply In Focus While The Rest Gently Softens, Emphasizing Skin Texture, Fabric Grain Of The Beanie, And Fine Stubble With A Delicate Film-grain Overlay Convert To Rich Black-and-white With Deep Blacks And Luminous Midtones For A Moody, Fashion-editorial, Almost Noir Atmosphere Editorial Modern, High-detail, Cinematic Composition, Ultra-realistic Textures, Professional Fashion Photography Style",
+    "title": "Dramatic Low-Key Monochrome Portrait Prompt",
+    "description": "A prompt for generating a dramatic, high-contrast black and white portrait in a low-key studio setting, emphasizing chiaroscuro lighting. It specifies framing (tight close-up, vertical), pose (partially covering the face with spread fingers), and technical details (85mm lens, f/2 aperture, film grain overlay) to achieve a moody, fashion-editorial noir atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767804013829_y4lxiq_G98vCOYbcAETm4P.jpg",
+      "https://cms-assets.youmind.com/media/1767804014511_ot1as7_G98u_dzbcAA_ZH_.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A high resolution black and white portrait of a girl wearing a sharp black turtle neck and chic small gold earrings along with Korean bun. She stands confidently in minimal studio setting slightly to the side dramatic studio lighting creates bold geometric shadows on her face and background strong cross beams of light. Cut through the shadows her expression is calm introspective and slightly distant the image has cinematic, high quality nor tone with high contrast and fine detail on her face and suits texture soft brokeh background portrait (9:16) 8K resolution",
+    "title": "Minimalist Window Light Black and White Portrait Prompt",
+    "description": "A prompt for generating a high-resolution black and white portrait focusing on dramatic, geometric shadows created by strong cross beams of light in a minimalist studio setting. It specifies the subject's attire (black turtleneck, Korean bun) and aims for a cinematic, high-contrast, introspective mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767804022314_1e2i5q_G98Ro_XboAEY3JB.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt_configuration\": {\n    \"type\": \"ultra-photorealistic_portrait\",\n    \"aspect_ratio\": \"3:4\",\n    \"quality_level\": \"8k_uhd\"\n  },\n  \"subjects\": [\n    {\n      \"id\": \"subject_1_left\",\n      \"demographics\":  \" {argument name=\"subject 1 name\" default=\"Venezuela President\"} \"\n      \"apparel\": {\n        \"outfit\": \"Grey heathered technical fleece tracksuit (hoodie and matching joggers)\",\n        \"accessories\": [\n          \"Large black ear defenders with red accents worn over ears\",\n          \"Dark tinted tactical safety glasses/goggles\",\n          \"Grey harness or strap system hanging loosely around the neck\",\n          \"Black wrist watch on left wrist\"\n        ]\n      },\n      \"pose\": \"Standing relaxed, holding a clear plastic water bottle with both hands at chest height, neutral expression, looking slightly off-camera or through tinted lenses\",\n      \"vibe\": \"Nonchalant, tactical yet casual, tired but focused\"\n    },\n    {\n      \"id\": \"subject_2_right\",\n      \"demographics\": \" {argument name=\"subject 2 name\" default=\"Elon Musk\"} handsome features\",\n      \"apparel\": {\n        \"outfit\": \"fitted dark navy blue suit, crisp white dress shirt, solid navy blue tie\",\n        \"style\": \"Formal business attire, sharp tailoring\"\n      },\n      \"pose\": \"Leaning in friendly towards subject 1, right arm draped over subject 1's shoulders, left hand raised in a V-sign (peace sign) gesture, smiling warmly at the camera\",\n      \"vibe\": \"Enthusiastic, fan-like, polished, contrasting with subject 1\"\n    }\n  ],\n  \"environment\": {\n    \"setting\": \"Industrial locker room or shooting range preparation area\",\n    \"elements\": [\n      \"Row of grey metal lockers on the left\",\n      \"Dark pegboard or acoustic mesh wall paneling in the background\",\n      \"Utilitarian aesthetic\",\n      \"Slightly cluttered background with indistinct hanging equipment\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"Indoor artificial with fill flash\",\n    \"characteristics\": [\n      \"Soft direct lighting on faces\",\n      \"Slight shadows cast behind subjects\",\n      \"Cool-toned ambient light mixed with warmer skin tones\",\n      \"Reflections on the plastic water bottle and safety glasses\"\n    ]\n  },\n  \"camera_details\": {\n    \"shot_type\": \"Medium shot (waist up)\",\n    \"lens\": \"50mm prime lens\",\n    \"aperture\": \"f/2.8 for slight depth of field blurring the background lockers\",\n    \"film_stock_emulation\": \"Kodak Portra 400\",\n    \"texture\": \"High-resolution skin texture, visible fabric weave in the fleece and suit wool\"\n  },\n  \"mood_and_atmosphere\": {\n    \"keywords\": [\n      \"Candid\",\n      \"Backstage\",\n      \"Contrast between formal and tactical\",\n      \"Humorous\",\n      \"Memorable meeting\",\n      \"Authentic\"\n    ]\n  }\n}",
+    "title": "Humorous Portrait of Elon Musk, Donald Trump, and Venezuela President in Tactical Gear",
+    "description": "A detailed JSON prompt for generating an ultra-photorealistic, humorous portrait contrasting three subjects: one (Venezuela President) in casual tactical gear holding a water bottle, and the other (Elon Musk) in a sharp suit making a peace sign. The setting is an industrial locker room, captured with a 50mm lens look and fill flash, aiming for a candid, backstage feel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682170355_o7wi1j_G96JCT8a4AEe-Xc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-detailed cinematic portrait of a human face use selected image for face reference in side profile, looking upward with a calm and powerful expression, the entire subject illuminated in deep {argument name=\"light color\" default=\"electric blue\"} light, water splashes and liquid energy wrapping around the head and shoulders, high contrast, dramatic lighting, ultra-realistic skin texture, fine pores visible, sharp focus, 8K resolution, volumetric lighting, dark blue background, futuristic, ethereal, emotional, digital art, photorealism, high detail.",
+    "title": "Cinematic Portrait Drenched in Electric Blue Water Splashes",
+    "description": "A prompt for generating a hyper-detailed cinematic portrait of a human face in side profile, illuminated dramatically by deep electric blue light. It requires a face reference image and focuses on liquid motion, water splashes wrapping around the head, high contrast, and ultra-realistic skin texture to create a futuristic, ethereal, and emotional image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682182422_xccckd_G9593zLbkAEN7Uw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Close-up, hyper-realistic photograph of a tiny artist sitting on a stool and painting a {argument name=\"subject\" default=\"[subject]\"} on a giant human fingernail. The miniature painter holds a round palette and a thin brush, carefully recreating the soft lighting and detailed brushwork of the classic masterpiece. The nail surface is smooth and glossy, and the background is softly blurred to emphasize the intricate scene.",
+    "title": "Miniature Artist Painting on a Giant Fingernail",
+    "description": "A prompt for generating a hyper-realistic close-up photograph of a miniature artist sitting on a stool and painting a masterpiece on a giant human fingernail. It emphasizes the scale contrast, the intricate details of the tiny painter, and the glossy texture of the nail surface.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682178079_o682pj_G93kH_CakAAhX1p.jpg",
+      "https://cms-assets.youmind.com/media/1767682178278_yra2vo_G93kH_Aa4AAaXDW.jpg",
+      "https://cms-assets.youmind.com/media/1767682178397_pvrbi8_G93kH_MbcAAPJpN.jpg",
+      "https://cms-assets.youmind.com/media/1767682180248_mp4p81_G93kH_GbAAE_Iey.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A businessman working hard in a near-future office",
+    "title": "Nano Banana Pro prompt for generating a blog eye-catch image",
+    "description": "The user tested Nano Banana Pro to create an eye-catch image for a blog. The prompt was simple, but the AI humorously included bananas in the output, possibly due to the model's name.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767604109048_b8qmqn_G9tVTyDasAgrFA7.jpg",
+      "https://cms-assets.youmind.com/media/1767604109105_ghapoj_G9tVReZasAcJNo8.jpg",
+      "https://cms-assets.youmind.com/media/1767604109277_f457ke_G9tVShzaMAA4p94.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Use the uploaded image strictly as the identity reference. Preserve the same person, exact facial structure, hairstyle, age, gender, body proportions, and overall likeness. Do not add or remove any person. Do not change identity. Transform the subject into a notebook-style pen doodle illustration.\\n\\nIllustration Style:\\nHand-drawn doodle made with {argument name=\"pen color\" default=\"blue or black\"} ballpoint pen on lined notebook paper. Lines should be thin, sketchy, uneven, and slightly shaky, as if casually drawn in a school notebook. Cross-hatching, quick strokes, and imperfect outlines are encouraged.\\n\\nColor & Texture:\\nMostly monochrome pen drawing with limited soft pastel accents (very light yellow, pink, or mint). Paper texture should resemble real notebook paper with visible horizontal lines. Coloring should be minimal, flat, and scribbly.\\n\\nFacial Features:\\nSimplified doodle face with dot or oval eyes, small curved smile, minimal nose or nose line. Expression should be calm, cute, and friendly. Avoid realistic facial detailing.\\n\\nProportions & Form:\\nCartoon doodle proportions with slightly oversized head and simplified body. Arms and legs are thin, stick-like or softly rounded. Hands can be minimal line shapes.\\n\\nShading & Lighting:\\nNo realistic lighting. Use pen hatching or quick scribbles for minimal shading. Keep the drawing flat and illustrative.\\n\\nMood & Atmosphere:\\nCasual, cozy, nostalgic, and playful. Feels like a cute doodle drawn during class or in a diary margin.\\n\\nBackground:\\nLined notebook paper background with light pen doodles such as stars, arrows, hearts, clouds, or handwritten-style marks. Keep background subtle and uncluttered.\\n\\nRendering Rules:\\nNo photorealism, no photo texture, no cinematic lighting, no digital painting, no anime, no manga, no 3D render, no vector art. Everything must look like a hand-drawn pen doodle on paper.\\n\\nFinal Output:\\nA charming notebook-style pen doodle illustration with simple lines, minimal color, and a nostalgic hand-drawn feel, maintaining exact identity from the uploaded image.\",\n  \"negative_prompt\": \"photorealism, realistic skin, photo texture, cinematic lighting, hyper-detail, anime, manga, 3D, vector art, oil painting, digital painting, glossy skin, clean perfect lines, realism, face change, identity change, extra people\",\n  \"quality\": \"high\",\n  \"clarity\": \"high\",\n  \"style_strength\": \"strong notebook doodle\",\n  \"reference_usage\": \"exact face and identity preservation required\"\n}",
+    "title": "Notebook Pen Doodle Identity Preservation Prompt",
+    "description": "A detailed prompt for transforming a reference image into a hand-drawn pen doodle on lined notebook paper. It strictly requires preserving the subject's identity while applying a stylized, sketchy aesthetic with minimal color, flat shading, and a nostalgic, playful mood, simulating a casual drawing made in a school notebook.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767604052553_ba9y0e_G9r4OcNaIAEZUmr.jpg",
+      "https://cms-assets.youmind.com/media/1767604053146_2jbs2a_G9r4OcHbEAAkhVm.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A prompt that makes characters stylish",
+    "title": "Stylizing Characters with a Specific Prompt",
+    "description": "This tweet introduces a prompt shared by another user (@_3912657840) that can be used with Nano Banana Pro to transform cute characters into a more stylish and cool aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767508499503_gtfj8g_G8lr9nRaoAAyn0J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please use the image or photo of the person as is without making any changes.",
+    "title": "Preserve Original Photo in YouTube Thumbnail Prompt",
+    "description": "A specific instruction used in Nanobanana Pro prompts for YouTube thumbnail generation, designed to increase the probability that the AI will use the provided human photo/image without altering or processing it, which is crucial for maintaining personal branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767456260251_ybe2ja_G9d7fFDbMAAb60i.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"meta\": {\n    \"stylization\": \"{argument name=\"stylization\" default=\"reality_glitch_documentary\"}\",\n    \"virality_factor\": \"ontological_proof\"\n  },\n  \"subject\": {\n    \"primary\": \"{argument name=\"primary subject\" default=\"a wild deer caught in headlights\"}\",\n    \"mutation\": \"the deer has failed to load its textures\",\n    \"details\": \"the animal is a flat-shaded, low-poly gray geometric mesh, but it casts a hyper-realistic shadow\",\n    \"eyes\": \"glowing white spheres (default unreal engine assets)\"\n  },\n  \"visual_fidelity\": {\n    \"camera\": \"trail cam or dashcam\",\n    \"lighting\": \"blindingly bright headlights cutting through darkness\",\n    \"imperfections\": [\n      \"motion blur on the background trees\",\n      \"digital compression artifacts\",\n      \"lens flare\",\n      \"date/time stamp in corner: 'ERR:NULL'\"\n    ]\n  },\n  \"context\": {\n    \"background\": \"dense, hyper-realistic forest at night\",\n    \"juxtaposition\": \"the perfect contrast between the gritty, dirty nature and the sterile, mathematical perfection of the glitch\"\n  }\n}",
+    "title": "Reality Glitch Documentary Image Prompt: Low-Poly Deer in Headlights",
+    "description": "An image generation prompt designed to create a surreal, glitch-art documentary scene. It features a low-poly, flat-shaded gray deer (a geometric mesh) that has failed to load its textures, caught in the blinding headlights of a vehicle. The scene is set in a hyper-realistic forest at night, emphasizing the contrast between the sterile mathematical perfection of the glitch and the gritty natural environment, captured with a trail cam aesthetic and digital imperfections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767455033781_6axqwd_G9b5qslWIAAd8A-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Write a novel that begins with the line: \"When I looked up at the blue sky, the Earth was floating there instead of the white moon.\"",
+    "title": "Novel Generation Prompt: Earth Floating in the Sky",
+    "description": "This is a creative writing prompt used with GPT-5.2 Pro (referred to as 'Nano Banana Pro' in the image context) to generate a novel starting with the surreal premise of seeing the Earth floating in the sky instead of the moon. The resulting text is a detailed, atmospheric narrative exploring the sudden appearance of the Earth and the subsequent societal reaction and mystery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767455061152_dldyhh_G9ZzfkbbwAAo4b9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generated the image above with the source photo and a few lines of prompt.",
+    "title": "Image Generation from Photo and Short Prompt",
+    "description": "A user praises Nano Banana Pro for generating an image based on a source photo and just a few lines of prompt text, noting the sufficient quality for mobile viewing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767167018859_2xbibo_G9Uo2fSaUAAZl-o.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject\": {\n      \"description\": \"A tiny man sitting and leaning against a tall young bean sprout\",\n      \"clothing\": \"Casual pink t-shirt and black shorts\",\n      \"pose\": \"Sitting relaxed on the ground, resting under a giant plant stem\"\n    },\n    \"environment\": {\n      \"setting\": \"Surreal macro-fantasy scene, extreme close-up\",\n      \"elements\": \"Detailed textures of soil, pebbles, roots, and young seedlings\",\n      \"plant_details\": \"Bean sprout towering above with fresh green leaves, pale stems, and visible seed halves still attached\"\n    },\n    \"technical_specs\": {\n      \"style\": \"Macro photography, Hyper-realistic, Cinematic\",\n      \"lighting\": \"Natural outdoor lighting, realistic shadows, vibrant colors\",\n      \"camera_effects\": \"Shallow depth of field, soft blurred background (bokeh), crisp highly detailed foreground\",\n      \"resolution\": \"8K, Ultra-detailed\"\n    },\n    \"full_prompt_text\": \"A surreal macro-fantasy scene showing a tiny man wearing a {argument name=\\\"shirt color\\\" default=\\\"pink t-shirt\\\"} and black shorts, sitting and leaning against a tall young bean sprout. The environment is captured in extreme close-up macro style, revealing detailed textures of soil, pebbles, roots, and young seedlings. The bean sprout towers above him with fresh green leaves, pale stems, and visible seed halves. Shallow depth of field with soft blurred background, crisp foreground. Natural outdoor lighting, realistic shadows, vibrant colors, whimsical scale difference, hyper-realistic clarity.\"\n  }\n}",
+    "title": "Surreal Macro-Fantasy: Tiny Man and Giant Bean Sprout",
+    "description": "A detailed prompt for generating a hyper-realistic macro photograph of a tiny man sitting and leaning against a towering young bean sprout. The scene emphasizes extreme close-up detail of soil textures, shallow depth of field (bokeh), and vibrant cinematic lighting to highlight the whimsical scale difference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767166897224_hhb7c6_G9T-J41awAAlBWT.jpg",
+      "https://cms-assets.youmind.com/media/1767166897575_wz213d_G9T-J-uacAAdj6C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Do this for a {argument name=\"painting type\" default=\"random famous Asian painting\"} <instruction>\n\nInput A is a Famous Painting (e.g., The Mona Lisa, The Scream). Analyze: The brushstroke technique, the 3D depth implied, and the hidden symbols. \nGoal: A \"Paint Tube Squeeze.\" A giant, realistic oil paint tube sitting on a palette. \nRules:\n\nAction: The tube is being squeezed, and the paint coming out is not just a blob, but it forms the 3D landscape of the painting. The Mona Lisa's face is emerging in 3D relief from the 2D smear of paint. \n\nTexture: Viscous, thick oil paint texture (impasto).\n\nProps: Paintbrushes, a dirty rag, a palette knife, plus culture appropriate tools and environment. \n \nLighting: North-light studio lighting, true color representation. Output:\nONE image, 4:5, \"artistic process\" aesthetic. </instruction>",
+    "title": "Paint Tube Squeeze: Famous Asian Painting in 3D Relief",
+    "description": "A creative prompt template designed to analyze a famous Asian painting and generate a hyper-realistic image of a giant oil paint tube being squeezed onto a palette, where the extruded paint forms the 3D landscape of the analyzed artwork, emphasizing viscous impasto texture and studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767166884478_qmpdcc_G9OdhdcXsAAkM6n.jpg",
+      "https://cms-assets.youmind.com/media/1767166885375_lu66sz_G9OdhdWWsAA527M.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an image using the prompt from the main post. Select an aspect ratio of 21:9.",
+    "title": "Higgsfield Nano Banana Pro Aspect Ratio Prompt",
+    "description": "A user instructs others to use the prompt from the main post to generate an image using Higgsfield Nano Banana Pro, specifically recommending a 21:9 aspect ratio, and showing a comparison with a 3:4 ratio.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767167017139_kqxgnk_G9TihoYboAA36qy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": \"Classic three-ball snowman, highly textured snow\",\n  \"clothing\": \"{argument name=\"hat color\" default=\"Blue\"} bucket hat (nylon texture), blue scarf (terry cloth texture)\",\n  \"face\": \"Dark round stone eyes, orange carrot nose\",\n  \"accessories\": \"Matching blue hat and scarf set\",\n  \"environment\": \"Dark starry night sky, icy ground, high contrast\",\n  \"lighting\": \"Dramatic cinematic spotlight, cool tones, accentuating textures\",\n  \"camera\": \"Full shot, slightly low angle, sharp focus\",\n  \"style\": \"3D render style, studio photography, minimalist, whimsical, photorealistic, 8k resolution\"\n}",
+    "title": "Cinematic 3D Snowman Portrait",
+    "description": "A prompt for creating a whimsical yet photorealistic 3D render of a classic snowman, emphasizing texture, high contrast, and dramatic cinematic spotlighting against a dark, starry night sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767061763021_vls9g1_G9QdQflboAEmKi4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "task\": \"image_to_image_style_transfer\",\n  \"input_image\": \"{{USER_IMAGE}}\",\n  \"prompt\": \"Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented {argument name=\"stone type\" default=\"slate + sandstone\"} shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.\",\n  \"negative_prompt\": \"text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry\",\n  \"output\": {\n    \"aspect_ratio\": \"use_input_aspect_ratio\",\n    \"background\": \"off_white\",\n    \"camera\": {\n      \"angle\": \"straight_on\",\n      \"framing\": \"centered\",\n      \"distance\": \"medium\"\n    }\n  },\n  \"params\": {\n    \"style_strength\": 0.75,\n    \"identity_preservation\": 0.9,\n    \"detail_level\": \"very_high\",\n    \"lighting_preset\": \"soft_studio_top_left\",\n    \"shadow_intensity\": \"subtle\",\n    \"gap_visibility\": \"clear\",\n    \"debris_chips\": \"few_tiny\",\n    \"no_text\": true\n  }\n}",
+    "title": "Image-to-Image Style Transfer: Fragmented Stone Sculpture",
+    "description": "A complex, structured prompt for an image-to-image style transfer task, instructing the AI to recreate the main subject of an input image as a hyper-real 3D fragmented stone assemblage (slate and sandstone shards), emphasizing detached pieces, chiseled edges, studio lighting, and strict preservation of the subject's identity and silhouette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767061744152_69s9uv_G9OaElubgAAnxxj.jpg",
+      "https://cms-assets.youmind.com/media/1767061744011_cjdhy0_G9OaEllbgAAqrdQ.jpg",
+      "https://cms-assets.youmind.com/media/1767061744144_ae1fng_G9OaElvaMAAp0Wk.jpg",
+      "https://cms-assets.youmind.com/media/1767061746571_zy37xw_G9OaEmbbQAAkchO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A massive {argument name=\"everyday object\" default=\"[EVERYDAY OBJECT]\"} casually used as temporary shelter by tiny {argument name=\"travelers\" default=\"[TRAVELERS]\"}. No construction, no permanence - just rest. Overcast lighting, soft shadows, intimate mood, naturalistic storytelling.",
+    "title": "Object as Shelter: Naturalistic Storytelling",
+    "description": "A conceptual prompt template for Gemini Nano Banana Pro designed to generate a scene where tiny travelers use a massive everyday object as temporary shelter. The prompt emphasizes naturalistic storytelling, intimate mood, and soft, overcast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767061659913_10h1d3_G9OWuRMaUAAELQY.jpg",
+      "https://cms-assets.youmind.com/media/1767061660229_w21epd_G9OWwm_bgAEmNxu.jpg",
+      "https://cms-assets.youmind.com/media/1767061660559_4bjdcl_G9OWvmnbUAARiMy.jpg",
+      "https://cms-assets.youmind.com/media/1767061662480_speaby_G9OWx26bAAAXBkl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n\n  \"camera\": {\n\n    \"angle\": \"high-angle\",\n\n    \"scale\": \"macro\"\n\n  },\n\n  \"environment\": {\n\n    \"surface\": \"charcoal-dusted desk\",\n\n    \"aesthetic\": \"industrial\"\n\n  },\n\n  \"subject\": {\n\n    \"type\": \"silverback gorilla\",\n\n    \"composition\": \"single continuous figure\",\n\n    \"upper_body\": {\n\n      \"dimension\": \"hyper-realistic 3D\",\n\n      \"style\": \"hyper-realistic physical form\",\n\n      \"extent\": \"upper torso rising vertically from the paper\"\n\n    },\n\n    \"lower_body\": {\n\n      \"dimension\": \"2D\",\n\n      \"style\": \"charcoal sketch\",\n\n      \"extent\": \"lower body on paper\"\n\n    },\n\n    \"transition\": {\n\n      \"location\": \"waistline\",\n\n      \"quality\": \"seamless\",\n\n      \"alignment\": \"perfect anatomical alignment between 3D fur and 2D sketch lines\"\n\n    },\n\n    \"action\": {\n\n      \"arm\": \"physical arm\",\n\n      \"tool\": \"charcoal pencil\",\n\n      \"interaction\": \"drawing the sketched legs\"\n\n    }\n\n  },\n\n  \"lighting\": {\n\n    \"style\": \"dramatic side-lighting\"\n\n  }\n\n}",
+    "title": "3D Gorilla Emerging from 2D Charcoal Sketch",
+    "description": "A highly creative, macro-scale prompt for generating an image where a silverback gorilla transitions seamlessly from a 2D charcoal sketch on paper to a hyper-realistic 3D figure at the waistline. The 3D arm is shown drawing the 2D legs, set on a charcoal-dusted industrial desk with dramatic side-lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766940110003_111g7y_G9AEierbAAAwHKc.jpg",
+      "https://cms-assets.youmind.com/media/1766940110766_gvk4b0_G9AEpaMaEAAXD2V.jpg",
+      "https://cms-assets.youmind.com/media/1766940110742_citpus_G9AEyIUbkAA6MvF.jpg",
+      "https://cms-assets.youmind.com/media/1766940112694_wexa43_G9AE0nhasAAcsj7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Even a \"finished image\" can be changed seamlessly with Nano Banana Pro!",
+    "title": "Change an existing image to a Santa theme",
+    "description": "The user explains that Nano Banana Pro can seamlessly modify an existing image, such as changing a person into Santa Claus, without noticeable inconsistencies.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766940216178_o25xww_G89nwrTb0AIVoDd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The image is a hyper-realistic documentary photograph captured with a Sony A7R V and a 35mm prime lens, stopped down to f/11 for a deep depth of field where every element from foreground to background is in tack-sharp, clinical focus. The aesthetic is 'unobserved reality' as if the camera is an invisible witness to a spontaneous moment. Lighting is unmediated and situational, capturing the high-dynamic range of the environment exactly as the human eye perceives it, without artificial bounce or flattering diffusion. Surfaces are rendered with extreme micro-contrast, highlighting the tactile physicality and natural imperfections of materials without 'AI gloss' or plastic smoothing. Human skin subtle asymmetries. The composition is unstructured and asymmetrical, avoiding all 'golden ratio' or cinematic framing. No lens flares, no bokeh, no film grain, no post-processing, and no stylistic filters. The final result should be indistinguishable from a high-resolution RAW file of an actual event",
+    "title": "Hyper-Realistic Documentary Photography Style Prompt",
+    "description": "A detailed, technical prompt designed to be appended to any base prompt in Nano Banana Pro to enforce an extreme level of hyper-realism, mimicking an unedited RAW documentary photograph taken with professional Sony gear, focusing on clinical focus, micro-contrast, and the absence of typical AI 'gloss' or cinematic effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936132975_f65dso_G8996EbXYAEiwF8.jpg",
+      "https://cms-assets.youmind.com/media/1766936133960_mlhfbp_G89-ZeCWMAEPqWY.jpg",
+      "https://cms-assets.youmind.com/media/1766936135466_pnoj2h_G89_D7sWcAAqmVK.jpg",
+      "https://cms-assets.youmind.com/media/1766936137192_o10xsv_G89-ofyXIAAy9R8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A highly detailed Neo-Traditional Tattoo Flash interpretation of the subject on the motorcycle, featuring thick black linework, deep primary colors (crimson, cyan, jet black), mechanical internal details subtly showing through skin tears, surrounded by stylized chrome and barbed wire motifs, highly detailed shading.",
+    "title": "Neo-Traditional Tattoo Flash Prompt",
+    "description": "A prompt requesting a highly detailed Neo-Traditional Tattoo Flash interpretation of a subject on a motorcycle, specifying artistic elements like thick black linework, deep primary colors, mechanical internal details, and surrounding motifs like chrome and barbed wire.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936139385_1x7hjd_G8vHoFJXcAAzaxb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A dogfight between two slim robots (a red metallic Santa and a brown metallic reindeer). Shot from behind. The setting is a narrow mountain road and a deep sea of clouds. Semi-realistic animation.",
+    "title": "Semi-Realistic Dogfight between Santa and Reindeer Robots",
+    "description": "A Japanese prompt for Nano Banana Pro to generate a semi-realistic animation style image of a dogfight between two slim robots—a red metallic Santa and a brown metallic reindeer—shot from behind, set on a narrow mountain road with deep sea of clouds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936077948_3crmds_G87qyoIa8AA1WCc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A single tree on a flat field at sunset. Illusion: the tree’s shadow is darker than normal, but embedded inside it are soft glowing patches shaped like leaves, light inside shadow, impossible. As if the shadow is a container that stores sunlight. The glow patches cast faint light onto grass blades within the shadow only, making micro-caustics. Outside the shadow, no glow exists. The tree itself looks ordinary; only the shadow is magical-physical. Keep the scene extremely simple: horizon, tree, shadow, sky gradient. Photoreal grass detail, dreamy but grounded, “wow” from one impossible rule change.",
+    "title": "Magical Shadow Illusion Prompt for Nano Banana Pro",
+    "description": "A creative prompt for Nano Banana Pro focusing on an impossible visual illusion: a single tree on a flat field at sunset where the shadow is darker than normal, but contains soft glowing patches shaped like leaves, suggesting the shadow stores sunlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936160309_1gygmw_G86mR6zb0AACdQR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A large-scale construction site where tiny {argument name=\"workers\" default=\"ENGINEERS / BUILDERS\"} assemble an oversized {argument name=\"object\" default=\"EVERYDAY OBJECT\"} piece by piece. Scattered components, tools scaled correctly, realistic materials, dramatic worksite lighting.",
+    "title": "Construction of the Impossible Prompt: Miniature Engineers",
+    "description": "A prompt for Gemini Nano Banana Pro to generate an image of a large-scale construction site where tiny engineers or builders are assembling an oversized everyday object piece by piece, focusing on realistic materials and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936161050_0uic4u_G85rp0PagAIpbWb.jpg",
+      "https://cms-assets.youmind.com/media/1766936161383_k2ws78_G85rp13agAIa97T.jpg",
+      "https://cms-assets.youmind.com/media/1766936161835_lznjss_G85rp4UagAEKrWx.jpg",
+      "https://cms-assets.youmind.com/media/1766936163502_7d5umj_G85rp90agAA0fqL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change her facial expressions, various angles of close up shots",
+    "title": "Reference Image Prompt for Facial Expression and Angle Variations",
+    "description": "A simple instruction prompt intended to be used after uploading a reference portrait. The goal is to generate multiple close-up shots of the subject while varying their facial expressions and camera angles, maintaining the core identity from the uploaded image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673208305_h5s2yj_G832I64WEAEsjZu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"photo\": {\n    \"type\": \"surreal_artistic_portrait\",\n    \"quality\": \"8k photorealistic, high fidelity, masterpiece, double exposure style, mixed media aesthetic\",\n    \"lens\": \"35mm wide angle lens, sharp focus\"\n  },\n  \"face\": {\n    \"preserve_original\": false,\n    \"reference_match\": false,\n    \"description\": \"Young woman with shoulder-length straight blonde hair, eyes cast down or closed in a serene expression, soft natural lighting on face, dreamlike mood\"\n  },\n  \"model_pose\": {\n    \"position\": \"standing center frame on a road\",\n    \"legs\": \"standing naturally, hips slightly tilted\",\n    \"hands\": \"both arms raised high above head, stretching upwards, hands touching or overlapping\",\n    \"expression\": \"relaxed, meditative, immersive\"\n  },\n  \"wardrobe\": {\n    \"special_effect_top\": {\n      \"type\": \"surreal transparency\",\n      \"texture\": \"invisible/transparent body\",\n      \"style\": \"white hand-drawn doodle outline of an oversized t-shirt superimposed over the landscape\",\n      \"note\": \"The torso is transparent, revealing the mountain background through the body shape\"\n    },\n    \"bottom\": {\n      \"type\": \"denim jeans\",\n      \"style\": \"light wash, classic fit, cropped at waist\",\n      \"color\": \"faded light blue\"\n    },\n    \"accessories\": {\n      \"belt\": \"black leather belt with simple buckle\",\n      \"hair\": \"straight blonde bob, naturally falling back\",\n      \"other\": \"exposed naval/midriff area with realistic skin texture\"\n    }\n  },\n  \"textures\": {\n    \"emphasis\": [\n      \"rough denim fabric\",\n      \"smooth skin on midriff\",\n      \"grainy asphalt road\",\n      \"rugged mountain rock\",\n      \"white sketch lines\"\n    ]\n  },\n  \"environment\": {\n    \"backdrop\": \"Majestic alpine landscape, straight paved road leading towards mountains, steep rocky cliffs, overcast dramatic sky, green grassy fields on roadsides\",\n    \"lighting\": {\n      \"style\": \"natural overcast daylight\",\n      \"key_light\": \"soft diffused skylight\",\n      \"fill_light\": \"cool ambient environmental light\",\n      \"shadows\": \"soft shadows, moody atmosphere\"\n    }\n  },\n  \"color_grade\": {\n    \"type\": \"cinematic moody\",\n    \"balance\": \"desaturated cool tones, muted greens and greys, matte finish, low contrast, melancholic aesthetic\"\n  }\n}",
+    "title": "Surreal Double Exposure Portrait with Transparent Torso",
+    "description": "A structured JSON prompt for generating a surreal, artistic portrait using a double exposure style, where the subject's torso is transparent and overlaid with a hand-drawn doodle outline, revealing a majestic alpine landscape background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673150947_veb2uh_G83J6wnXwAAyFjM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Input this instruction, allowing the AI to complete the entire process step-by-step: extracting selling points, determining style, determining layout, and finally generating a complete, system-wide prompt.\n\nFinally, give the AI-generated prompt to the Nano Banana Pro model (it must be Pro). You can first provide some overall style prompts separately as general constraints. Then, whether generating images individually or in batches using third-party tools, it is possible.",
+    "title": "Multi-Step Prompt Generation Workflow for Product Posters",
+    "description": "A detailed workflow instruction for generating complete, system-level prompts for product posters using LLMs (GPT, Claude, Gemini) and then executing them on Nano Banana Pro. The process involves the LLM extracting selling points, determining style, and layout, followed by the image model generating the final poster, with specific constraints on logo consistency and product appearance.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673336274_q7xaoz_G81VZe6asAEB-1b.jpg",
+      "https://cms-assets.youmind.com/media/1766673335461_ywvxrj_G81VZe7bcAAqgGU.jpg",
+      "https://cms-assets.youmind.com/media/1766673338105_3gb7zb_G81VZe5aUAAQcbj.jpg",
+      "https://cms-assets.youmind.com/media/1766673339181_amvim8_G81VZiNagAgwRzI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"Objective\": \"Create an ultra-realistic cinematic portrait of a young person with a modern, natural, and emotionally subtle aesthetic.\",\n\n  \"Subject\": {\n    \"Age_Group\": \"Young adult\",\n    \"Appearance\": {\n      \"Facial_Features\": \"Natural, balanced facial proportions\",\n      \"Skin\": {\n        \"Texture\": \"Highly detailed skin texture with visible pores\",\n        \"Finish\": \"Natural, no-makeup look\"\n      },\n      \"Expression\": \"Subtle, calm, emotionally understated\",\n      \"Eyes\": \"Sharp, expressive eyes in perfect focus\"\n    }\n  },\n\n  \"Lighting\": {\n    \"Type\": \"Soft realistic lighting\",\n    \"Characteristics\": [\n      \"Gentle highlights on the face\",\n      \"Soft, natural shadows\",\n      \"Even illumination without harsh contrast\"\n    ],\n    \"Mood\": \"Cinematic, intimate, and modern\"\n  },\n\n  \"Camera_and_Technical\": {\n    \"Camera_Style\": \"Professional photography\",\n    \"Lens\": \"{argument name=\"lens\" default=\"85mm\"}\",\n    \"Aperture\": \"{argument name=\"aperture\" default=\"f/1.8\"}\",\n    \"Depth_of_Field\": \"Shallow depth of field with smooth background blur\",\n    \"Focus\": \"Critical focus on the eyes\",\n    \"Dynamic_Range\": \"High dynamic range with clean tonal transitions\"\n  },\n\n  \"Background\": {\n    \"Style\": \"Softly blurred, clean, and minimal\",\n    \"Purpose\": \"Enhances subject isolation and cinematic depth\"\n  },\n\n  \"Visual_Style\": {\n    \"Resolution\": \"Ultra-realistic 8K\",\n    \"Aesthetic\": \"Modern cinematic realism\",\n    \"Color_Grading\": {\n      \"Style\": \"Realistic, natural grading\",\n      \"Palette\": [\n        \"Natural skin tones\",\n        \"Soft neutral hues\"\n      ]\n    },\n    \"Detail_Characteristics\": [\n      \"Ultra-fine facial detail\",\n      \"Natural shadow gradients\",\n      \"Photorealistic rendering\"\n    ]\n  },\n\n  \"Composition\": {\n    \"Framing\": \"Close-up to medium portrait\",\n    \"Style\": \"Editorial, clean, distraction-free\"\n  },\n\n  \"Mood_and_Atmosphere\": {\n    \"Vibe\": [\n      \"Authentic\",\n      \"Calm\",\n      \"Intimate\",\n      \"Cinematic\"\n    ]\n  },\n\n  \"Constraints\": {\n    \"Text\": \"None\",\n    \"Logo\": \"None\",\n    \"Watermark\": \"None\",\n    \"Artifacts\": \"No distortions, no over-retouching\"\n  },\n\n  \"Output_Requirements\": {\n    \"Format\": \"Image\",\n    \"Orientation\": \"Portrait\",\n    \"Quality\": \"Editorial-grade, ultra-realistic, professional photography\"\n  }\n}",
+    "title": "Ultra-Realistic Cinematic Portrait Prompt",
+    "description": "A detailed JSON prompt focused on creating an ultra-realistic, cinematic portrait of a young adult. It specifies natural skin texture, subtle emotional expression, professional camera settings (85mm, f/1.8, shallow depth of field), soft realistic lighting, and a clean, editorial composition in 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766385958488_2xmfom_G8nMSnpbMAEL4jR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Extreme close-up black and white portrait of a man with intense eye contact, partially hiding his face behind the high collar of a textured dark coat. His short-cropped hair and pale skin are sharply defined under dramatic lighting, creating deep shadows and high contrast across the face. The texture of the skin and fabric is clearly visible, adding a tactile, almost tangible quality. The background is completely black, focusing all attention on the expression and mood. Cinematic; bold, and mysterious. Natural light, glossy paper feel chaos {argument name=\"chaos\" default=\"45\"} style raw\n\np.470wg66-v-7 -ar 3:4",
+    "title": "Extreme Close-Up High-Contrast Portrait Prompt",
+    "description": "A text prompt for generating an extreme close-up, black and white portrait of a man. It emphasizes intense eye contact, high contrast, deep shadows, and visible skin/fabric texture, creating a cinematic, bold, and mysterious mood, with a glossy paper feel and specific technical parameters (chaos 45, raw style, 3:4 aspect ratio).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766385974625_joriwr_G8mef4FbMAEcP5R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Photorealistic ultra-wide desert scene in Egypt near the Giza plateau at golden hour. A colossal inverted pyramid, point-down, dominates the landscape at an unimaginable scale, dwarfing the horizon. Its vast upper rim stretches for multiple kilometers, while the sloping faces plunge inward toward a needle-like apex that hovers just above the sand, leaving a gigantic shadowed void beneath. The surface reads as ancient limestone blocks with dark granite inlays: mega-sized courses, eroded edges, wind-sanded wear, and long, faint bands of hieroglyphs that only appear where the sun grazes the stone. Include tiny scale cues in the distance: a thin line of tourists like ants, a few small buses and 4x4s parked far away, a camel caravan crossing the flats, and scattered survey flags. Heat haze and dust plumes soften the far edges. Sand dunes climb the lower planes where stone meets desert, with drifting sand spilling down seams like a slow waterfall. Pale sky, low sun, strong raking light, extreme HDR realism, crisp micro-textures, natural color grading, no glow or energy effects.",
+    "title": "Photorealistic Ultra-Wide Desert Scene with Inverted Pyramid",
+    "description": "A highly detailed, photorealistic prompt for generating an ultra-wide desert scene in Egypt featuring a colossal, inverted pyramid near the Giza plateau. The prompt specifies extreme HDR realism, crisp micro-textures, natural color grading, and includes tiny scale cues like tourists and a camel caravan to emphasize the pyramid's unimaginable scale.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237899667_puov8b_G8ck5I4akAIi1Xy.jpg",
+      "https://cms-assets.youmind.com/media/1766237900781_njtm5k_G8ck5KVbIAEdkZP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A photorealistic image of a leaf that looks like it’s in the shape of a dragon.",
+    "title": "Photorealistic Leaf Shaped Like a Dragon",
+    "description": "A simple, photorealistic prompt for generating an image of a single leaf manipulated or naturally shaped to resemble a dragon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991346918_tfkcqf_G8JLEfqa0AAzQz5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Hyper-realistic, cinematic concept art portrait of a young woman with dark hair pulling the skin of her face apart with both hands, revealing a realistic human skull underneath on the right side of her face. The exposed skin appears stretchy, wet, and visceral, with visible sweat droplets, lifelike skin pores, and extreme texture detail. She has a wide-eyed, intense expression conveying shock and horror. Dramatic, moody cinematic lighting with strong contrast, deep shadows, and a dark, minimal background. Surreal horror aesthetic, macro photography look, ultra-detailed, 8K resolution, photorealistic finish.\",\n  \"negative_prompt\": \"cartoon, anime, illustration, 3d render, CGI, drawing, painting, blurry, low resolution, low quality, bad anatomy, distorted fingers, extra fingers, deformed hands, mutated face, text, watermark, logo, signature, messy composition\",\n  \"aspect_ratio\": \"3:4\",\n  \"style\": \"surreal horror, cinematic, hyper-realistic\",\n  \"quality\": \"ultra high\",\n  \"resolution\": \"8k\",\n  \"signature\": \"{argument name=\"signature\" default=\"Shreya Yadav\"}\"\n}",
+    "title": "Surreal Horror Portrait Revealing Skull",
+    "description": "A highly detailed prompt for generating a hyper-realistic, cinematic concept art portrait in the surreal horror aesthetic. The image depicts a young woman pulling her facial skin apart to reveal a realistic human skull underneath, emphasizing visceral texture details, sweat droplets, and dramatic, moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991346284_du04ku_G8JJHQNbYAAfDVS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "• tell it the role\n\n“you are a senior art director / product photographer / magazine designer”\n\n• be concrete, not poetic\n\nbad: “make it cinematic”\ngood: “soft studio lighting, shallow depth of field, editorial look”\n\n• lock the format\n\nimage type, layout, aspect ratio, style\ndon’t let it guess\n\n• describe what matters, not everything\n\nsubject\nbackground\nlighting\nstyle\nthat’s it\n\n• if you want accuracy → structure\n\nbullet points or mini sections work better than paragraphs",
+    "title": "Structured Prompting Guide for Nano Banana Pro",
+    "description": "A guide on how to structure prompts for Nano Banana Pro to achieve better results, emphasizing the use of specific roles, concrete descriptions (e.g., lighting), and structured formatting like bullet points or mini sections.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991379251_pmtog8_G8IZi18bMAARGx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A weary young man, with tousled blonde hair and a pale face, is sleeping slumped over an open book at a dark wooden desk.\nStyle & Environment: Oil painting aesthetic with visible brushstrokes (impasto), Chiaroscuro lighting, and a dark, moody atmosphere. The desk is cluttered with a tall stack of books, scattered handwritten papers, and a glass of dark liquid. The lighting is high-contrast, casting the background in deep shadow (Dark Academia, 19th-century realism).",
+    "title": "Dark Academia Oil Painting of Sleeping Man",
+    "description": "A prompt for generating an image in the style of a 19th-century realism oil painting, featuring a weary young man sleeping slumped over a cluttered desk, utilizing strong Chiaroscuro lighting for a dark academia mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991220025_tsbjmo_G8IWDsHbQAAaMUE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A cinematic fantasy scene of a man kneeling on an icy surface, touching a cracked frozen mirror that reflects a green {argument name=\"creature type\" default=\"Grinch-like creature\"} reaching back. Snow falling gently, cold blue tones, glowing aurora in the sky, dramatic lighting, ultra-realistic, high detail, shallow depth of field, emotional and surreal atmosphere, 8K, fantasy realism.",
+    "title": "Fantasy Scene: Man and Grinch Reflection",
+    "description": "A prompt for generating a cinematic fantasy scene where a man kneels on ice, touching a cracked frozen mirror that reflects a Grinch-like creature, emphasizing cold blue tones, dramatic lighting, and a surreal atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991203132_8b6rlo_G8IQdopagAAShOZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "(Photorealistic:1.3), raw photograph, cinematic lighting, sharp focus on the subject’s face and eyes, crisp skin texture.\nLAYER 1: BACKGROUND STABILITY (CRITICAL):\n\nThe entire background environment from the input image remains completely STATIC, FROZEN, CLEAN, and UNCHANGED — no noise, no scanlines, no distortions, no glitches in the background.\nLAYER 2: FOREGROUND SUBJECT EDGE-CHAOS:\n\nThe main subject’s core (face/torso) stays clear and undistorted, BUT the outer silhouette boundaries are unraveling violently into long ribbons of (non-glowing physical matter:1.3), showing stretched fabric/leather/latex-like material with realistic strand separation and tearing flow (“Spaghettification”), no gore.\nLAYER 3: ANALOG GLITCH OVERLAY (EDGE-ONLY):\n\nHeavy VHS static, scan lines, color bleed, and screen tearing noise are CONCENTRATED EXCLUSIVELY ON THE UNRAVELING EDGES of the main subject, like an edge mask. No full-frame VHS overlay; the core and background remain clean.\nLAYER 4: GHOSTLY AFTERIMAGES (BEHIND SUBJECT):\n\nDirectly BEHIND the unraveling main subject, visible through the gaps, there are TWO translucent, ghostly motion-blur AFTERIMAGES. They are violently twisted into agonizing, struggling postures, dragged by temporal distortion. They remain behind the subject, partially occluded, not separate characters.\n\nNegative prompt (optional but recommended):\n\nfull-frame glitch, background distortion, extra people, duplicate main subject, neon glow, energy beams, particles, blood, gore, exposed organs, messy face, blurry eyes, deformed hands",
+    "title": "Spaghettification Glitch Effect (Loki Inspired)",
+    "description": "A multi-layered prompt designed to recreate the 'spaghettification' or disintegration effect seen in the Loki TV series. It uses four distinct layers of instructions to ensure background stability, violent unraveling of the subject's edges into non-glowing ribbons, analog glitch overlay concentrated only on the edges, and ghostly motion-blur afterimages behind the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991248279_gjghqt_G8HAxWObYAEmmL0.jpg",
+      "https://cms-assets.youmind.com/media/1765991248575_bycdfc_G8HAxWkbgAAqc9h.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "a photorealistic scene of a woman sitting casually on the lid of a large strawberry milkshake cup placed on outdoor pavement. Keep the pose relaxed and playful. Dress her in a pink fitted top, a white skirt, and matching pastel shoes. Add an colossal glossy pastel-pink handbag with a gold chain strap placed near the cup, much larger than the tiny woman. Place large heart-shaped pink sunglasses on the ground beside her, also oversized compared to her. The milkshake inside the clear cup should look thick and bright pink. Soft natural daylight",
+    "title": "Photorealistic Miniature Woman on Milkshake Cup",
+    "description": "A photorealistic image generation prompt for a surreal scene featuring a miniature woman sitting casually on the lid of a colossal strawberry milkshake cup on outdoor pavement. The prompt emphasizes playful posing, pastel clothing, and oversized props like a handbag and sunglasses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991315490_8oj413_G8GeRI3a8AAqAGc.jpg",
+      "https://cms-assets.youmind.com/media/1765991315830_mfhuqu_G8GeQ6ZbcAACi8m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an image by arranging collection  of grapes strategically on a dark surface to form the shape of ghost",
+    "title": "Grapes Arranged as a Ghost",
+    "description": "A prompt for generating a photorealistic image where a collection of grapes is strategically arranged on a dark surface to form the shape of a ghost.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990959047_jecakc_G796E5HaMAAPIAx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_prompt\": {\n    \"quality\": \"8K hyper-realistic\",\n    \"style\": \"cinematic age-progression collage, clean layout, soft natural lighting\",\n    \"face_preservation\": {\n      \"use_reference_face\": true,\n      \"accuracy\": \"match exactly across all ages\"\n    },\n    \"subject\": {\n      \"gender\": \"female\",\n      \"description\": \"same woman shown from infancy to old age in a 4x4 collage grid\",\n      \"ages\": [\n        \"baby\", \"toddler\", \"child\", \"teen\",\n        \"young adult\", \"professional adult\", \"mother\", \"mid-adult\",\n        \"early senior\", \"senior\", \"late elderly\"\n      ],\n      \"expressions\": \"calm and natural\",\n      \"poses\": \"varied indoor and outdoor portraits\"\n    },\n    \"background\": \"mix of home interiors, classrooms, outdoor gardens, offices, warm tones\",\n    \"colors\": \"soft cinematic tones, warm highlights, natural skin texture\",\n    \"details\": [\n      \"consistent facial structure across ages\",\n      \"hair and clothing appropriate for each age\",\n      \"sharp eyes, realistic skin texture\"\n    ],\n    \"signature\": \"VIVEK HY\"\n  }\n}",
+    "title": "Age Progression Collage",
+    "description": "A structured prompt for generating an 8K hyper-realistic cinematic age-progression collage (4x4 grid) showing the same woman from infancy to late elderly age, requiring strict facial preservation across all ages.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990960434_flpy5g_G79Es78agAkhytz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "this picture as if it was taken it in 2025",
+    "title": "Future Aesthetic Image Generation Prompt (2025)",
+    "description": "A simple prompt instructing Nano Banana Pro to render the input image as if it were taken in the year 2025, applying a futuristic or contemporary aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990886950_urhq3k_G74Xmkwa0AE2Olx.jpg",
+      "https://cms-assets.youmind.com/media/1765990887984_takjza_G74XmkpaEAA5K9e.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A prompt that, when thrown to ChatGPT, which remembers you well, will output the text part.",
+    "title": "ChatGPT Prompt for Self-Introduction Text Generation",
+    "description": "A user created a prompt for ChatGPT to generate the text content for a self-introduction based on a visual template (Yamada-san's classification). The image output itself is generated using Nano Banana Pro, but the extracted prompt is for the LLM (ChatGPT) to generate the text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765967788415_w11r79_G73NyTNakAApeAf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "location:\n  description: >\n    Simple background created by interpreting the reference image’s mood.\n    Use soft gradients, atmospheric glow, light particles, or abstract light rays.\n    Avoid complex textures or any copyrighted shapes.\n  background_feel: >\n    Subtle, atmospheric, clean.",
+    "title": "Abstract Background Generation (Reference-Based)",
+    "description": "A Japanese prompt fragment for Nano Banana Pro focusing on generating a simple, atmospheric background based on the mood inferred from a reference image. It specifies using soft gradients, glow, light particles, or abstract light rays, while avoiding complex textures or copyrighted shapes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509784585_rw13tx_G7zCMDVaMAEuL29.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The Christmas Prompt, create fun advertisements with Nano Banana and your products in 1 minute or less, just copy the prompt and that's it.",
+    "title": "Free Christmas Promotional Prompt",
+    "description": "This tweet offers a free 'Christmas Prompt' for Nano Banana Pro to create fun holiday advertisements featuring products. The prompt itself is linked externally and not provided in the text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509766995_tmnj1l_G71AdOxaMAEWztJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Nano Banana Pro, show me 15 minutes earlier, 2 hours later, 8 hours later",
+    "title": "Time Progression Image Generation",
+    "description": "A simple, experimental Nano Banana Pro prompt requesting three sequential images showing the progression of a scene 15 minutes earlier, 2 hours later, and 8 hours later than the original attached image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509741163_ank6wm_G7zygzgb0AAz-kK.jpg",
+      "https://cms-assets.youmind.com/media/1765509741315_dimzb6_G7zyg2XaMAU-8Cr.jpg",
+      "https://cms-assets.youmind.com/media/1765509741680_kik5bh_G7zyhIsagAEDyUT.jpg",
+      "https://cms-assets.youmind.com/media/1765509742451_4zrsjb_G7zyg1naMAInYxp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A cinematic winter landscape featuring a futuristic concrete vault built into a snowy hillside. A bright emerald-green glowing crystal structure is visible inside the upper window of the vault. Snow is falling softly under a moody teal sky. A lone person in a white winter jacket stands on a metal walkway leading to the vault, looking up at the glowing window. Cold atmosphere, dramatic lighting, high-detail photography, ultra-realistic, 4K.",
+    "title": "Cinematic Futuristic Winter Landscape",
+    "description": "An ultra-realistic image generation prompt for Nano Banana Pro describing a dramatic winter scene. It features a futuristic concrete vault built into a snowy hillside, illuminated by a bright emerald-green glowing crystal inside. The prompt specifies a moody teal sky, falling snow, and a lone person in a white jacket, emphasizing cold atmosphere and high detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509778966_5ycize_G7xk-kJacAAElkw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Upload the image you want to resize and request, \"Change the aspect ratio to {argument name=\"aspect ratio\" default=\"XX\"}.\"",
+    "title": "Changing Image Size with Nano Banana Pro",
+    "description": "This tweet provides a simple instruction on how to change the size of an image using Nano Banana Pro by uploading the image and requesting a change in aspect ratio. It also notes the usage limits for the free version.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765440114334_qikbty_G7w_fBpaMAEhTV2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "one prompt plus a reference image!",
+    "title": "Image Generation with One Prompt and Reference",
+    "description": "A user stating that Nano Banana Pro generated the image using only one prompt and a reference image, indicating its capability for image-to-image generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438679890_lc4j0y_G7r2JQhWoAAkUVx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Transform this cartoon image to 4K photo",
+    "title": "Cartoon to 4K Photo Transformation Prompt",
+    "description": "A simple instruction prompt used for image-to-image transformation, directing the AI to convert a provided cartoon image into a high-resolution 4K photorealistic image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438614900_eojitr_G7pR4LeXwAAFNDf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please make it not look like AI! \nSince I get asked this, I created Nano Banana Pro prompts that aren't obviously AI-generated. \n\nVague instructions are OK, and they are reproducible! \nFor example, this was generated just by inputting the theme: \"{argument name=\"theme\" default=\"Design x AI Strategy\"}\"",
+    "title": "AI-Proof Prompt Generation (Japanese)",
+    "description": "This tweet discusses creating Nano Banana Pro prompts that don't look 'AI-generated' and can be used effectively even with vague instructions. The example given is generating content based only on the theme 'Design x AI Strategy'. The actual prompt text is implied to be simple or template-based, but the full prompt structure is not provided.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765967739086_ez0to6_G7X_wDzb0AIWtOh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Minimalistic scene of a {argument name=\"number of people\" default=\"single\"} person standing at the edge of a {argument name=\"location\" default=\"pier\"}, with natural {argument name=\"time of day\" default=\"dawn\"} light, soft fog, high dynamic range, grounded realism, a muted palette, and a {argument name=\"mood\" default=\"contemplative\"} mood, featuring wide‑angle deep focus and no stylization.",
+    "title": "Minimalistic contemplative pier scene prompt for Nano Banana Pro",
+    "description": "A direct Nano Banana Pro image prompt for a minimal, realistic dawn scene of a lone person on a pier, ideal for atmospheric or emotional key art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909118508_b041hr_G7DMzkBbAAEaIPK.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Black-and-white ink painting style, with poetic use of blank space, featuring {argument name=\"main subject\" default=\"a lone fisherman on a small boat\"}, minimalist lines, xuan paper texture, a red seal stamp as an accent, and a sense of Eastern philosophy.",
+    "title": "Ink painting lone boat prompt for Nano Banana Pro",
+    "description": "A concise Chinese prompt for generating a minimalist black-and-white ink painting of a lone fisherman on a boat with philosophical Eastern mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764577572880_gscsmz_G67wSyab0AABZB1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please use the person in the attached image. Their name is {argument name=\"name\" default=\"[your name]\"}.",
+    "title": "Cheki-style idol photo prompt using a reference person",
+    "description": "A Nano Banana Pro prompt for creating idol-style cheki photos based on a provided person image, where you insert the subject’s name into the template.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764577574244_ebjxyq_G6520uubcAAaYhr.jpg",
+      "https://cms-assets.youmind.com/media/1764577577700_hnylyz_G6520vVbkAIuuyN.jpg",
+      "https://cms-assets.youmind.com/media/1764577580224_8yiwvi_G6520yzacAArjn8.jpg",
+      "https://cms-assets.youmind.com/media/1764577582701_dm8cld_G65204EbkAAiP6E.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_info\": {\n    \"width\": {argument name=\"image width\" default=\"4096\"},\n    \"height\": {argument name=\"image height\" default=\"8192\"},\n    \"aspect_ratio\": \"{argument name=\"aspect ratio\" default=\"1:2\"}\",\n    \"orientation\": \"{argument name=\"orientation\" default=\"vertical\"}\"\n  },\n\n  \"technical\": {\n    \"resolution\": \"{argument name=\"resolution\" default=\"8k\"}\",\n    \"dimensions\": \"{argument name=\"dimensions\" default=\"4096x8192 or higher\"}\n    ,\"quality\": \"{argument name=\"quality\" default=\"ultra high detail\"}\"\n  }\n}",
+    "title": "Vertical ultra high detail image setup for Nano Banana Pro",
+    "description": "A JSON configuration-style prompt for Nano Banana Pro specifying a tall, vertical 8K canvas with ultra high detail. It’s a reusable base prompt to define dimensions and technical quality for vertical shots.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764577532761_diywuf_G63J0rlbYAAVOje.jpg",
+      "https://cms-assets.youmind.com/media/1764577536218_wr8uh4_G63J1XKbkAEBch2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an image at {argument name=\"coordinates_en\" default=\"34°36’07’’S 58°23’58’’W\"} on {argument name=\"date_en\" default=\"July 18, 1994\"} at {argument name=\"time_en\" default=\"9:53 a.m. (UTC-3)\"}",
+    "title": "Historical moment at specific coordinates (1994)",
+    "description": "A prompt to create an image of a specific place and time using latitude, longitude and a precise timestamp, ideal for historical reconstructions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764209319455_ci557r_G6jfqdVWgAADyla.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Keep all other elements in the image exactly as they are, and change only the drawing on the sheet of paper to a different style.\n\nThe content of the drawing is a camping trip taken with a {argument name=\"vehicle_en\" default=\"caravan\"}. On the left, the two people are {argument name=\"left_characters_en\" default=\"a mother and child\"} sitting at a table, and on the right is {argument name=\"right_character_en\" default=\"the father\"} grilling meat using a {argument name=\"cooking_tool_en\" default=\"barbecue grill\"}.\n\nChange the drawing into a style like an elementary school student’s crayon drawing.",
+    "title": "Childlike crayon-style family camping drawing",
+    "description": "A Korean prompt for turning only the drawing on a sheet of paper into a childlike crayon-style illustration of a family camping scene, while keeping the rest of the image unchanged. It’s meant for style-transfer or image-to-image use where the surrounding elements stay the same.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764209273626_l8kc9j_G6aTZUyasAAi6u8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A doodle‑style illustration of {argument name=\"subject_en\" default=\"[subject]\"}, with naive lines and humorous exaggeration of shapes.",
+    "title": "Naive doodle-style subject illustration",
+    "description": "A concise English prompt to generate doodle-style illustrations with naive lines and humorous exaggeration for any subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885693303_4y3k33_G6Wl2YxbsAARB2b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "put all of them into one basket",
+    "title": "Multiple characters in one basket",
+    "description": "A minimal prompt used to compose several characters together, placing all of them into a single basket.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885713322_k74s2a_G6V7YsJXsAAiJ-g.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Unpack the items from the bag and place them on the bed, with some of them scattered on the floor.",
+    "title": "Unpack items from bag onto bed haul shot",
+    "description": "A lifestyle prompt instructing the AI to unpack items from a bag onto a bed with some spilling onto the floor, creating a realistic haul-style image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885750215_gzr7yn_G6VmQGgboAAhXu0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a hyper faithful remaster of this image.",
+    "title": "Hyper faithful image remaster",
+    "description": "A short instruction prompt to remaster a blurry image with maximum fidelity to the original.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885737425_u2b9eg_G6VjaZVb0AEcg6u.jpg",
+      "https://cms-assets.youmind.com/media/1763885739731_gh5mn8_G6VjabLasAER1YB.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The rabbits also wear the same clothes",
+    "title": "Rabbits wearing identical clothes",
+    "description": "A playful prompt that makes the rabbits in the scene wear the same clothing as a reference rabbit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885731871_0www7i_G6VbpLNaIAAdLa6.jpg",
+      "https://cms-assets.youmind.com/media/1763885734558_an3s09_G6VbqP6awAEREKD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an image of {argument name=\"coordinates_en\" default=\"7°36′28″S 110°12′14″E\"} at {argument name=\"time_en\" default=\"sunset\"}.",
+    "title": "Geolocation sunset scene at specific coordinates",
+    "description": "Generates a sunset scene at a precise latitude and longitude, useful for geo-based landscapes or recreating real-world locations with Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885800087_7eutgo_G6VQhDVaEAAzzMg.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Turn this character into a superalloy-style robot.",
+    "title": "Character transformed into superalloy robot style",
+    "description": "A prompt for turning an attached character image into a superalloy-style robot version of the same character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885947423_4n34s3_G6VED2_bYAAguKl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Enhance and upscale the image while keeping the composition and colors identical. Eliminate blur and give the texture a detailed look.",
+    "title": "Image enhancement and upscaling prompt",
+    "description": "A prompt to enhance and upscale an image while preserving composition and color, removing blur and adding detailed texture, suitable for quality upgrades.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885990854_91pnw3_G6VDrO7bEAAU6Ok.jpg",
+      "https://cms-assets.youmind.com/media/1763886002266_pqw1yp_G6VDrO3bkAAwViN.jpg",
+      "https://cms-assets.youmind.com/media/1763886008984_i8boz3_G6VDrOzaMAIB0av.jpg",
+      "https://cms-assets.youmind.com/media/1763886010997_2n94o5_G6VDrO6bIAAgUdN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an image of {argument name=\"coordinates_en\" default=\"37° 30' 40.4424'' N and 127° 5' 52.9080'' E\"}. Focus on a landmark, not a random scene.",
+    "title": "Lotte World Tower landmark-focused geolocation image",
+    "description": "A refined geolocation prompt instructing Nano Banana Pro to generate an image at given Seoul coordinates while focusing on the landmark instead of a random surrounding scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885925321_lswbx2_G6VBapubAAAqFsT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an image of {argument name=\"coordinates_1_en\" default=\"37°31'11.24\"N 126°56'25.11\"E\"} at night.\n\nCreate an image of {argument name=\"coordinates_2_en\" default=\"37° 30' 40.4424'' N and 127° 5' 52.9080'' E\"}. Focus on a landmark, not a random scene.",
+    "title": "Night view of skyscraper via coordinates",
+    "description": "Two geo-based prompts to generate night scenes: one of Yeouido’s 63 Building and another focusing on Lotte World Tower, using latitude and longitude with an optional landmark-focus instruction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885917845_vyb043_G6U3Bs4bEAARu36.jpg",
+      "https://cms-assets.youmind.com/media/1763885924055_hb20qk_XaGszcVwRWoLRMbP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Albert Einstein, with messy hair, stares at a smartphone in confusion, trying to take a selfie. Elon Musk stands next to him, patiently pointing at the screen and teaching him. On the phone screen it says: “{argument name=\"screen_text_en\" default=\"How do I take a photo?\"}”.",
+    "title": "Einstein learning selfies from Elon Musk (Chinese)",
+    "description": "A Chinese prompt describing Einstein trying to take a selfie with a smartphone while Elon Musk stands beside him and teaches him, with a humorous line on the phone screen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886626563_tfxupl_G6RQ2THagAA1mtf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an eye-catching thumbnail that conveys that Nano Banana Pro has come out.",
+    "title": "Eye-catching thumbnail about Nano Banana Pro release",
+    "description": "A very short Japanese prompt to create an eye-catching thumbnail announcing that Nano Banana Pro has been released.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886607655_3352c3_G6RPUmsbMAAUqMe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Bruce Lee, wearing a yellow jumpsuit, is having a friendly sparring match with Master Yoda. Bruce Lee holds nunchucks, and Yoda holds a small green lightsaber. They are both smiling. The background is a traditional Chinese dojo, with a banner in the back that reads “Making friends through martial arts.”",
+    "title": "Bruce Lee sparring with Yoda in a dojo",
+    "description": "A Chinese prompt depicting Bruce Lee in his yellow jumpsuit playfully sparring with Yoda in a traditional Chinese dojo, great for fun crossover fan art.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886776230_khxywd_G6RNcCXbYAAxWct.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A pixelated video game character is trying to climb out of the TV screen into the living room. A real human player is frantically using a controller to push the character back into the screen.",
+    "title": "Pixel game character climbing out of TV",
+    "description": "An English/Chinese mixed prompt describing a pixelated game character trying to crawl out of a TV into a living room while a real player pushes it back with a controller, great for playful surreal scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886834453_verzlx_G6RMg5na4AAy3d8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an illustration of a cute cat-eared girl. Make her in a chibi style, wearing frilly clothes, with long {argument name=\"hair_color_en\" default=\"pink\"} hair.",
+    "title": "Cute chibi cat-eared girl illustration",
+    "description": "A straightforward prompt for generating a cute chibi-style cat-eared girl with frilly clothes and long pink hair.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886582456_55g2jp_G6RL8pKa0AArXjI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Take the clothing from the reference and change my clothing to match it",
+    "title": "Change clothing to match reference outfit",
+    "description": "A fashion-edit prompt that swaps the user’s clothes to match those shown in a reference image while keeping everything else intact.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887496456_p88ava_G6RLaTFbEAAUH0W.jpg",
+      "https://cms-assets.youmind.com/media/1763887498491_472fb1_G6RLa2xagAI7ZNl.jpg",
+      "https://cms-assets.youmind.com/media/1763887501295_w35lzz_G6RLcCSagAAysgg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Dream diary. A pink Kirby lying asleep on a star, blowing rainbow-colored bubbles from its mouth. Soft macaron color palette, cloud and candy stickers, glittery crayon-like details, dreamy and sweet.",
+    "title": "Dream diary with Kirby blowing bubbles",
+    "description": "A cute prompt for a dreamy diary-style illustration of a pink Kirby sleeping on a star, blowing rainbow bubbles amid pastel clouds and candy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886710060_ndpy3q_G6RHoGna4AArBDN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Draw a BANANA-themed Twitter banner image for AIFocus that matches Google’s brand tone and design elements.",
+    "title": "AIFocus Twitter banner with Google branding",
+    "description": "A Chinese prompt to create a Banana-themed Twitter banner for AIFocus that matches Google’s brand tone and design elements, suitable for social media branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886834681_uzf8a7_G6RDsJyaIAAtBk3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A 16-bit pixel art poster showcasing all the black and white animals of nature. The composition uses a neat grid layout, reminiscent of a retro video game character selection screen or an encyclopedia page. Each animal is labeled with its English name in clear retro pixel font. The background is clean white or light gray, with vivid pixel details, exuding a retro aesthetic and high-quality production. --ar 16:9",
+    "title": "16-bit pixel art poster of black-and-white animals",
+    "description": "An English prompt to create a 16-bit pixel art poster featuring all black-and-white animals in nature arranged in a grid, each labeled with its English name, in retro game or encyclopedia style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886934411_7ftyyz_G6RBWw9bMAA_3mB.jpg",
+      "https://cms-assets.youmind.com/media/1763886937225_qvfjw4_G6RBYuEaMAAP1uA.jpg",
+      "https://cms-assets.youmind.com/media/1763886939793_cofylh_G6RBbCnaEAE_NK0.jpg",
+      "https://cms-assets.youmind.com/media/1763886942530_r1ag1x_G6RBl3PaYAABPC4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A salted fish lies in a frying pan, trying hard to flip over, but even after flipping it’s still a salted fish. The art style is minimalist hand-drawn. Next to it, add the caption: “The salted fish turns over… but is still a salted fish.”",
+    "title": "Salted fish trying to flip in a pan",
+    "description": "A humorous Chinese prompt depicting a salted fish in a frying pan trying to flip over, with minimalist hand-drawn style and accompanying text, good for memes or motivational jokes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886810362_yo1f0k_G6Q_SssbAAAOrWs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Turn the character in the attached image into a chibi character. Create LINE stickers, with different expressions, poses, and speech bubbles, in {argument name=\"num_stamps_en\" default=\"12\"} variations.",
+    "title": "Chibi character LINE stickers set",
+    "description": "A prompt to convert an attached character into a chibi style and generate a 12‑piece LINE sticker set with different expressions, poses, and speech bubbles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886550479_5bflpy_G6Q5lyJbEAAI5Pb.jpg",
+      "https://cms-assets.youmind.com/media/1763886553249_qsyusa_G6Q5lyHaQAA02bY.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A cross-sectional view of a giant watermelon. The red flesh is actually a swimming pool filled with red water. The black watermelon seeds are swim rings. Miniature people are swimming and sunbathing on the watermelon rind. Summer vibe.",
+    "title": "Watermelon swimming pool micro-world",
+    "description": "A whimsical prompt for a cross-section of a giant watermelon whose flesh is a swimming pool with tiny people relaxing, evoking a fun summer mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886756202_1g3q3v_G6QxDHEacAIO_xc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "At golden hour, a huge, semi-transparent blue whale swims through a sea of white, fluffy clouds. The whale’s body is made of seawater, and you can see schools of fish swimming inside it. Sunlight passes through the water-formed whale, refracting into a rainbow. The scene is surreal and magnificently grand.",
+    "title": "Surreal translucent blue whale in the clouds",
+    "description": "A Chinese prompt describing a golden-hour scene of a giant translucent blue whale made of water swimming through clouds, refracting a rainbow, grand and surreal.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886763402_um7z88_G6QvTkCacAATNjA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "This is a YouTube thumbnail where, on the right side, there is an image of a person wearing a white mask being interviewed.\nUsing this aesthetic, I want to share the information architecture for the thumbnail with the AI and have it create the thumbnail, so please think of a prompt.\n\nThe reference image is only for the masked person on the right ({argument name=\"character_name_en\" default=\"Eru\"}); use that as the reference, and make the layout, text size, and design so that the click-through rate is maximized.\n\nThe target audience is men in their {argument name=\"target_age_range_en\" default=\"late 20s to 30s\"} who struggle with communication skills.\n\n# Thumbnail information architecture\n<Left side>\nThree layers of conversation (small)\nExpress them as an inverted triangle\nDivide into three colors\nIn reality, from top to bottom, the following three (blur the text):\n・Abstract\n・Facts\n・Concrete\n\n<Right side>\n{argument name=\"character_name_en_again\" default=\"Eru\"} (the masked person)\n“This is all there is to conversation” (put this in a speech bubble)\n\n<Bottom>\n“With this,\nconversations go on forever” (stretch across the full width)",
+    "title": "YouTube thumbnail design brief for a masked interview video",
+    "description": "A long, detailed prompt asking the AI to design a high-conversion YouTube thumbnail using a masked character from a reference image, focusing on layout, text, and target audience.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886590365_n7nw34_G6QkOUmbIAAIdKH.png",
+      "https://cms-assets.youmind.com/media/1763886606889_70r944_G6QkQpnasAAWyXd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "First take two portrait photos as reference images, then have Nano Banana use these two images to generate a podcast cover. Specify the background as a “black conceptual image” and the lighting as “studio lighting,” and {argument name=\"pose_instructions\" default=\"you can specify a TV show cover to reference for the pose, or leave it free for creative interpretation\"}.",
+    "title": "Podcast cover from two reference portraits",
+    "description": "A flexible prompt idea for generating a podcast cover using two uploaded portraits as references, with a black conceptual background and studio lighting, optionally matching poses from TV show posters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886886173_6d4388_G6QVwnraQAAuxEB.jpg",
+      "https://cms-assets.youmind.com/media/1763886889169_4nkbpf_G6QVwnsaUAA7ASb.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Merge me with my profile picture.",
+    "title": "Merge user with profile picture",
+    "description": "A short prompt to blend the user’s appearance with their profile picture, creating a hybrid portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887012141_voye06_G6QOfW2XQAA9euP.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Draw the illustration on a blackboard with chalk, using colored chalk. The blackboard is photographed from a diagonal angle, in the setting of a Japanese classroom. The blackboard is fixed to the wall with a teacher’s desk in front of it. Next to the illustration, also in chalk, write “{argument name=\"blackboard_text_en\" default=\"Tora has arrived!\"}”.",
+    "title": "Chalk drawing of an illustration on a classroom blackboard",
+    "description": "A prompt to render an illustration as a colorful chalk drawing on a Japanese classroom blackboard, viewed from an angle, with a specific phrase written beside it.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886595671_y9avyl_G6PhtRVacAUYbOW.jpg",
+      "https://cms-assets.youmind.com/media/1763886599021_kioyvr_G6Ph5J6acAIE7cq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A modern and stylish graphic design poster for a {argument name=\"event_name_en\" default=\"Christmas Sale\"}, with a vibrant, playful energy.\nThe background is a solid, vibrant, festive holiday {argument name=\"background_color_en\" default=\"red\"}.",
+    "title": "Modern Christmas sale poster design (English)",
+    "description": "An English prompt for a modern, stylish Christmas sale poster with a solid festive red background and vibrant, playful energy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886618177_tld5ao_G6PpzDNaUAATGGw.jpg",
+      "https://cms-assets.youmind.com/media/1763886621419_dk18ji_-rwqzpjuVIAdolee.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Guts and Griffith on a movie set.\n\nEinstein sets up a food stall on Mars, handing a jianbing guozi to Sun Wukong. Behind him is a sign reading “Relativity Brunch.” Shakespeare measures Mars with a tape measure out in space.",
+    "title": "Guts and Griffith on movie set",
+    "description": "A pair of imaginative prompts: one placing Guts and Griffith on a movie set, and another surreal Mars food stall scene with Einstein, Sun Wukong, and Shakespeare.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887264846_asmckh_G6O9JegXQAAt8RZ.jpg",
+      "https://cms-assets.youmind.com/media/1763887267856_1heq2c_G6O9KyJW0AAc9Vs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A lush, hand-painted anime landscape of a rolling green hillside with a small cottage. Fluffy, massive cumulus clouds in a bright blue sky. Vibrant greens and soft shadows. A gentle breeze blowing the grass. Detailed, peaceful, and nostalgic style.",
+    "title": "Peaceful anime hillside landscape",
+    "description": "A lush hand-painted anime scene of a cottage on a green hillside under massive clouds, ideal for calm, nostalgic backgrounds.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887134299_mw0yq4_G6O3lfeXAAA-u_i.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a cartoon of something and then ask for the realistic version of it.",
+    "title": "Cartoon-to-realistic transformation",
+    "description": "A meta-prompt pattern suggesting you first create a cartoon of something, then ask for its realistic version.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887073705_ao2jhp_G6O28xIacAA6yPb.jpg",
+      "https://cms-assets.youmind.com/media/1763887076423_autvcl_G6O29gWacAE3DXx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a poster that visually explains the most common camera angles in filmmaking, with clear labels and examples for each angle, cinematic, realistic.",
+    "title": "Camera angles poster",
+    "description": "A prompt for a cinematic poster that visually explains common camera angles in filmmaking with labels and examples in a realistic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887116276_mebspu_G6OuHm1bEAAplqV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate a diagram of a space shuttle in space",
+    "title": "Space shuttle diagram in space",
+    "description": "Generates a diagram-style image of a space shuttle in outer space, useful for educational or illustrative content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887454501_x0e4n3_G6OnbMzbAAABomT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Help me generate the image DM for this project (you need to fetch their information).\n{argument name=\"project_url\" default=\"https://t.co/aefomvKq9A\"}",
+    "title": "Image DM for a project using fetched info",
+    "description": "An English prompt asking the model to fetch information from a given project URL and create a marketing DM image, useful for auto-populated promo graphics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886803022_qtc8zp_G6OjGeybUAAaG_H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "make this a {argument name=\"brand_en\" default=\"Lamborghini\"} ad",
+    "title": "Turn photo into a Lamborghini ad",
+    "description": "A very short prompt for transforming an existing image into something that looks like a Lamborghini advertisement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886986347_5x1igo_G6OgPJFW4AEL_hK.jpg",
+      "https://cms-assets.youmind.com/media/1763886989111_vy47ie_G6OgP7kXQAADTCs.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "The person from the reference photo (keep the face of the person 100% accurate to the reference image) is relaxing on a fluffy, glowing cloud high above the sky, surrounded by soft golden sunlight and vast layers of clouds stretching to the horizon. The person is lying back comfortably with a pillow, wearing a dark long‑sleeve shirt, olive green pants, and glasses, holding a book in one hand and a coffee cup in the other. The lighting is cinematic and warm, capturing the golden hour ambiance with radiant highlights and gentle shadows across the clouds. Captured with a wide‑angle lens at medium depth of field, it balances focus between the subject and the surrounding dreamy sky. The overall atmosphere is surreal and serene, blending realism with fantasy in a peaceful, imaginative setting.",
+    "title": "Person relaxing on glowing cloud above the sky",
+    "description": "A detailed photo-edit prompt that places the person from your reference photo relaxing on a glowing cloud at golden hour, ideal for dreamy, surreal portraits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887474439_1fu21g_G6OYkPWXsAAYLNB.jpg",
+      "https://cms-assets.youmind.com/media/1763887477237_2gzxbo_G6OYkNmWsAEJNk6.jpg",
+      "https://cms-assets.youmind.com/media/1763887480573_44sduz_G6OYkRGWkAAycLZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Diagram of the body showing which muscles are affected by the bench press.",
+    "title": "Bench press muscle diagram",
+    "description": "A straightforward anatomy prompt that generates a body diagram highlighting the muscles activated during the bench press exercise.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887109177_98hks9_G6OYdmpXoAAWhKh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Convert this image into a YouTube thumbnail, and add the text \"{argument name=\"thumbnail text_en\" default=\"OMW\"}\" spanning the entire background.",
+    "title": "Convert image into YouTube thumbnail with OMW text",
+    "description": "A prompt to turn an existing image into a YouTube thumbnail and overlay large background text reading OMW.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887032894_kc6wha_G6OQeBCXAAAuKyn.jpg",
+      "https://cms-assets.youmind.com/media/1763887043983_qczcw6_G6OQg0YXgAAyH1x.jpg",
+      "https://cms-assets.youmind.com/media/1763887047025_8ntrkm_ydGocOW7N6YP9Jeg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Hyper-realistic, ultra close-up portrait of a young woman’s face covered in thick golden honey, with viscous honey streams dripping from her forehead, nose, and lips. Several honeybees rest on her cheeks and near her mouth, sharply in focus with visible fuzzy hairs and transparent wings. Use warm golden hour lighting, with the sun hitting her face from the side to create soft highlights and deep shadows. Skin texture is extremely detailed with visible pores, freckles, and a natural glow, slightly wet and glossy from the honey. Her eyes are wide open and intense, with amber-brown irises, sharp reflections, and bright catchlights, defined eyelashes, and eyelids with a subtle golden shimmer. Her lips are slightly parted, with honey slowly dripping from the lower lip in a long strand. The background is softly blurred with warm yellow and orange bokeh. Shot on a high-end DSLR with an 85mm lens at f/1.4, 8K resolution, hyper-real, ultra-detailed, cinematic beauty photography, studio-quality lighting, perfect focus on the eyes and bees, and shallow depth of field.",
+    "title": "Hyper-real honey-covered woman with bees close-up",
+    "description": "A very detailed portrait prompt of a woman’s face covered in honey with bees in sharp focus, ideal for cinematic beauty photography style renders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887019194_o55uum_G6OGa55XEAAvg6H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a block diagram describing the process of {argument name=\"process_name_en\" default=\"RLVR\"}.",
+    "title": "RLVR block diagram",
+    "description": "A simple prompt to generate a block diagram illustrating the RLVR process, useful for technical presentations or documentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887089975_m54ru1_G6N8jX2acAMv53D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate a Chinese rental contract for me and place my signature on it.",
+    "title": "Chinese rental contract with user’s signature",
+    "description": "A Chinese prompt to generate a rental contract document in Chinese and place the user’s handwritten signature onto it, useful for testing document editing capabilities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886837882_rumtyf_G6N58soboAALFE4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Dress the person from the second image in the clothes from the first image.",
+    "title": "Outfit transfer between two images",
+    "description": "A reference-based editing prompt that dresses a person from one image in the clothes from another, ideal for virtual try-on or fashion swaps.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887112350_bihhsx_G6N1Gk6bIAAvBji.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A 9:16 vertical-format fisheye selfie of an ultra-realistic woman, based on a photo, together with {argument name=\"character_list_en\" default=\"Doraemon, Naruto, Nobita, Satoru Gojo, Sung Jin, and Ash from Pokémon\"}. Everyone is smiling with silly, exaggerated expressions. The scene is set in a small, bright living room with white tones, shot from a high camera angle with extreme fisheye distortion. The anime characters are lit with realistic, cinematic lighting and integrated into a stylized realistic look.",
+    "title": "Fisheye selfie with anime characters",
+    "description": "A fun fisheye selfie prompt combining a realistic woman with several popular anime characters in a bright living room, ideal for stylized realism and integration tests.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887234708_qt923b_G6Nw8foXoAAiqOo.jpg",
+      "https://cms-assets.youmind.com/media/1763887238759_d594qp_G6NSdnDWUAAOfB8.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A realistic, slightly cinematic scene of Albert Einstein teaching a class at MIT in the early 20th century. Show him at a large chalkboard covered with equations, chalk in hand, mid‑explanation. The classroom has wooden desks, warm natural light from tall windows, and attentive students. On the chalkboard, clearly written in Devanagari, include the sentence: \"मैं आपसे रिलेट नहीं कर पा रहा, क्योंकि रिलेटिविटी अभी तक डिस्कवर नहीं हुई है\". Capture Einstein’s characteristic hair, suit, and expressive posture. Blend historical accuracy with playful anachronism, maintaining a high‑detail, academic visual style.",
+    "title": "Einstein teaching at MIT with Hindi joke text",
+    "description": "A detailed prompt for a realistic classroom scene of Einstein at an MIT chalkboard, with a playful Devanagari sentence written clearly on the board.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887066990_7cvztk_G6Nr4Z7acAA1P_J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate an image in the style of a modern anime movie, but only change the girl on the left.",
+    "title": "Modern anime-film style, only modify left girl",
+    "description": "A concise prompt to transform only the left girl in an image into a modern anime movie art style, keeping the rest of the image unchanged.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886891788_hesfzy_G6NjQy0acAoDa_V.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "change the scene to a new battle and environment with new Pokémon",
+    "title": "New Pokémon pixel art battle scene",
+    "description": "Uses an existing pixel-art battle scene as reference and generates a new battle with different Pokémon and environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887438773_h6vtsn_G6NhJQkXIAIuM5D.jpg",
+      "https://cms-assets.youmind.com/media/1763887442295_sp9076_G6NhKrgXIAMa7ia.jpg",
+      "https://cms-assets.youmind.com/media/1763887445305_ix19je_G6NhQXjXIAAz23a.jpg",
+      "https://cms-assets.youmind.com/media/1763887447714_zmk1hr_G6Nhdo7XIAAbOXI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Show these 8 people in a “choose your character” video game screenshot",
+    "title": "Oscars selfie as a character-select game screen",
+    "description": "A playful prompt that turns eight people from a reference photo into a choose-your-character style video game selection screen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887486298_v49rjp_G6NeDeYXMAA9hP2.jpg",
+      "https://cms-assets.youmind.com/media/1763887490486_3ewlu3_G6NeVOzWcAAPN2J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "80s US import TV anime.",
+    "title": "1980s US import TV anime style",
+    "description": "A minimal prompt specifying 80s US-imported TV anime style, suited for retro animated show imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886086271_a22o2v_G6NeWS4WQAAMyP-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Put this whole text, verbatim, into a photo of a glossy magazine article on a desk, with photos, beautiful typography design, pull quotes, and bold formatting. The text: {argument name=\"article text_en\" default=\"[...the unformatted article]\"}.",
+    "title": "Glossy magazine article with full text",
+    "description": "Generates a photo of a glossy magazine article laid on a desk, containing the entire supplied text with designed typography, photos, and pull quotes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887054878_tg7sxg_G6NXhzHWUAAL6HP.jpg",
+      "https://cms-assets.youmind.com/media/1763887057441_xspa3g_G6NXqKsWAAAPRpy.jpg",
+      "https://cms-assets.youmind.com/media/1763887060611_v5mhxw_G6NWMceXMAA4Yn8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A medium shot of the {argument name=\"character_count_en\" default=\"14\"} fluffy characters sitting squeezed together side by side on a worn beige fabric sofa and on the floor. They are all facing forward, watching a vintage wooden-box television set placed on a low wooden table in front of the sofa. The room is dimly lit, with warm light from a window on the left and the glow from the TV illuminating the creatures’ faces and fluffy textures. The background is a cozy, slightly cluttered living room with a braided rug, a bookshelf with old books, and rustic kitchen elements in the background. The overall atmosphere is warm, cozy, and amused.",
+    "title": "Cozy TV-watching group of fluffy characters",
+    "description": "A richly described medium-shot scene of 14 fluffy characters squeezed together watching a vintage TV in a cozy living room.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887392995_q551ez_G6NXWXbW8AAUG4W.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Based on the following classical poem, draw an illustration and include the original text.\n{argument name=\"full_poem_en\" default=\"[Paste the full text of the poem “Song of Everlasting Regret (Chang Hen Ge)” here]\"}",
+    "title": "Illustration based on the poem “Song of Everlasting Regret”",
+    "description": "A long Chinese prompt requesting an illustration based on the classical Chinese poem “Chang Hen Ge,” including the full poem text to appear with the image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886647059_omru2o_G6NVDc0acAkj8HI.jpg",
+      "https://cms-assets.youmind.com/media/1763886650400_h7hjqe_G6MjNA9aIAAaLoG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Make a realistic infographic of the {argument name=\"subject_en\" default=\"human skeletal system\"} with labels.",
+    "title": "Realistic human skeletal system infographic",
+    "description": "Generates a realistic infographic showing the human skeletal system with labels, ideal for educational content.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887077677_u8wsnh_gRfkx8K6X4IOkRHj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Draw a header image for Nano Banana Pro that matches Google Nano Banana’s brand tone and design elements.",
+    "title": "Nano Banana Pro branded header (duplicate)",
+    "description": "Another instance of the prompt requesting a Nano Banana Pro header image aligned with Google’s Nano Banana branding, for hero images or social media banners.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886810023_0i7j60_G6NSh5racA8_oZz.jpg",
+      "https://cms-assets.youmind.com/media/1763886813025_cy2dad_G6L_z4macAM-vx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Draw a hero image for {argument name=\"product_name_en\" default=\"Nano Banana Pro\"} that matches Google Nano Banana’s brand tone and design elements.",
+    "title": "Nano Banana Pro-themed hero image (duplicate Chinese prompt 3)",
+    "description": "A repeated Chinese prompt to draw a Nano Banana Pro header image aligned with Google Nano Banana branding.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886645248_fzcs8m_G6NR5mpacAYGp6Z.jpg",
+      "https://cms-assets.youmind.com/media/1763886648535_1sc47p_G6L_z4macAM-vx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create an image of a cartoon still from a Futurama-like show about the future where a spaceship floats in front of about {argument name=\"number_of_signs_en\" default=\"29\"} signs telling it to go away",
+    "title": "Futurama-style spaceship and warning signs",
+    "description": "A prompt for generating a cartoon still in a Futurama-like style showing a spaceship confronted with many warning signs, great for humorous sci‑fi scenes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887085226_95xwmz_G6NSRtKaEAA0lxc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Draw a hero/header image for Nano Banana Pro that matches Google Nano Banana’s brand tone and design elements.",
+    "title": "Nano Banana Pro brand hero image (with later edit request)",
+    "description": "The main prompt asks for a Nano Banana Pro hero image in Google’s brand style; replies mention editing chopsticks to hold a condom, suggesting a possible humorous variant.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886712786_pmrn6s_G6NRp68bwAABgQy.jpg",
+      "https://cms-assets.youmind.com/media/1763886715240_60swji_G6L_z4macAM-vx3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cristiano Ronaldo taking a selfie with Elon Musk and Vladimir Putin, all three wearing suits and standing in front of the White House. The image should capture a friendly and relaxed atmosphere, with good lighting on their faces and the White House clearly visible in the background.",
+    "title": "Ronaldo selfie with Musk and Putin",
+    "description": "A humorous speculative prompt where Cristiano Ronaldo takes a selfie with Elon Musk and Vladimir Putin in front of the White House, all wearing suits.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887167739_14nsws_G6NLIB5acAM4xtu.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change the dimensions to {argument name=\"aspect_ratio_en\" default=\"9:16\"}, put sunglasses on him, add a curled black mustache, and change the font to {argument name=\"font_type_en\" default=\"square Kufi\"}.",
+    "title": "Portrait edit with sunglasses, mustache, and 9:16 ratio",
+    "description": "A prompt to edit an existing image by changing its aspect ratio to 9:16, adding sunglasses and a curled black mustache, and switching the font to square Kufi.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886027263_895oeq_G6NIzU_WoAAG7X6.jpg",
+      "https://cms-assets.youmind.com/media/1763886039153_qanm5x_G6NE0jOXcAAuiOo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A black-and-white portrait of an elderly bearded man, full face, with deep-set eyes, fine wrinkles, and strong natural light coming from one side, in high resolution and very realistic photo style.",
+    "title": "Elderly bearded man black-and-white portrait",
+    "description": "A straightforward portrait prompt for a highly realistic black-and-white photo of an elderly bearded man with strong side lighting and detailed wrinkles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887291411_v5xdnf_G6NEI2RacAExrMP.jpg",
+      "https://cms-assets.youmind.com/media/1763887309411_8pcft4_G6NELJ4acAUSUe-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please draw a flowchart for hand-drip coffee with simple explanations. The style should be like a Japanese fashion/lifestyle magazine, but the explanatory text should be in Taiwanese Traditional Chinese.",
+    "title": "Hand drip coffee flowchart in Japanese magazine style",
+    "description": "A Traditional Chinese prompt to draw a hand-drip coffee process flowchart with simple explanations in Taiwan Traditional Chinese, styled like a Japanese fashion or lifestyle magazine, perfect for café visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886851879_iv7pon_G6NF90eacAMg3l3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Unplanned paparazzi-style portrait, an intense close-up moment capturing a man with striking features as he {argument name=\"pose_en\" default=\"looks over his shoulder with a confident smirk\"}. Shot from a slightly low angle, showing only his face and shoulders amidst a blurred, bustling crowd. The image feels raw and spontaneous, lit by a harsh flash and high-ISO texture. He is wearing {argument name=\"outfit_en\" default=\"a dark turtleneck and stylish sunglasses\"}, embodying effortless street-style chic, with energy and atmosphere reminiscent of Paris Fashion Week chaos.",
+    "title": "Unplanned paparazzi-style street portrait of a man",
+    "description": "A cinematic paparazzi-style close-up portrait prompt capturing a confident man amid a bustling crowd with harsh flash and street-fashion vibes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887468606_y1ni2w_G6NCNWlacAU3dDH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Help me create a poster where {argument name=\"band_name\" default=\"Google Banana Band\"} is going to hold a concert on {argument name=\"concert_date\" default=\"2025/12/31\"} at {argument name=\"venue\" default=\"Taipei Dome\"}.",
+    "title": "Concert poster for Google Banana Band",
+    "description": "A Chinese prompt for designing a poster announcing a Google Banana Band concert on a specific date at a major venue, good for testing typography and layout in Traditional Chinese.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886676613_lexji3_G6M-nimacAILke5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An epic LEGO Spider-Man striking a highly dynamic action pose, showcasing his iconic superpowers and wearing his signature suit, with colors and details faithfully recreated. A dramatic stormy sky overhead, with dazzling lightning illuminating the entire scene. The superhero stands in a heroic posture, surrounded by swirling LEGO fragments and flying bricks, with tiny LEGO minifigures scattered around the scene, gazing in awe. The overall composition is like a cinematic movie poster, with realistic rendering, an epic superhero atmosphere, rich and saturated colors, and professional depth of field with dramatic lighting and shadows.",
+    "title": "Epic LEGO Spider-Man movie poster scene",
+    "description": "A detailed Chinese prompt for an epic LEGO-style Spider-Man action scene with stormy skies, lightning, scattered bricks and cinematic poster-style composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886668521_fzthib_G6MgHcQacAIb5cC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An old street in pouring rain, with dim yellow streetlights, distorted neon signs reflected on the wet ground, and a person holding a transparent umbrella standing at the center of the frame, face not visible, shallow depth of field, cinematic composition, 8K, grainy texture, with a slightly blue-green cool tone.\n\nAn ancient cathedral completely submerged underwater. Sunlight penetrates the water surface, with volumetric rays filled with floating particles. Stained glass windows cast colorful patterns onto the stone floor, tens of thousands of tiny bubbles rise up, and a diver wears a sleek suit.\n\nTurn the design draft into a realistic product photo.",
+    "title": "Cinematic rainy street, underwater cathedral, and design-to-photo",
+    "description": "Replies contain multiple Chinese prompts: a rainy old street with neon reflections, a submerged cathedral with volumetric light and diver, and a request to turn a design draft into a real object image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886733994_mv705z_G6MM5PwWkAA0LxK.jpg",
+      "https://cms-assets.youmind.com/media/1763886736904_1pcf6n_G6MM5PuWUAA0uPf.jpg",
+      "https://cms-assets.youmind.com/media/1763886739743_h0acba_G6MNSndWEAAb2RN.jpg",
+      "https://cms-assets.youmind.com/media/1763886742389_ngmhyh_G6MNSxYX0AAV9cz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Generate an image of a Japanese-style beautiful girl standing at the subway door, sweet and charming.",
+    "title": "Sweet Japanese-style girl at subway door",
+    "description": "A Chinese prompt to generate a Japanese-style cute girl standing at a subway door, suitable for fashion or character imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886849353_zxiybl_G6MBmWmacAk9lnc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"description\": \"A lone woman standing in a dark, foggy urban environment, silhouetted against a glowing red neon rectangular frame. The palette is moody teal and red, with a minimalistic composition and futuristic ambience. Tall buildings fade into the fog with soft diffusion, dramatic contrast, cinematic lighting, wet pavement reflections, a cyberpunk atmosphere, volumetric fog, and ultra-detailed rendering.\",\n  \"style\": {\n    \"mood\": \"cinematic, surreal, minimal\",\n    \"lighting\": \"neon red glow with soft fog diffusion\",\n    \"colors\": \"teal shadows and red highlights\",\n    \"camera\": \"85 mm lens, low angle, high contrast\"\n  },\n  \"environment\": {\n    \"setting\": \"deserted city street\",\n    \"weather\": \"dense fog\",\n    \"architecture\": \"tall dark modern monolithic buildings\"\n  },\n  \"character\": {\n    \"type\": \"silhouette\",\n    \"gender\": \"female\",\n    \"clothing\": \"long coat with minimal detail\",\n    \"pose\": \"standing still, facing forward\"\n  },\n  \"effects\": {\n    \"fog\": \"volumetric\",\n    \"light_frame\": \"glowing red rectangular portal\",\n    \"reflections\": \"subtle reflections on wet pavement\"\n  }\n}",
+    "title": "Cyberpunk woman in neon frame",
+    "description": "A structured JSON prompt of a lone woman in a foggy cyberpunk city street, silhouetted in a glowing red rectangular frame with teal and red lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763887306385_5ujmij_G6L2s31acAE90yy.jpg",
+      "https://cms-assets.youmind.com/media/1763887308435_o2n3pk_G6L2s3NbYAAKAGK.jpg",
+      "https://cms-assets.youmind.com/media/1763887315724_ecbxt3_G6L2s6ZaUAA8Gdx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Man in an apartment.",
+    "title": "Man in an apartment scene",
+    "description": "A very minimal French prompt describing a man in an apartment, useful as a simple base scene for character-focused images.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763886045964_c2a7pe_wCrV3zTcMFq7WRNR.jpg"
+    ],
+    "needReferenceImages": false
+  }
+]

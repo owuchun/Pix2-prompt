@@ -1,36 +1,40 @@
 {
-  "query": "dopamine:2 girl:1 vibrant:1",
+  "query": "cute:2 fluffy:1.5 portrait:1 cat:0.1",
   "keywords": [
     {
-      "keyword": "dopamine",
+      "keyword": "cute",
       "weight": 2
     },
     {
-      "keyword": "girl",
+      "keyword": "fluffy",
+      "weight": 1.5
+    },
+    {
+      "keyword": "portrait",
       "weight": 1
     },
     {
-      "keyword": "vibrant",
-      "weight": 1
+      "keyword": "cat",
+      "weight": 0.1
     }
   ],
-  "best_category": "profile-avatar.json",
-  "category_score": "4.0",
+  "best_category": "others.json",
+  "category_score": "4.6",
   "top_prompts": [
     {
-      "title": "E-Girl Y2K Grunge Selfie Portrait and Motion Control Prompt",
+      "title": "Sweet Japanese-style girl at subway door",
       "score": "2.0",
-      "content": "{\n     \"image_generation_prompt\": {     \"subject\": {       \"demographics\": \"Young woman, fair skin, slim build\",       \"hair\": {         \"color\": \"Silver grey\",         \"style\": \"High pigtails, straight texture\",         \"details\": \"Bangs framing the forehead and sides of the face\"       },       \"face_and_makeup\": {         \"eyes\": \"Green/hazel eyes, heavy winged eyeliner, long lashes\",         \"expression\": \"Sultry gaze, slightly parted lips\",         \"action\": \"Right index finger touching lower lip or corner of mouth\"       }     },     \"attire\": {       \"clothing\": \"Sleeveless corset-style top with deep scoop neckline and visible hook-and-eye closures, partially visible skirt or shorts\",       \"accessories\": \"Silver cross pendant necklace on a thin chain\"     },     \"pose\": {       \"type\": \"High-angle selfie\",       \"body_position\": \"Arm extended toward camera, body angled slightly\"     },     \"setting\": {       \"location\": \"Bedroom interior\",\n       \"background_elements\": [         \"Large white textured pillows (tufted or knit)\",         \"White sheets\",         \"Dark wall\"       ],       \"ambient_lighting\": \"Purple LED strip light running horizontally behind the headboard\",       \"atmosphere\": \"Dimly lit room with colored accent lighting\"     },     \"style_and_technical\": {       \"aesthetic\": [         \"E-girl\",         \"Y2K grunge\",         \"2000s digital aesthetic\"       ],       \"lighting_technique\": \"Direct on-camera flash, harsh high-contrast lighting on subject against darker background\",       \"camera_settings\": {         \"angle\": \"High-angle wide selfie\",         \"distortion\": \"Slight wide-angle distortion\",         \"color_profile\": \"Full color, natural color rendering with vibrant neon purple accent\"       },       \"aspect_ratio\": \"3:4\"      }    }  }\n\nMotion control prompt:\nGenerate a realistic video using the attached reference image as the identity anchor. Preserve the subject’s overall appearance exactly as shown in the reference image, including face structure, skin tone, hair color and texture, body proportions, and general silhouette. Maintain strong identity consistency across all frames while allowing natural motion, subtle expression changes, and realistic body movement. Do not alter the subject’s physical traits; only introduce smooth, lifelike animation and camera motion. Ensure lighting, realism, and visual fidelity remain consistent with the reference image throughout the video."
+      "content": "Generate an image of a Japanese-style beautiful girl standing at the subway door, sweet and charming."
     },
     {
-      "title": "Mirror Selfie with Identity Preservation and Vibrant Background",
-      "score": "2.0",
-      "content": "Use the same face from the reference image without changing facial features\n{\n  \"subject\": {\n    \"gender\": \"female\",\n    \"appearance\": {\n      \"ethnicity\": \" western\",\n      \"hair\": \"long, straight, blonde with subtle warm highlights, messy bangs spread on forehead \",\n      \"facial_features\": \"almond-shaped eyes, well-defined dark eyebrows, high cheekbones, radiant smile\",\n      \"makeup\": \"natural 'clean girl' aesthetic, winged eyeliner, soft pink lipstick, manicured long nude-tip nails\"\n    },\n    \"pose\": \"mirror selfie, holding a black smartphone with a triple-lens camera, head tilted slightly, looking into the mirror\"\n  },\n  \"attire\": {\n    \"top\": \"{argument name=\"top color\" default=\"navy blue or black\"} crew-neck sweatshirt with a bold red horizontal panel across the chest and white piping accents\"\n  },\n  \"environment\": {\n    \"background\": \"minimalist, solid {argument name=\"background color\" default=\"lime-yellow / chartreuse\"} wall, bright indoor lighting\",\n    \"atmosphere\": \"vibrant, cheerful, youthful, high-clarity portrait\"\n  },\n  \"technical_specifications\": {\n    \"shot_type\": \"medium shot, upper body\",\n    \"lighting\": \"bright, even front-lighting, soft shadows\",\n    \"color_palette\": [\"#D1E231\", \"#0A0A0A\", \"#E60000\", \"#FFFFFF\"],\n    \"style\": \"lifestyle photography, social media aesthetic, high resolution\"\n  },\n  \"keywords\": [\n    \"casual chic\",\n    \"gen-z style\",\n    \"mirror selfie\",\n    \"vibrant colors\",\n    \"youthful energy\"\n  ]\n}"
+      "title": "Person relaxing on glowing cloud above the sky",
+      "score": "2.5",
+      "content": "The person from the reference photo (keep the face of the person 100% accurate to the reference image) is relaxing on a fluffy, glowing cloud high above the sky, surrounded by soft golden sunlight and vast layers of clouds stretching to the horizon. The person is lying back comfortably with a pillow, wearing a dark long‑sleeve shirt, olive green pants, and glasses, holding a book in one hand and a coffee cup in the other. The lighting is cinematic and warm, capturing the golden hour ambiance with radiant highlights and gentle shadows across the clouds. Captured with a wide‑angle lens at medium depth of field, it balances focus between the subject and the surrounding dreamy sky. The overall atmosphere is surreal and serene, blending realism with fantasy in a peaceful, imaginative setting."
     },
     {
-      "title": "Summer Dopamine Fresh Style Collage Prompt for Nano Banana Pro",
-      "score": "3.0",
-      "content": "Maintain the character's facial features and hairstyle. Summer dopamine fresh style, vertical collage. The model is wearing {argument name=\"swimwear or beachwear color\" default=\"bright\"} swimwear or beachwear, wearing {argument name=\"hair clip color\" default=\"colored\"} hair clips, holding {argument name=\"fruit or drink\" default=\"a slice of bright red watermelon or a cup of sparkling iced drink\"}. Cute stickers in the shape of “{argument name=\"sticker shape 1\" default=\"water drop\"}” and “{argument name=\"sticker shape 2\" default=\"sun\"}” are affixed to the face. The background is {argument name=\"background color\" default=\"fresh\"} pool blue tiles with a shimmering water surface effect. Hand-drawn doodles include {argument name=\"doodle elements\" default=\"swimming rings, palm trees, and sunglasses\"}. Surrounded by several photos with film strip borders. Sunny natural light, high definition, fresh and vibrant feeling."
+      "title": "Sydney Sweeney Ultra-Photorealistic Editorial Prompt",
+      "score": "1.6",
+      "content": "{\n  \"render_settings\": {\n    \"realism_level\": \"Ultra-photorealistic\",\n    \"texture_quality\": \"8k\",\n    \"lighting_simulation\": \"Ray-traced studio lighting\"\n  },\n\n  \"global_assets\": {\n    \"subject_definition\": {\n      \"identity_reference\": \"{argument name=\"celebrity name\" default=\"Sydney Sweeney\"} (exact likeness)\",\n      \"identity_lock\": \"Strict facial identity preservation\",\n      \"face_structure\": {\n        \"bone_structure\": \"Softly rounded face shape with defined but youthful cheekbones, rounded jawline\",\n        \"nose\": \"Button nose with a slightly rounded tip\",\n        \"eyes\": \"Large, rounded 'doe eyes' (distinctive blue hue), heavy-lidded with a sleepy, sultry bedroom stare\",\n        \"lips\": \"Very full, pouty, pillow-soft lips\"\n      },\n      \"hair\": {\n        \"style\": \"Voluminous blonde bombshell waves with a deep side part\",\n        \"texture\": \"Soft, tousled texture with movement and shine\",\n        \"behavior\": \"Cascading around shoulders and framing the face\"\n      },\n      \"complexion\": {\n        \"skin_texture\": \"Hyper-realistic smooth skin with visible pores and natural flush\",\n        \"finish\": \"Dewy, fresh radiance\",\n        \"makeup\": {\n          \"cheeks\": \"Rosy flushed cheeks, soft highlight\",\n          \"lips\": \"Moisturizing peachy-pink balm or soft gloss\",\n          \"eyes\": \"Soft smudged brown eyeliner, voluminous lashes, natural fluffy brows\"\n        }\n      },\n      \"wardrobe\": {\n        \"item\": \"Mini dress with corset-style bodice\",\n        \"fit\": \"Form-fitting, accentuating curves\",\n        \"fabric\": {\n          \"material\": \"Stretch jersey or soft ribbed knit\",\n          \"tactility\": \"Soft, matte finish that catches light gently\",\n          \"color\": \"{argument name=\"dress color\" default=\"Ivory\"}, pale baby blue, or soft cream\"\n        },\n        \"details\": \"Thin straps, structured bustier seam details, mid-thigh length\"\n      }\n    },\n\n    \"environment_definition\": {\n      \"studio_setup\": {\n        \"background\": \"Seamless warm off-white studio backdrop\",\n        \"atmosphere\": \"Clean, cinematic, intimate luxury studio, slightly ethereal\"\n      },\n      \"lighting_rig\": {\n        \"key_light\": \"Large softbox (Front-Left) creating soft flattering light\",\n        \"fill_light\": \"Soft reflector (Right) to open up shadows\",\n        \"highlights\": \"Dewy highlights on cheekbones, bridge of nose, cupid's bow, and shoulders\"\n      }\n    }\n  },\n\n  \"panel_architecture\": [\n    {\n      \"position\": \"Top-Left (1)\",\n      \"shot_type\": \"Extreme Close-Up (Macro)\",\n      \"composition\": {\n        \"angle\": \"Slight low angle\",\n        \"focus\": \"Lips and lower face\",\n        \"depth_of_field\": \"Ultra-shallow\"\n      },\n      \"action\": {\n        \"primary\": \"Eating a strawberry\",\n        \"nuance\": \"Slow, innocent yet sensual bite, emphasizing pouty lips\"\n      }\n    },\n    {\n      \"position\": \"Top-Right (2)\",\n      \"shot_type\": \"Medium Shot (Thigh-up)\",\n      \"composition\": {\n        \"angle\": \"Eye level\",\n        \"pose_dynamic\": \"Leaning slightly toward camera, shoulders relaxed\""
     }
   ]
 }

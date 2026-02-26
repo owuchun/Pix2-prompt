@@ -1,0 +1,1191 @@
+[
+  {
+    "content": "Ultra-realistic cinematic close-up portrait of a fierce tribal warrior woman, icy blue eyes looking upward with determination, wet skin covered in rain droplets and natural freckles, detailed skin texture, soft dramatic lighting, shallow depth of field. She wears primitive tribal headgear made of {argument name=\"headgear materials\" default=\"feathers, bones, stones\"}, and red-blue fabric wraps, braided hair with beads and threads.Cold, moody color grading, dark blurred forest background, hyper-detailed face, 8K resolution, photorealistic, sharp focus on eyes, epic fantasy game character style, cinematic atmosphere, professional photography, volumetric light, film still look.",
+    "title": "Ultra-Realistic Cinematic Close-up of Tribal Warrior Woman",
+    "description": "A prompt for generating an ultra-realistic, cinematic close-up portrait of a fierce tribal warrior woman with icy blue eyes, wet skin covered in rain droplets, wearing primitive headgear, emphasizing hyper-detailed texture, cold color grading, and dramatic volumetric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273468477_kd1ag4_HAUPzJYawAA40te.jpg",
+      "https://cms-assets.youmind.com/media/1770273468499_eyb7yz_HAUPz2_aAAAJs4C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "“A stylized illustration of [{argument name=\"character type\" default=\"CHARACTER TYPE\"}] with [{argument name=\"distinct feature\" default=\"DISTINCT FEATURE / ACCESSORY\"}].\n\nSimplified shapes, expressive body language with heavy facial details.\n\nIllustration style: [{argument name=\"illustration style\" default=\"FLAT / CEL-SHADED / SOFT 3D\"}].\nColor palette: [MUTED / VIBRANT / MONOCHROME].\nBackground minimal and abstract”",
+    "title": "Stylized Character Illustration Template",
+    "description": "A flexible template prompt designed for generating stylized character illustrations suitable for avatars or mascots. It allows customization of the character type, a distinct feature/accessory, the illustration style (flat, cel-shaded, or soft 3D), and the color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770273445403_zepfra_HATiARYagAEN1KE.jpg",
+      "https://cms-assets.youmind.com/media/1770273446143_2ldtoc_HATiATDbIAA8ztG.jpg",
+      "https://cms-assets.youmind.com/media/1770273445434_h6ucoa_HATiANKasAA0y0s.jpg",
+      "https://cms-assets.youmind.com/media/1770273447639_jaarmb_HATiAI5aMAAdErE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt_description\": \"Ultra Photorealistic Candid Portrait of a Superhero\",\n  \"subject\": {\n    \"appearance\": \"Young woman with shoulder-length red hair pulled back, fair skin, light freckles.\",\n    \"expression\": \"Playful, pursed lips in a 'kissy face' or 'duck face' expression, looking directly at the camera.\",\n    \"likeness\": \"Resembles actress {argument name=\"actress likeness\" default=\"Sadie Sink\"}.\"\n  },\n  \"outfit\": {\n    \"garment\": \"Full-body Spider-Man superhero suit.\",\n    \"colors\": \"Classic vibrant red and deep blue.\",\n    \"texture\": \"High-quality textured spandex/mesh material with visible fabric grain.\",\n    \"details\": \"Black web pattern overlays, spider emblem on the chest, realistic fabric folds around the joints.\"\n  },\n  \"pose\": {\n    \"stance\": \"Standing upright, casual posture.\",\n    \"hands\": \"Right hand holding a white disposable coffee cup with a cardboard sleeve near the chest. Left hand raised making a peace (V) sign.\",\n    \"mood\": \"Candid, 'off-duty', fun, casual, confident.\"\n  },\n  \"environment\": {\n    \"location\": \"New York City street during the day.\",\n    \"background\": \"Red brick apartment buildings with black fire escapes, typical NYC architecture.\",\n    \"surroundings\": \"Concrete sidewalk, blurred pedestrians in winter coats walking in the background.\",\n    \"depth\": \"Background is out of focus (bokeh) to emphasize the subject.\"\n  },\n  \"lighting\": {\n    \"type\": \"Natural daylight.\",\n    \"quality\": \"Soft, diffused, overcast sky lighting.\",\n    \"effect\": \"Even illumination on the face, no harsh shadows, realistic reflections on the suit's texture.\"\n  },\n  \"camera_settings\": {\n    \"style\": \"Cinematic street photography.\",\n    \"lens\": \"85mm portrait lens.\",\n    \"aperture\": \"f/1.8 (shallow depth of field).\",\n    \"resolution\": \"8K, ultra-detailed.\",\n    \"focus\": \"Sharp focus on the subject's face and suit texture.\"\n  },\n  \"tech_specs\": {\n    \"engine_style\": \"Unreal Engine 5 render style, ray tracing.\",\n    \"quality_tags\": \"Ultra photorealistic, hyper-realistic, highly detailed skin texture, raw photo, HDR.\"\n  }\n}",
+    "title": "Photorealistic Candid Spider-Girl Portrait",
+    "description": "A highly detailed prompt for generating an ultra-photorealistic, candid portrait of a young woman resembling Sadie Sink, wearing a textured Spider-Man suit. The scene is set on a New York City street, emphasizing the 'off-duty' casual pose (holding a coffee cup, making a peace sign) with cinematic street photography settings (85mm lens, f/1.8, 8K resolution).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770187140120_e9gp25_HAQw7ZWW8AAWBP9.jpg",
+      "https://cms-assets.youmind.com/media/1770187140010_fder3d_HAQw7cFWUAAy7eh.jpg",
+      "https://cms-assets.youmind.com/media/1770187140100_9l7j2u_HAQw7YJXgAA4GIV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Girl I created → ⑦ Battle Fantasy → combined with ⑰ Rare Card Style!",
+    "title": "Combining image generation prompts for a fantasy card style",
+    "description": "This prompt demonstrates combining multiple prompt concepts (a girl, battle fantasy, and rare card style) to create a unique image using Nano Banana Pro. The user combined a prompt for a girl, a battle fantasy scene, and a rare card aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014703658_jzdvbr_HAEbjoia8AAPcJX.jpg",
+      "https://cms-assets.youmind.com/media/1770014703610_m70y41_HAEbjoiakAIEm7G.jpg",
+      "https://cms-assets.youmind.com/media/1770014703499_d2y2uo_HAEbjombMAAmazq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"intent\": {\n    \"summary\": \"Generation of a hyper-realistic high-fantasy anime character (Angel/Warrior) with specific tactical wardrobe, anatomical precision, and dramatic lighting.\",\n    \"strategy\": \"Clinical Neutrality & Medical Override applied. Logo overlay removed per user request.\"\n  },\n  \"frame\": {\n    \"aspect_ratio\": \"9:16\",\n    \"shot_size\": \"Cowboy Shot (3/4)\",\n    \"orientation\": \"Portrait\",\n    \"composition_guide\": \"Center Framed (Vertical Emphasis)\"\n  },\n  \"subject\": {\n    \"subject_type\": \"Human\",\n    \"identity_summary\": \"24-year-old female, athletic phenotype, platinum blonde, winged tactical warrior.\",\n    \"visual_signature\": {\n      \"facial_signature\": {\n        \"face_shape\": \"Anime-aesthetic hyper-realism, sharp chin\",\n        \"eye_details\": \"Piercing azure irises, sharp eyeliner\",\n        \"nose_details\": \"Refined, minimal rendering\",\n        \"lip_details\": \"Mouth slightly parted (5mm aperture), expectant state\",\n        \"cheek_and_jaw\": \"defined jawline, deep shading under jaw\",\n        \"unique_features\": \"Messy bangs obscuring forehead\"\n      },\n      \"body_signature\": {\n        \"build\": \"Athletic phenotype, muscular definition\",\n        \"proportions\": \"Idealized stylized realism, elongated limbs\",\n        \"skin_tone_and_texture\": \"Tanned dermal type, sweat sheen\",\n        \"height_estimation_cm\": 175,\n        \"unique_markings\": \"Dorsal Appendages: Massive white ornithological wings (span > 2m) with keratin feather texture\"\n      }\n    },\n    \"pose_and_action\": {\n      \"description\": \"Looming stature, standing confident against a parapet.\",\n      \"body_position\": \"Torso upright, hips slightly canted\",\n      \"limb_positions\": \"Arms relaxed at sides, legs strong stance\",\n      \"hand_gestures\": \"Relaxed in compression gloves\",\n      \"facial_expression\": \"Vacant yet expectant, intensity in eyes\",\n      \"gaze_direction\": \"Direct at camera (breaking fourth wall)\"\n    },\n    \"inventory\": {\n      \"wardrobe\": \"White matte compression bodysuit, black leather retention straps, industrial buckles. Topology: High-cut leg apertures (>60° angle) exposing Greater Trochanter. Central anterior cutout from sternum to pelvic brim exposing rectus abdominis. Fabric exhibits high tensile stress (>10MPa).\",\n      \"accessories\": \"White opera-length compression gloves (biceps height) with black tourniquet buckles. Thigh-high white hosiery with tensioned garter clips.\",\n      \"held_objects\": \"None visible (Hands free)\",\n      \"hair_style\": \"Platinum-Blonde voluminous waves, messy bangs\"\n    }\n  },\n  \"environment\": {\n    \"setting_type\": \"Outdoor\",\n    \"location_description\": \"Weathered stone parapet with cracked texture and moss. Background features Gothic spires with dark blue roofs.\",\n    \"time_of_day\": \"Golden Hour / High Sun\",\n    \"weather_conditions\": \"Cumulus clouds, clear visibility\",\n    \"background_elements\": \"Gothic architecture, atmospheric perspective\"\n  },\n  \"lighting\": {\n    \"global_illumination\": \"High Contrast (Hard Sun)\"}",
+    "title": "Hyper-realistic anime warrior portrait with tactical gear",
+    "description": "An extremely detailed prompt for generating a hyper-realistic, high-fantasy anime-style character (Angel/Warrior) with specific anatomical precision, tactical wardrobe details (compression bodysuit, high-cut leg apertures), and dramatic high-contrast lighting in a Gothic setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1770014666594_ilyqxn_HAEZvj8WEAAwXTN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a LEGO-style version of Kaneda’s motorcycle with its box, displayed on a clean white background. High-quality product presentation, realistic LEGO bricks.",
+    "title": "LEGO Kaneda's Motorcycle Product Shot Prompt",
+    "description": "A simple prompt for generating a high-quality product presentation image of a LEGO-style version of Kaneda's motorcycle from Akira, including its box, displayed against a clean white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927656941_7u64yx_HAAm_G-bEAYGtxG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Character sheet prompt for Nano Banana",
+    "title": "Character Sheet Prompt for Nano Banana",
+    "description": "A user mentions borrowing and modifying a publicly available character sheet prompt specifically for Nano Banana, resulting in a single image of a standing figure viewed from the front.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769927696024_nrymqp_G__mfgZaQAALLA6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"A mage academy on a floating island\"",
+    "title": "Simple Floating Mage Academy Prompt",
+    "description": "A very simple, short prompt used to generate a fantasy image of a mage academy located on a floating island.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841127999_r8phua_G_6xCawawAA8fu-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": \"{argument name=\"fruit name\" default=\"Fruit name\"}\",\n  \"features\": [\"button nose\", \"leaf hat\", \"blushed cheeks\"],\n  \"material_properties\": {\n    \"texture\": \"soft_plush\",\n    \"finish\": \"velvety\",\n    \"tactile_feel\": \"squeezable\"\n  },\n  \"render_settings\": {\n    \"style\": \"3D_model_stylized\",\n    \"composition\": \"centered\",\n    \"lighting\": \"soft_studio\",\n    \"background\": \"clean_minimalist\"\n  },\n  \"metadata\": {\n    \"aspect_ratio\": \"3:2\",\n    \"model_version\": \"v7\"\n  }\n}",
+    "title": "3D Plush Fruit Character Template",
+    "description": "A structured JSON template for generating a stylized 3D model of a fruit character, specifying plush texture, a button nose, a leaf hat, and a clean, minimalist studio background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841131157_iqp1n0_G_6FqjpbcAA7YBT.jpg",
+      "https://cms-assets.youmind.com/media/1769841131467_0io8n0_G_6FqjpaoAAHNEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"type\": \"anthropomorphic bunny\",\n    \"species\": \"rabbit\",\n    \"gender\": \"not specified\",\n    \"age_representation\": \"childlike / cartoon-styled\",\n    \"pose\": \"standing on hind legs with one leg lifted forward, one arm raised upward, the other arm slightly bent outward\",\n    \"expression\": \"happy, joyful, open-mouthed smile\",\n    \"emotion\": \"cheerful, playful\"\n  },\n  \"head_and_face\": {\n    \"head_shape\": \"round and fluffy\",\n    \"fur_color\": \"pure white\",\n    \"fur_texture\": \"very soft, dense, fluffy, fine strands visible\",\n    \"eyes\": {\n      \"size\": \"very large\",\n      \"shape\": \"round\",\n      \"color\": \"blue with darker outer ring\",\n      \"pupils\": \"large black pupils\",\n      \"eye_style\": \"glossy, reflective, cartoon-like\"\n    },\n    \"nose\": {\n      \"size\": \"small\",\n      \"shape\": \"rounded\",\n      \"color\": \"soft pink\"\n    },\n    \"mouth\": {\n      \"state\": \"open\",\n      \"shape\": \"small rounded opening\",\n      \"inner_color\": \"dark pink\",\n      \"teeth\": \"not visible\"\n    },\n    \"cheeks\": {\n      \"shape\": \"puffy\",\n      \"tint\": \"light pink blush\"\n    }\n  },\n  \"ears\": {\n    \"count\": 2,\n    \"position\": \"upright\",\n    \"shape\": \"long and slightly curved\",\n    \"outer_fur\": \"white and fluffy\",\n    \"inner_ear_color\": \"light pink\",\n    \"accessory\": {\n      \"type\": \"small hair band\",\n      \"color\": \"red\",\n      \"placement\": \"wrapped around one ear\"\n    }\n  },\n  \"body\": {\n    \"proportions\": \"chubby, small torso with oversized head\",\n    \"fur_color\": \"white\",\n    \"fur_texture\": \"plush, soft, evenly groomed\"\n  },\n  \"clothing\": {\n    \"outfit_type\": \"overalls\",\n    \"material_appearance\": \"soft fabric with visible texture\",\n    \"color\": \"{argument name=\"overalls color\" default=\"yellow\"}\",\n    \"design\": {\n      \"straps\": 2,\n      \"buttons\": {\n        \"count\": 2,\n        \"shape\": \"round\",\n        \"color\": \"pink\",\n        \"decoration\": \"flower-shaped\"\n      }\n    },\n    \"fit\": \"loose and rounded around the belly\"\n  },\n  \"limbs\": {\n    \"arms\": {\n      \"count\": 2,\n      \"fur_color\": \"white\",\n      \"pose\": {\n        \"left_arm\": \"raised upward in a waving gesture\",\n        \"right_arm\": \"slightly bent outward\"\n      },\n      \"paws\": {\n        \"shape\": \"small and rounded\",\n        \"pads_color\": \"light pink\"\n      }\n    },\n    \"legs\": {\n      \"count\": 2,\n      \"pose\": {\n        \"support_leg\": \"standing firmly on ground\",\n        \"raised_leg\": \"lifted forward in playful motion\"\n      },\n      \"feet\": {\n        \"shape\": \"rounded\",\n        \"pads_color\": \"light pink\"\n      }\n    }\n  },\n  \"background\": {\n    \"type\": \"solid color\",\n    \"color\": \"{argument name=\"background color\" default=\"coral / warm reddish-pink\"}\",\n    \"texture\": \"smooth, gradient-free\"\n  },\n  \"lighting\": {\n    \"type\": \"soft studio lighting\",\n    \"direction\": \"even frontal lighting\",\n    \"shadows\": \"soft and subtle beneath the feet\",\n    \"highlights\": \"gentle highlights on fur and eyes\"\n  },\n  \"render_style\": {\n    \"style\": \"3D animated character\",\n    \"realism_level\": \"stylized realism\",\n    \"fur_detail\": \"high strand\"",
+    "title": "3D Anthropomorphic Bunny Character Prompt",
+    "description": "A structured prompt for generating a 3D animated, stylized-realistic image of a cheerful, chubby anthropomorphic white bunny wearing yellow overalls, focusing on fluffy fur detail, large glossy eyes, and soft studio lighting against a solid color background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841054113_hwvz6c_G_5JMpkbYAAuBiq.jpg",
+      "https://cms-assets.youmind.com/media/1769841054123_us53ny_G_5JMj6bgAAkedX.jpg",
+      "https://cms-assets.youmind.com/media/1769841054180_fpre49_G_5JMvjbUAgHbCh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a high-quality 3D virtual avatar based on the uploaded image, with a cheerful and expressive facial expression. The character should have a warm smile, bright eyes, and soft facial features, giving a friendly and approachable feeling. Adopt the {argument name=\"style\" default=\"Pixar style aesthetic\"}, featuring smooth textures, subtle skin shading, and slightly exaggerated proportions to present a cute animated effect. The lighting should be soft and uniform, creating a clean studio effect, with soft shadows adding depth.",
+    "title": "Detailed Pixar Style 3D Avatar Generation Prompt",
+    "description": "A detailed prompt for Gemini Nano Banana Pro to convert an uploaded image into a 3D virtual avatar. It specifies a Pixar style aesthetic, focusing on a warm, friendly expression, smooth textures, subtle skin shading, and slightly exaggerated proportions, rendered under soft, uniform studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841146479_1je0ph_G_4TLNtbUAEgYeg.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic cinematic gym scene featuring a small tan-and-white hamster wearing a beige baseball cap, silver over-ear headphones, and a white lifting belt.\nScene opens with the barbell resting fully on the ground on a worn wooden lifting platform. The hamster is in a proper deadlift stance — feet planted wide, paws gripping the bar, back straight, head slightly lifted forward.\n0–4 seconds:\nSlow, dramatic buildup. The hamster struggles to initiate the lift — muscles tense, fur slightly trembling, paws tightening on the bar. Subtle body shake, controlled strain, deep focus. No camera shake. No text. No flashy effects.\n4–8 seconds:\nThe hamster successfully deadlifts the barbell in one smooth, powerful motion, lifting it from the floor to full standing lockout. Chest up, shoulders back, bar held firmly at hip level. The effort turns into quiet triumph.\nCinematic low front angle throughout to exaggerate scale and power.\nShallow depth of field with a modern gym environment softly blurred in the background.\nCool neutral gym lighting with realistic reflections on metal plates and soft shadows on the floor.\nStyle:\nHyper-realistic, premium movie realism, high contrast, clean motion, no distortion, no surreal physics, no bar intersecting the body, no camera jumps, no visual noise.\nEmotional tone: determination → victory.",
+    "title": "Cinematic Hamster Deadlift Video Prompt",
+    "description": "A detailed video generation prompt for creating an ultra-realistic, cinematic scene of a small hamster performing a deadlift in a gym, focusing on slow, dramatic buildup, hyper-realistic style, and low-angle perspective to exaggerate the scale and power.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841061930_pz7k29_G_4D2G2bUAIrT_E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Futuristic Samurai Warrior w/ Carbon-Fiber Prosthetics",
+    "title": "Character Design Prompt for Futuristic Samurai Warrior",
+    "description": "A prompt for generating a character design of a Futuristic Samurai Warrior, specifically detailing the inclusion of Carbon-Fiber Prosthetics, suggesting a blend of traditional Japanese armor aesthetics with high-tech, cybernetic elements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769841116660_i86liu_G_39C9hbUAUdqzr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "POV Raw Fisheye Pokemon Wildlife",
+    "title": "Short Prompt for POV Fisheye Pokemon Wildlife",
+    "description": "A very short, stylistic prompt combining POV, Raw, Fisheye lens effects with the subject matter of Pokemon Wildlife.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581993219_nm4qdx_G_ruPDjWMAkXJQc.jpg",
+      "https://cms-assets.youmind.com/media/1769581994111_jrocw4_G_ruPD1WYAA8_5F.jpg",
+      "https://cms-assets.youmind.com/media/1769581993202_wi0vs1_G_ruPDvWMAM0o12.jpg",
+      "https://cms-assets.youmind.com/media/1769581994461_kkgakh_G_ruPDnWMAswXXn.jpg",
+      "https://cms-assets.youmind.com/media/1769581995106_qpssuh_G_dfBkBW8AAYllS.jpg",
+      "https://cms-assets.youmind.com/media/1769581995245_mwyhoq_G_dfCV3W8AEdTjw.jpg",
+      "https://cms-assets.youmind.com/media/1769581995661_gmdy5e_G_dfDa6WUAAZFPV.jpg",
+      "https://cms-assets.youmind.com/media/1769581996059_o1h10t_G_dfEMJXYAAnbhM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-clean high-end 3D render of {argument name=\"object\" default=\"OBJECT\"}, designed with clearly segmented parts in bold, vibrant, high-contrast colors, each component using a different saturated pop color (electric blue, neon pink, bright yellow, mint green, cyan, purple, glossy white accents), smooth matte and semi-gloss plastic materials with subtle rubberized elements, rounded edges, playful industrial toy-like proportions, premium collectible-toy aesthetic, the object floating in mid-air with slightly separated components to emphasize individual parts, no motion blur, perfectly balanced composition, studio lighting with soft diffused key light and controlled rim light to enhance color separation, minimal clean shadows, smooth gradient background transitioning from deep blue to purple, ultra-polished Apple-level cleanliness, no textures, no scratches, no dirt, no realism noise, no muted tones, no desaturation, no monochrome dominance, perfect global illumination, ray-traced reflections, soft contact shadows, shallow depth while remaining razor sharp, cinematic framing, centered composition, minimalistic, modern, playful yet premium, rendered in ultra-high resolution with Octane or Redshift-style quality, Behance-feature-level output, no text, no logos, no branding, no extra elements, no people, no environment clutter, no watermark, no typography, aspect ratio 4:5.",
+    "title": "High-End 3D Render of Segmented Object",
+    "description": "A detailed prompt for creating an ultra-clean, high-end 3D render of an object with clearly segmented parts, utilizing bold, high-contrast colors and a playful, premium collectible-toy aesthetic, rendered with Octane or Redshift-style quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581955007_zl5wlp_G_rkX9cbAAAZOcL.jpg",
+      "https://cms-assets.youmind.com/media/1769581955005_buotbv_G_rkX_sbAAMUkj2.jpg",
+      "https://cms-assets.youmind.com/media/1769581955032_yyxgxr_G_rkX8zbAAQ9IXc.jpg",
+      "https://cms-assets.youmind.com/media/1769581955846_8bjqun_G_rkX9cbAAE5GPk.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra realistic cinematic scene of my floating and falling in mid air above the clouds, dynamic upside down pose with legs bent and arms slightly raised, wearing black hoodie black pants black cap sunglasses and {argument name=\"shoe color\" default=\"red\"} sports shoes, dramatic sense of motion, two futuristic stealth fighter jets flying very close above and below the character with motion blur and heat trails, high altitude sky with soft clouds far below, daylight cinematic lighting, sharp focus on character, wide angle shot, epic scale, realistic physics, dramatic composition, 4k quality, no text, no logo, no watermark",
+    "title": "Ultra-Realistic Cinematic Scene of Floating in Mid-Air",
+    "description": "An ultra-realistic cinematic prompt for generating a dynamic scene of a character floating upside down above the clouds. The prompt emphasizes motion blur, realistic physics, epic scale, and the presence of two futuristic stealth fighter jets flying close to the subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581983014_rvpnjj_G_rMyEpXYAAERjC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Massive ancient abandoned alien mining machine in the shape of a worm --ar 16:9 --raw --sref 213005887 --sw 100 --stylize 300 --v 6.1",
+    "title": "Massive Ancient Abandoned Alien Mining Machine Prompt",
+    "description": "A simple, high-concept prompt for generating an image of a massive, ancient, abandoned alien mining machine shaped like a worm, using specific Midjourney parameters for style and reference.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581948588_efib76_G_qxWq6XsAEZMuc.jpg",
+      "https://cms-assets.youmind.com/media/1769581948751_nyr1mq_G_geNm2WkAANmR4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A hyper-realistic, cinematic 9:16 portrait of a modern military squad lineup. In the middle stands, wearing tactical combat gear with a vest, headset, gloves, and a futuristic assault rifle. On the left: a rugged soldier with a beard and boonie hat, wearing heavy tactical armor. On the right: a mysterious masked operative with a skull-patterned mask and combat uniform. The three stand side by side as an elite special forces unit, set in a gritty warzone environment with sparks, smoke, and cinematic lighting. Ultra-detailed, realistic textures, game-poster style, 8K",
+    "title": "Hyper-Realistic Military Squad Portrait",
+    "description": "A prompt designed to generate a hyper-realistic, cinematic portrait of an elite three-person military squad in tactical gear. The scene is set in a gritty warzone with smoke and sparks, aiming for a game-poster aesthetic with high detail and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769581999647_q51u2t_G_pOOQBXYAEDDfg.jpg",
+      "https://cms-assets.youmind.com/media/1769581999645_jyxbd1_G_pOOOtbMAAXS3o.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A cute 3D chibi-style cartoon sticker set, featuring the same character in multiple emotions and poses(using an uploaded face as a reference). Big expressive glossy eyes, soft rounded face, slightly oversized head, small body proportions.  Wearing a {argument name=\"jacket color\" default=\"red\"} leather jacket over a white top. Each pose shows different expressions: surprised, sad, confused, happy, thinking, winking, peace sign, shrugging. Pixar/Disney-inspired 3D render, smooth plastic-like texture, soft lighting, pastel beige background. Sticker-style white outline around each character, clean and minimal aesthetic, high detail, ultra cute, emoji-like expressions, high resolution, studio quality.",
+    "title": "3D Chibi Cartoon Sticker Set Generation Prompt",
+    "description": "A prompt for generating a set of 3D chibi-style cartoon stickers based on a reference face. It specifies the aesthetic (Pixar/Disney-inspired, glossy eyes, rounded face), character details (red leather jacket), multiple emotional poses, and technical requirements (smooth plastic texture, white outline, high resolution).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769582037114_06q4zj_G_pErRwWsAAMppI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "LEGO mountain flood rescue scene, torrential rain causing river overflow in a LEGO mountain village, rescue boats and ropes used by LEGO firefighters, houses perched on slopes surrounded by muddy floodwater, misty mountains in background, dramatic cinematic lighting, intense LEGO disaster realism --ar 3:4",
+    "title": "LEGO Mountain Flood Rescue Scene Prompt",
+    "description": "A prompt for generating a dramatic, cinematic image of a LEGO mountain village disaster scene. The scene involves torrential rain, river overflow, LEGO firefighters using rescue boats and ropes, houses on slopes, and misty mountains in the background, emphasizing intense realism and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408657745_qrgt94_G_hyJtRbIAELZNz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Using the uploaded face image as the exact facial reference, create a stylized 3D animated female photographer character, Pixar–Disney style, soft cinematic lighting. A young woman with short curly brown hair, big expressive eyes, round glasses, and a calm confident expression. She is standing with arms crossed, a vintage analog camera hanging around her neck. Wearing a cream button-up shirt with rolled sleeves and high-waisted olive green trousers.\nThe background is a cozy vintage photography studio filled with old cameras, film rolls, photo prints pinned on the wall, wooden tables, and warm desk lamps. Retro aesthetic, nostalgic mood, warm tones, shallow depth of field, ultra-detailed textures, soft shadows, highly polished 3D render, studio quality, cinematic composition, 4k, portrait orientation.",
+    "title": "Stylized 3D Animated Female Photographer Character (Pixar Style)",
+    "description": "A detailed prompt for creating a stylized 3D animated female photographer character in the Pixar–Disney style, using an uploaded face image for reference. The character has short curly brown hair, round glasses, and is standing in a cozy vintage photography studio filled with retro props and warm lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769408691310_rh6g0o_G_fwh6TbIAAsyQM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A towering winter creature emerges from a blizzard shrouded forest, antler like ice horns branching from its skull, fur crusted with frost and drifting snow. Glowing pale light blue eyes cut through the whiteout. Breath crystallizes midair. \n\nCinematic wide shot, low angle, heavy snowfall, cold blue-grey palette, ultra detailed texture, dramatic rim light, dark fantasy realism.",
+    "title": "Dark Fantasy Winter Creature Emerging from a Blizzard",
+    "description": "A cinematic image generation prompt for a dark fantasy creature. It describes a towering winter entity with ice horns, frost-crusted fur, and glowing blue eyes, set against a heavy snowfall and a cold blue-grey palette. The composition is specified as a cinematic wide shot with a low angle and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322297572_j4dp4w_G_dmeMZaMAAQlz-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high-quality 3D render of a cute young boy riding an orange electric scooter next to a small, round, furry blue monster. Both characters have shocked expressions with wide eyes and open mouths. The boy is wearing a highly textured, fuzzy teal sweater with a white patch that reads \"noo\" in red text, along with brown patterned pants and white sneakers. Clean teal studio background, soft lighting.",
+    "title": "3D Render of Boy and Furry Monster on Scooter",
+    "description": "A prompt for generating a high-quality 3D render of a cute young boy riding an orange electric scooter next to a small, round, furry blue monster. Both characters have shocked expressions, and the prompt details the boy's highly textured teal sweater with a 'noo' patch, set against a clean teal studio background with soft lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322306656_uflrts_G_asxlBaAAAvgJK.jpg",
+      "https://cms-assets.youmind.com/media/1769322306979_vofvkt_G_asxl2bkAAAwkw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "■ COMPOSITION_MODE: Composition and Angle\nFaithful Framing: Maintains the zoom ratio and composition of the original illustration 'as is'.\nFull-Body: Even if the original image is only upper body, it completes the feet to render a 'full-body figure'.\nHigh-Angle View: Forcibly switches to a 45-degree high-angle 'overhead (bird's-eye) view'.\n\n■ ENVIRONMENT_TYPE: Background Construction\nAuto: AI analyzes the original image and automatically selects 'Diorama' if there is a detailed background, or 'Studio Background' if it is simple.\nForce Diorama: Even if the original image has a white background, it forcibly constructs an elaborate miniature set (cityscape, nature, interior, etc.).\nForce Studio: Eliminates any background and replaces it with a clean photographic backdrop or acrylic sheet.\n\n■ ASPECT_RATIO: Screen Ratio\nInherit: Same ratio as the original image.\nSquare: 1:1. For SNS posts or icon-style compositions.\nPortrait: 9:16. For smartphone wallpapers or dynamically showing standing figures.\nLandscape: 16:9. For showcasing wide diorama sets.\n\n■ DISPLAY_BASE: Base Selection\nSimple Round: Transparent or opaque circular plastic base. Results in the most common figure appearance.\nDecorative: Custom base with decorations matching the character's theme (rubble, magic circles, luxurious designs, etc.).\nDiorama Floor: Eliminates the concept of a base, placing the figure directly on the diorama ground.\nNone: Excludes both the base and ground details, resulting in the simplest self-standing state.\n\n■ DENSITY: Information Density\nStandard: A clean, organized finish, like a catalog photo.\nHigh: Adds a large number of small objects (model grass, rubble, miniature furniture, etc.) within the diorama to maximize information density.\n\n■ FIGURE_MATERIAL: Figure Material Texture\nStandard PVC: Standard plastic feel of commercial figures. Softly diffuses light.\nPremium Resin: Detailed molding and a high-grade resin feel with slight transparency. Texture like a garage kit.\nGlossy Plastic: A texture with strong reflections, like a glossy painted finish.\n\n■ LIGHTING_STYLE: Lighting\nNatural: Soft natural light, like being photographed by a window. Everyday atmosphere.\nBright Studio: Advertising photo style with multiple lights, minimal shadows, and clear details.\nCinematic: Strong contrast and shadows to create a profound atmosphere, like a scene from a story.",
+    "title": "Structured Figure/Diorama Generation Prompt for Nano Banana Pro",
+    "description": "A highly structured, programmer-like prompt designed for Nano Banana Pro to generate images of figures or dioramas. It uses global variable concepts and allows customization across multiple dimensions: composition, environment, aspect ratio, display base, information density, figure material, and lighting style. The goal was to create a single prompt capable of generating various styles, from simple figures to complex dioramas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322338518_qaabl2_G_acR4NawAA2HMq.jpg",
+      "https://cms-assets.youmind.com/media/1769322338623_3me96r_G_acR4gboAAt_GM.jpg",
+      "https://cms-assets.youmind.com/media/1769322338779_n67azf_G_acR4tXsAAhROb.jpg",
+      "https://cms-assets.youmind.com/media/1769322340439_pajl0d_G_acR43W8AAx_49.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"image_type\": \"Photorealistic digital portrait\",\n  \"resolution_target\": \"8K ultra-high resolution\",\n  \"aspect_ratio\": \"2:3 (vertical)\",\n\n  \"subject\": {\n    \"form\": \"Hybrid humanoid–horse figure\",\n    \"composition\": \"Upper torso and head visible\",\n    \"pose\": \"Three-quarter profile facing right\",\n    \"expression\": \"Neutral to intense, calm, focused gaze\"\n  },\n\n  \"head_and_face\": {\n    \"face_structure\": \"Human male facial anatomy\",\n    \"skin_texture\": \"Highly detailed, rough, weathered skin with visible pores, fine wrinkles, and natural uneven texture\",\n    \"skin_tone\": \"Medium brown with warm undertones\",\n    \"facial_hair\": {\n      \"beard\": \"Short, trimmed beard\",\n      \"mustache\": \"Connected to beard, neatly kept\",\n      \"density\": \"Medium density facial hair\"\n    },\n    \"eyes\": {\n      \"shape\": \"Almond-shaped\",\n      \"color\": \"Dark brown\",\n      \"gaze_direction\": \"Looking slightly forward and to the right\",\n      \"detail\": \"Sharp catchlight, realistic moisture and depth\"\n    },\n    \"eyebrows\": {\n      \"thickness\": \"Medium to thick\",\n      \"shape\": \"Natural, slightly arched\"\n    },\n    \"nose\": {\n      \"shape\": \"Straight bridge, realistic proportions\",\n      \"texture\": \"Visible skin pores and highlights\"\n    },\n    \"lips\": {\n      \"shape\": \"Medium thickness\",\n      \"expression\": \"Closed, relaxed\",\n      \"texture\": \"Natural matte texture\"\n    }\n  },\n\n  \"hair_and_mane\": {\n    \"head_hair\": {\n      \"style\": \"Short, slightly tousled\",\n      \"direction\": \"Swept backward and upward\",\n      \"color\": \"Dark brown to near black\"\n    },\n    \"mane\": {\n      \"type\": \"Horse mane\",\n      \"texture\": \"Coarse, thick strands\",\n      \"color\": \"Dark brown to black\",\n      \"placement\": \"Flows backward along the neck\"\n    }\n  },\n\n  \"horse_features\": {\n    \"ears\": {\n      \"type\": \"Horse ears\",\n      \"position\": \"Upright, slightly angled back\",\n      \"texture\": \"Short fur with realistic skin folds\"\n    },\n    \"neck_and_torso\": {\n      \"build\": \"Muscular and powerful\",\n      \"definition\": \"Strong muscle striations visible\",\n      \"skin_texture\": \"Horse skin with short, fine fur\",\n      \"color\": \"Deep dark brown\"\n    }\n  },\n\n  \"lighting\": {\n    \"style\": \"Soft cinematic lighting\",\n    \"direction\": \"Primary light from front-left\",\n    \"contrast\": \"Moderate contrast with smooth shadow falloff\",\n    \"highlights\": \"Subtle highlights on forehead, cheekbones, nose, and neck muscles\"\n  },\n\n  \"background\": {\n    \"type\": \"Studio backdrop\",\n    \"color\": \"{argument name=\"background color\" default=\"Warm beige to light tan gradient\"}\",\n    \"texture\": \"Smooth, slightly grainy\",\n    \"depth\": \"Shallow depth of field, fully blurred\"\n  },\n\n  \"camera_and_focus\": {\n    \"camera_angle\": \"Eye-level\",\n    \"framing\": \"Close-up portrait\",\n    \"focus\": \"Sharp focus on face and eyes\",\n    \"depth_of_field\": \"Shallow, background fully out of focus\"\n  },\n\n  \"color_palette\": {\n    \"dominant_colors\": [\n      \"Dark brown\",\n      \"Warm beige\"}\n    ]\n  }",
+    "title": "Hybrid Humanoid-Horse Portrait (Ronaldo/Messi inspired)",
+    "description": "A highly detailed structured prompt for generating an 8K photorealistic digital portrait of a hybrid humanoid-horse figure, possibly inspired by the rivalry between Cristiano Ronaldo and Lionel Messi. The prompt meticulously defines the subject's anatomy, facial features (human male face with horse ears and mane), skin texture (weathered, detailed), lighting (soft cinematic), and background (studio backdrop with shallow depth of field).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769322318046_58qzi5_G_ZZvQQbAAAElfp.jpg",
+      "https://cms-assets.youmind.com/media/1769322318246_wc39aq_G_ZZvSXaQAAs6sx.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A full-body 3D cartoon girl character in a Pixar/Disney-style render, standing confidently against a solid bright {argument name=\"background color\" default=\"yellow\"} background. She has big expressive brown eyes, a cute smiling face, and light brown curly hair tied in a messy high bun, with white round goggles resting on her head. She is wearing an oversized knitted sweater in cream and mustard yellow stripes, with the name “{argument name=\"name on sweater\" default=\"NOOR\"}” clearly knitted into the fabric across the chest (woven yarn texture, not printed). Loose knitted beige cargo pants with side pockets, white chunky sneakers with subtle yellow accents. Soft studio lighting, smooth textures, high detail yarn knit realism, warm color palette, playful pose with arms slightly spread, ultra-high quality, 4K, sharp focus, clean background, character centered.",
+    "title": "Pixar/Disney 3D Cartoon Character with Knitted Name",
+    "description": "A comprehensive image generation prompt for creating a full-body 3D cartoon girl character rendered in the style of Pixar or Disney. The prompt focuses on specific clothing details, including an oversized knitted sweater with the name 'NOOR' woven into the fabric, emphasizing yarn knit realism and a warm color palette against a solid yellow background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769236047994_6hve1z_G_YpkkWW0AAhN1Y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"identity_lock\": {\n    \"reference_image\": \"uploaded_reference_image\",\n    \"face_editing\": \"disabled\",\n    \"preserve_facial_features\": true,\n    \"preserve_proportions\": true\n  },\n  \"scene\": {\n    \"description\": \"Ultra-realistic cinematic action scene\",\n    \"resolution\": \"16K\",\n    \"style\": \"Hollywood action-movie poster\",\n    \"genre\": \"dark sci-fi action\"\n  },\n  \"subject\": {\n    \"person\": \"same young woman from reference\",\n    \"pose\": {\n      \"stance\": \"dynamic action\",\n      \"body_position\": \"slightly crouched forward\",\n      \"legs\": \"one knee bent\",\n      \"hands\": {\n        \"left_hand\": \"pressed against the ground\",\n        \"right_hand\": \"reaching outward\"\n      }\n    },\n    \"expression\": \"focused and intense\",\n    \"motion\": \"mid-action, about to leap or attack\"\n  },\n  \"symbiote\": {\n    \"type\": \"{argument name=\"symbiote type\" default=\"Venom-like alien symbiote\"}\",\n    \"origin\": \"bursting from her back\",\n    \"features\": [\n      \"large menacing tendrils\",\n      \"aggressive snarling face above shoulder\"\n    ],\n    \"material\": \"glossy black organic texture\",\n    \"behavior\": \"violent expansion and movement\"\n  },\n  \"environment\": {\n    \"location\": \"dark industrial warehouse\",\n    \"atmosphere\": [\n      \"misty\",\n      \"smoke-filled\",\n      \"floating dust particles\"\n    ],\n    \"lighting\": {\n      \"primary\": \"sharp cinematic light beams cutting through fog\",\n      \"highlights\": \"warm rim lighting on subject and symbiote\"\n    }\n  },\n  \"camera\": {\n    \"angle\": \"low angle\",\n    \"tilt\": \"slightly tilted\",\n    \"lens\": \"cinematic wide lens\",\n    \"depth_of_field\": \"shallow\",\n    \"motion_blur\": \"subtle directional blur\"\n  },\n  \"post_processing\": {\n    \"effects\": [\n      \"lens flares\",\n      \"warm highlights\",\n      \"cinematic color grading\",\n      \"subtle film grain\"\n    ],\n    \"contrast\": \"high\",\n    \"sharpness\": \"ultra-detailed\"\n  },\n  \"mood\": {\n    \"energy\": \"high intensity\",\n    \"tone\": \"dark, powerful, aggressive\",\n    \"cinematic_feel\": \"epic and dramatic\"\n  }\n}",
+    "title": "Dark Sci-Fi Action Scene with Venom-like Symbiote",
+    "description": "A highly detailed JSON prompt for generating an ultra-realistic, 16K cinematic action scene in a dark industrial warehouse. The prompt focuses on a young woman (with identity lock enabled) in a dynamic action pose, from whose back a violent, glossy black, Venom-like alien symbiote is bursting, emphasizing high contrast, warm rim lighting, and dramatic low-angle framing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769235965535_jrzyig_G_XKm0ZbIAAcxlL.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Use Reference figuire1 Create Ultra-detailed 3D stylized character design of a cute with a Pixar/Disney-inspired look, soft rounded facial features, big expressive eyes, smooth porcelain skin, and playful proportions.\nOutfit is cozy-chic and modern: oversized knitted sweaters, fluffy jackets, cropped tops, skirts or wide-leg jeans, textured fabrics like wool, fleece, and knit, paired with chunky sneakers or plush boots. Warm color palette with pastel and vibrant tones ({argument name=\"Color Palette\" default=\"orange, teal, purple, yellow\"}).\nAccessories include a small backpack or sling bag, headphones or goggles, and a cute animal companion (like a {argument name=\"Animal Companion\" default=\"tiny owl\"}) resting on person shoulder. Confident yet relaxed pose, fashion-model stance or playful walking motion.\nRendered in ultra-high-quality 3D, soft studio lighting, smooth gradients, clean solid background colors, shallow depth of field, cinematic composition, highly detailed fabric textures, realistic subsurface scattering, polished toy-like finish, adorable and wholesome aesthetic, premium character art, 8K resolution, Octane/Arnold style render.",
+    "title": "Ultra-Detailed 3D Stylized Character Design Prompt",
+    "description": "A detailed prompt for generating a Pixar/Disney-inspired 3D stylized character, focusing on soft features, expressive eyes, cozy-chic modern outfit, and high-quality rendering specifications like Octane/Arnold style and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769149390493_3akc2w_G_Pq-uHakAEI5re.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"meta\": {\n    \"aspect_ratio\": \"9:16\",\n    \"style\": \"cinematic fantasy silhouette art\",\n    \"render_quality\": \"ultra-detailed, high fidelity, epic scale\"\n  },\n\n  \"identity_lock\": {\n    \"rule\": \"Preserve exactly the facial structure, proportions, silhouette, and overall likeness from the reference image provided by the user\",\n    \"skin_rule\": \"Allow material transformation while keeping facial identity intact\",\n    \"strict\": true\n  },\n\n  \"subject\": {\n    \"description\": \"Regal feminine figure emerging through ethereal mist, standing with quiet authority\",\n    \"presence\": \"otherworldly, majestic, timeless\",\n    \"silhouette\": \"elegant balance of flowing curves and refined sharp edges\"\n  },\n\n  \"body_materials\": {\n    \"skin_tone\": \"polychromatic silver-gold metallic skin\",\n    \"surface\": \"organic metal fused with crystalline structures\",\n    \"details\": [\n      \"precious gems organically growing across the body\",\n      \"gem plating covering the entire form\",\n      \"crystal hues blended into marbled silver and gold textures\",\n      \"delicate swirling patterns mixed with large wind-swept marbling\"\n    ]\n  },\n\n  \"aesthetic_influences\": {\n    \"design_language\": \"golden Celtic-inspired ornamental forms\",\n    \"style\": \"mythic elegance with sacred geometry undertones\"\n  },\n  \"environment\": {\n    \"atmosphere\": \"dense luminous mist\",\n    \"effects\": [\n      \"soft volumetric fog\",\n      \"subtle light rays piercing through the haze\"\n    ],\n    \"background\": \"abstract, undefined space to enhance silhouette focus\"\n  },\n\n  \"lighting\": {\n    \"type\": \"otherworldly glow\",\n    \"key_light\": \"soft internal luminescence from within the figure\",\n    \"accent\": \"gentle rim light outlining the silhouette\",\n    \"contrast\": \"high contrast between glowing form and misty surroundings\"\n  },\n\n  \"camera\": {\n    \"framing\": \"full-body cinematic composition\",\n    \"angle\": \"slightly low angle to enhance regality\",\n    \"focus\": \"sharp on form and material textures, soft falloff into mist\"\n  },\n\n  \"mood\": {\n    \"emotion\": \"mystical, powerful, serene\",\n    \"tone\": \"epic fantasy, sacred presence\"\n  },\n\n  \"negative_prompt\": [\n    \"explicit nudity\",\n    \"sexualized anatomy\",\n    \"cartoon\",\n    \"anime\",\n    \"low detail\",\n    \"flat lighting\",\n    \"plastic look\",\n    \"identity change\",\n    \"distorted face\",\n    \"extra limbs\",\n    \"text\",\n    \"logo\",\n    \"watermark\"\n  ]\n}",
+    "title": "Cinematic fantasy silhouette art with metallic skin prompt",
+    "description": "A highly structured JSON prompt for generating an epic, ultra-detailed cinematic fantasy silhouette. It specifies a regal feminine figure with metallic silver-gold skin fused with crystalline structures and gems, emerging from a dense luminous mist, emphasizing identity preservation and high contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063182089_o10zu1_G_KNVIvXYAACl0Y.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Cross dimensions, a {argument name=\"subject\" default=\"cybernetic samurai\"} standing on a floating island, surrounded by glowing neon runes and ancient Japanese architecture, volumetric fog, cinematic lighting, highly detailed, 8k, made with Nano Banana Pro",
+    "title": "Nano Banana Pro prompt for Cross Dimensions style",
+    "description": "This is a prompt shared for the Nano Banana Pro model, specifically utilizing a 'Cross Dimensions' style, suitable for generating complex, multi-dimensional imagery.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1769063252131_27lqsu_G_KLCHoacAAwKlF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "3D character design, blind box style, Pop Mart style design, C4D, Octane rendering, clay texture, matte finish, soft lighting, sticker sheet layout, 3x3 grid view {argument name=\"expressions and text\" default=\"9 types of expressions: joy making a heart, sadness with tears, anger exhaling steam, sleepy yawning expression, surprised expression with open mouth, shy blushing expression, cheering expression with raised fist, confused thinking expression, celebrating with confetti\"}, each with a cute Japanese text label, white outline, die-cut, white background, high quality, 8k --ar 3:4",
+    "title": "LINE Sticker Generation Prompt (3D Clay Style)",
+    "description": "A detailed Japanese prompt designed to generate a 3x3 grid of nine different LINE stickers featuring a 3D character in a blind box/Pop Mart style. It specifies a clay texture, matte finish, soft lighting, and nine distinct expressions, each with a cute Japanese text label and white outline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977358897_8wjk3h_G_GD9BqWYAAku76.jpg",
+      "https://cms-assets.youmind.com/media/1768977361131_d0h5jh_G_GD9R1WwAEpnO-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Cinematic full-body shot of a young noblewoman with an intricate braided hairstyle, wearing a highly detailed, silver-grey embroidered medieval gown with puff sleeves. She is standing next to a massive, realistic grey dragon with detailed scales and horns. She gently places her hand on the dragon's snout.\n\nThe setting is a rocky, desolate volcanic landscape under a moody, overcast sky. Desaturated colors,\n\nfilm grain, 8k resolution, hyper-realistic, {argument name=\"style\" default=\"high fantasy\"} Style.\"",
+    "title": "Cinematic Noblewoman and Dragon Prompt",
+    "description": "A prompt for generating a cinematic, hyper-realistic, high-fantasy image of a noblewoman in a medieval gown standing next to a massive grey dragon in a rocky, desolate volcanic landscape under a moody sky.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977318153_uo11v2_G_F-yHxWUAAJNv0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"master_prompt\": {\n    \"global_settings\": {\n      \"resolution\": \"8K\",\n      \"aspect_ratio\": \"3:4\",\n      \"render_style\": \"high-end AI-generated 3D illustration\",\n      \"image_quality\": \"ultra-sharp, cinematic depth, physically based rendering\",\n      \"lighting_quality\": \"soft global illumination with realistic shadows\",\n      \"focus\": \"extreme detail clarity, shallow depth of field where applicable\"\n    },\n\n    \"module_1\": {\n      \"scene_identity\": \"Bee lifting weights in nature\",\n      \"subject\": {\n        \"type\": \"anthropomorphic bee\",\n        \"body\": \"fuzzy yellow and black striped body\",\n        \"eyes\": \"large glossy black eyes\",\n        \"antennae\": \"two thin black curved antennae\",\n        \"wings\": \"semi-transparent wings with visible vein patterns\",\n        \"expression\": \"neutral to slightly cheerful\"\n      },\n      \"pose_action\": {\n        \"stance\": \"standing upright on two legs\",\n        \"arms\": \"both arms raised holding a barbell\",\n        \"object_interaction\": \"holding a metal barbell with circular weight plates on both ends\"\n      },\n      \"environment\": {\n        \"setting\": \"outdoor natural environment\",\n        \"ground\": \"small dirt path or rock surface\",\n        \"surroundings\": \"flowers on both sides\",\n        \"background\": \"blurred trees and foliage\"\n      },\n      \"lighting\": {\n        \"type\": \"soft natural daylight\",\n        \"direction\": \"top-center glow\",\n        \"effects\": \"light haze and floating particles\"\n      },\n      \"color_palette\": {\n        \"dominant_colors\": [\"yellow\", \"black\", \"green\", \"orange\"],\n        \"accent_colors\": [\"soft pink\", \"warm brown\"]\n      },\n      \"camera\": {\n        \"angle\": \"eye-level\",\n        \"framing\": \"full body centered\",\n        \"depth_of_field\": \"foreground sharp, background softly blurred\"\n      }\n    },\n\n    \"module_2\": {\n      \"scene_identity\": \"Relaxed bee on chair with soda can\",\n      \"subject\": {\n        \"type\": \"anthropomorphic bee\",\n        \"body\": \"dense fuzzy yellow and black stripes\",\n        \"eyes\": \"hidden behind oversized black sunglasses\",\n        \"antennae\": \"two black antennae extending upward\"\n      },\n      \"pose_action\": {\n        \"posture\": \"reclining\",\n        \"legs\": \"one leg crossed over the other\",\n        \"arms\": \"one arm resting on chair, other holding a can\"\n      },\n      \"objects\": {\n        \"chair\": \"wooden lounge chair with yellow fabric seat and backrest\",\n        \"drink_can\": \"blue soda can with visible {argument name=\"drink brand\" default=\"Pepsi\"} logo\",\n        \"sunglasses\": \"large glossy black frames\"\n      },\n      \"environment\": {\n        \"setting\": \"studio-style minimal background\",\n        \"background_color\": \"light neutral gray\",\n        \"surface\": \"smooth floor\"\n      },\n      \"lighting\": {\n        \"type\": \"soft studio lighting\",\n        \"shadow\": \"subtle shadow beneath chair\"\n      },\n      \"color_palette\": {\n        \"dominant_colors\": [\"yellow\", \"blue\", \"black\", \"wood brown\"]",
+    "title": "8K 3D Illustration of Anthropomorphic Bees (Gym and Relaxing)",
+    "description": "A complex prompt structured into two modules for generating 8K, high-end AI-generated 3D illustrations of anthropomorphic bees. The first module depicts a bee lifting weights in a natural setting, and the second shows a relaxed bee in sunglasses holding a Pepsi can on a lounge chair, emphasizing physically based rendering and extreme detail clarity.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768977338848_ze82xd_G_ElPO4acAA1vGX.jpg",
+      "https://cms-assets.youmind.com/media/1768977338935_iaz9y2_G_ElPOQXIAA4-w8.jpg",
+      "https://cms-assets.youmind.com/media/1768977338846_lu4vpp_G_ElPZ3WQAAPeiS.jpg",
+      "https://cms-assets.youmind.com/media/1768977339989_7v51in_G_ElPjpW4AA6I9h.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "realistic image of my character + reference image of an \"inflated\" character",
+    "title": "Workflow for Style Transfer and Storyboard Generation",
+    "description": "This is not a single prompt but a description of a multi-step workflow using Nano Banana Pro for style transfer and storyboard creation, requiring both a character image and a reference image for the desired style ('inflated' character).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768890736096_xfe39s_G_C2IC_XgAA2YbQ.jpg",
+      "https://cms-assets.youmind.com/media/1768890736113_3oxikz_G_C2IDAWsAAyRJ2.jpg",
+      "https://cms-assets.youmind.com/media/1768890736408_czx7hx_G_C2IDAWUAAhSiy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Please describe this character's room in an imaginary isometric illustration.\nNo depiction of the person is requested.",
+    "title": "Generating an Isometric Room Illustration Based on a Character Concept",
+    "description": "A prompt used with Nano Banana Pro to generate an isometric illustration of a room that reflects a specific character's personality, explicitly excluding the character themselves from the image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768804335672_ihlc7t_G-6jeQsXAAAjbhJ.jpg",
+      "https://cms-assets.youmind.com/media/1768804335434_1znwwv_G-6jbd3XcAA1QBT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "2000’s character design",
+    "title": "2000s Character Design Prompt",
+    "description": "A simple, high-level prompt intended for the Nano Banana Pro model to generate character designs reminiscent of the 2000s aesthetic. The full, detailed prompt is implied to be in the linked image, but the core instruction is provided.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768717597113_ll8zd9_G-5AM68WAAANR6-.jpg",
+      "https://cms-assets.youmind.com/media/1768717597029_77vxzh_G-5AM5WWkAERZSE.jpg",
+      "https://cms-assets.youmind.com/media/1768717597121_3egvmj_G-5AM5dXUAAtEzS.jpg",
+      "https://cms-assets.youmind.com/media/1768717598090_kvu006_G-5AM5WXAAAARVo.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Two stunning cyberpunk mercenary women riding futuristic motorcycles side by side through a rainy neon-lit dystopian megacity at night, towering skyscrapers with massive holographic billboards and Japanese kanji ads, flying cars and drones overhead, heavy acid rain reflecting intense pink, blue, purple, cyan neon lights on wet streets and deep puddles, dramatic volumetric god rays from giant LED signs, cyberpunk 2077 meets Akira meets Blade Runner aesthetic,\n\nLeft woman (brunette): long wavy dark brown hair whipping in the wind and rain, glowing cybernetic blue eye implant, fierce intense expression, black high-tech leather trench coat with neon piping billowing behind, armored corset with glowing circuit patterns, thigh-high combat boots, mechanical arm enhancements, katana with blue energy blade sheathed on back, riding a sleek black-and-blue neon-trimmed motorcycle with holographic displays and thrusters, tactical belt with holsters and hacking deck, rain droplets flying off her\n\nRight woman (platinum blonde): very long straight platinum-blonde hair flowing wildly in the wind and rain, piercing violet cybernetic eyes, golden tech-circlet implant on forehead, form-fitting brown and black armored bodysuit with neon orange accents, long trench coat open revealing glowing subdermal implants and cleavage, heavy combat boots, holding a large high-tech smart-rifle slung over shoulder while gripping handlebars, riding a aggressive red-and-black cyber-bike with glowing exhaust vents and spiked tires, multiple ear data-jacks glowing, sensual deadly aura\n\nBoth women: highly detailed symmetrical beautiful faces, 22–25 years old, athletic feminine builds, dynamic action poses leaning into turns on motorcycles, rain-soaked hair and skin with water sheen, neon reflections dancing on wet leather, chrome, and bike surfaces, cybernetic enhancements subtly glowing, speed blur and motion effects, ultra-realistic textures with pores, rain streaks, intricate futuristic tech and armor details, masterpiece, cinematic wide-angle composition, sharp focus, high contrast neon-noir atmosphere, dramatic lighting, cyberpunk realism style, 8k quality",
+    "title": "Cyberpunk Motorcycle Chase in Neon Megacity",
+    "description": "A highly detailed, complex prompt for generating an ultra-realistic, cinematic cyberpunk scene featuring two mercenary women riding futuristic motorcycles through a rainy, neon-lit dystopian megacity. It specifies the appearance, gear, cybernetic enhancements, and dynamic poses of both the brunette and platinum blonde riders, emphasizing neon-noir atmosphere and 8K quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768717535552_bp7zeg_G-1u8iBXcAEZdXc.jpg",
+      "https://cms-assets.youmind.com/media/1768717535561_fcdoxc_G-1u74MWQAAYLh8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Stylized and incredibly detailed ultra-high-fidelity 3D isometric miniature models showcase the core characters of the {argument name=\"TV series genre\" default=\"American Western\"} TV series. Each character displays a different signature move, while soft studio lighting creates stunning light and shadow effects. The highly detailed 3D models are placed on {argument name=\"setting\" default=\"city streets\"} against a pure white background.",
+    "title": "3D Isometric Miniature Models of Western TV Characters",
+    "description": "A prompt for generating stylized and detailed ultra-high-fidelity 3D isometric miniature models of core characters from an American Western TV series. The models are placed on city streets against a pure white background, showcasing different signature moves under soft studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631173816_nsi334_G-ybd-ObcAERfOr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_type\": \"hyper-detailed studio portrait\",\n  \"resolution\": \"8K\",\n  \"style\": \"handcrafted crochet / amigurumi realism\",\n  \"overall_aesthetic\": \"ultra-realistic knitted texture with lifelike proportions and expressive facial details\",\n  \"composition\": {\n    \"framing\": \"centered portrait\",\n    \"crop\": \"upper torso to head\",\n    \"camera_angle\": \"straight-on eye level\",\n    \"depth_of_field\": \"shallow, subject sharply in focus, background softly blurred\"\n  },\n  \"lighting\": {\n    \"type\": \"soft studio lighting\",\n    \"direction\": \"front-biased with subtle side fill\",\n    \"contrast\": \"moderate\",\n    \"shadows\": \"soft, natural falloff\",\n    \"highlights\": \"gentle highlights accentuating yarn texture\"\n  },\n  \"background\": {\n    \"description\": \"dark, painterly backdrop with warm brown, olive, and muted amber tones\",\n    \"pattern\": \"abstract foliage-like shapes\",\n    \"focus\": \"intentionally blurred\"\n  },\n  \"texture_details\": {\n    \"material\": \"crocheted yarn\",\n    \"stitch_visibility\": \"clearly visible tight uniform stitches across all surfaces\",\n    \"surface_quality\": \"matte yarn fibers with subtle fuzz\",\n    \"consistency\": \"even stitch density across face, clothing, and hair\"\n  },\n  \"subject_1\": {\n    \"appearance\": {\n      \"skin_material\": \"light beige yarn\",\n      \"facial_structure\": \"rounded face with pronounced cheek volume\",\n      \"eyes\": {\n        \"shape\": \"round\",\n        \"color\": \"light gray-blue\",\n        \"pupils\": \"dark circular pupils\",\n        \"whites\": \"clearly defined\",\n        \"expression\": \"wide open eyes conveying surprise or playful curiosity\"\n      },\n      \"eyebrows\": \"thick crocheted white yarn eyebrows\",\n      \"nose\": \"prominent crocheted nose with defined bridge and rounded tip\",\n      \"mouth\": {\n        \"state\": \"open\",\n        \"tongue\": \"visible pink crocheted tongue extended outward\"\n      },\n      \"facial_hair\": {\n        \"mustache\": \"white crocheted mustache with slight curl\",\n        \"beard\": \"none\"\n      },\n      \"hair\": {\n        \"color\": \"white\",\n        \"style\": \"messy, voluminous, outward-curving yarn strands\",\n        \"texture\": \"loose twisted yarn locks\"\n      }\n    },\n    \"clothing\": {\n      \"outerwear\": {\n        \"type\": \"crocheted jacket\",\n        \"color\": \"deep blue\",\n        \"lapels\": \"wide folded lapels\",\n        \"texture\": \"thicker stitch pattern than face\"\n      },\n      \"shirt\": {\n        \"color\": \"off-white\",\n        \"visibility\": \"visible beneath jacket\"\n      },\n      \"accessory\": {\n        \"type\": \"bow tie\",\n        \"color\": \"bright red\",\n        \"material\": \"crocheted yarn\",\n        \"position\": \"centered below chin  \"\n  },\n  \"mood\": \"playful, expressive, handcrafted realism\",\n  \"render_quality\": {\n    \"detail_level\": \"extreme micro-detail\",\n    \"sharpness\": \"high\",\n    \"noise\": \"none\",\n    \"artifacts\": \"none\"\n  },\n  \"post_processing\": {\n    \"color_grading\": \"warm neutral tones\",\n    \"clarity\": \"enhanced to emphasize yarn texture\",\n  }\n}",
+    "title": "Hyper-Detailed Crocheted Portrait of a Legend",
+    "description": "A highly detailed JSON prompt for generating an 8K hyper-detailed studio portrait in the style of handcrafted crochet or amigurumi realism. It specifies the subject's crocheted features (white yarn hair/mustache, prominent nose, open mouth with pink tongue) and attire (deep blue jacket, red bow tie), emphasizing visible tight uniform stitches and a playful, expressive mood against a dark, painterly backdrop.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631205912_1fcffm_G-yMdQ0bwAAznsY.jpg",
+      "https://cms-assets.youmind.com/media/1768631205920_f4dmv7_G-yMdPTakAA_Ab8.jpg",
+      "https://cms-assets.youmind.com/media/1768631206065_jmv0u4_G-yMdQ1aQAENAiG.jpg",
+      "https://cms-assets.youmind.com/media/1768631207185_xken6r_G-yMdUjagAAokhm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create Isometric miniature scene of an oversized DJ setup. 🍌",
+    "title": "Isometric Miniature DJ Setup Scene",
+    "description": "A prompt for generating an isometric miniature scene featuring an oversized DJ setup, utilizing the Google Gemini Nano Banana Pro model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768631196130_adrzvn_G-w7yRvbQAEHSlQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"Objective\": \"Create a panoramic character concept decomposition sheet for a Japanese high school student. Center: Full-body illustration of female student in JK uniform. Surrounding: Layered clothing showing school uniform layers and casual wear, Expression sheet with cheerful smile, studious concentration, surprised excitement, and shy embarrassment, Texture zoom on uniform fabric and school accessories\",\n  \"FaceReference\": {\n    \"Mode\": \"Strict face preservation\",\n    \"Instruction\": \"Use uploaded reference image for exact facial features, bone structure, and proportions\",\n    \"Consistency\": \"Face must remain identical across all frames\"\n  },\n  \"CharacterDetails\": {\n    \"Subject\": { \"Type\": \"Japanese high school student\", \"Age\": \"17\" },\n    \"ClothingLayers\": [\n      \"School blazer with emblem\",\n      \"White button-down shirt\",\n      \"Pleated skirt\",\n      \"Casual underwear set\",\n      \"Loafers and socks\"\n    ]\n  },\n  \"RelatedItems\": {\n    \"Bag\": \"School satchel with textbooks, notebooks, pencil case, lunch box\",\n    \"SchoolTools\": \"Student ID card, club activity items, study materials\",\n    \"Personal\": \"Smartphone, headphones, cute accessories, manga, snacks\"\n  }\n}",
+    "title": "Panoramic Character Concept Sheet for 17-Year-Old Japanese JK",
+    "description": "A complex prompt designed to generate a panoramic character concept decomposition sheet for a Japanese high school student (JK). It requires strict face preservation from a reference image and includes detailed sections for clothing layers, expressions, and related school items, suitable for character design workflows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544838284_31zqo0_G-tdk1nbQAMUhaD.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "As a hint for the world currently being created, ask nano banana to add {argument name=\"element to add\" default=\"details\"}",
+    "title": "Nano Banana Detail Addition Test",
+    "description": "A test prompt used with Nano Banana to add specific details to an existing concept or image (a 'world' the user is creating), checking the AI's ability to enhance and refine existing visual ideas.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544874904_t3mw8m_G-s4DwybQBE8PIQ.jpg",
+      "https://cms-assets.youmind.com/media/1768544875028_zyspmj_G-s4AynbQAMCIdH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"Red futuristic sport motorcycle (POV perspective)\",\n      \"visible_elements\": \"Glossy red fuel tank with fuel cap, clip-on handlebars, black gloved hands gripping the grips, illuminated digital dashboard (slightly blurred)\",\n      \"action\": \"Speeding at hyper-velocity through a suspended structure\",\n      \"pose\": \"First-Person View (POV) / Rider's eye perspective looking slightly downward at the bike and forward into the horizon\"\n    },\n    \"environment\": {\n      \"setting\": \"Transparent glass hyperloop tunnel / skyway\",\n      \"location\": \"High altitude above a futuristic cyberpunk metropolis\",\n      \"background_details\": \"Sprawling city grid with infinite street lights below, skyscrapers, motion-blurred light trails\",\n      \"horizon\": \"Dusk/Twilight sky with a gradient of deep teal fading into a warm sunset orange strip\"\n    },\n    \"lighting_and_color\": {\n      \"color_palette\": \"Cinematic Teal and Orange (Complementary colors)\",\n      \"primary_tones\": \"Cyan/Turquoise glass reflections, Deep Red motorcycle paint, Golden/Orange horizon glow\",\n      \"lighting_style\": \"High contrast, neon ambient lighting, specular highlights on the metal and glass surfaces\"\n    },\n    \"camera_technical\": {\n      \"camera_angle\": \"Wide-angle POV (14mm to 16mm equivalent)\",\n      \"focus\": \"Sharp focus on the motorcycle tank and handlebars, radial motion blur on the tunnel walls and city\",\n      \"aperture\": \"f/2.8 (to capture low light details)\",\n      \"shutter_speed\": \"1/30s (simulated drag shutter to create heavy motion blur effects on the surroundings)\",\n      \"iso\": \"ISO 800\",\n      \"composition\": \"Central symmetry, leading lines created by the tunnel structure converging at the center vanishing point\"\n    },\n    \"style_descriptors\": [\n      \"Cyberpunk\",\n      \"Synthwave aesthetic\",\n      \"Hyper-realistic\",\n      \"High velocity\",\n      \"Futuristic\",\n      \"Cinematic\",\n      \"8k resolution\",\n      \"Unreal Engine 5 render style\"\n    }",
+    "title": "Cyberpunk POV Motorcycle Ride at Hyper-Velocity",
+    "description": "A cinematic, hyper-realistic prompt for generating a First-Person View (POV) image of riding a red futuristic sport motorcycle. It details the cyberpunk setting (hyperloop tunnel above a metropolis), the color palette (teal and orange), and camera effects (wide-angle lens, heavy motion blur, low shutter speed) to simulate high-velocity movement.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768544848775_w24khl_G-pdG6Za4AAIHCF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a detailed and realistic full-body reference image on a plain white background, showing four views of the young adult woman in the attached image, follow this description:\n\n    \"body_description\": \n      \"ethnicity\": \"caucasian with fair skin tone\"\n      \"hair\": brown with blonde highlights, long, wavy\",\n      \"build\": \"athletic hourglass, fit and toned\",\n      \"torso\": \"narrow, high-waisted, plain stomach\",\n      \"bust\": \"proportional, firm\",\n      \"waist\": \"taut, slim, high-definition transition to hips\",\n      \"hips\": \"wide, curvy, pronounced shelf-like curve at the iliac crest\",\n      \"legs\": \"toned, athletic thighs with smooth skin transition\",\n\nArrange the views horizontally from left to right: front view, left side profile view, right side profile view, and back view. In each pose, she stands straight with arms relaxed at her sides, feet slightly apart, wearing a simple black sports bra and black thong underwear to clearly display body proportions, muscle definition, facial details, hair, and posture. Ensure a 4:4 aspect ratio, high resolution, realistic rendering, no shadows, no additional elements, and equal spacing between views for easy reference.",
+    "title": "Four-View Character Reference Sheet for 3D Modeling",
+    "description": "A highly specific prompt designed to create a four-view reference sheet (front, left profile, right profile, back) of a young adult woman for character design or 3D modeling purposes. It mandates a plain white background and minimal attire to clearly display detailed body proportions and muscle definition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468610961_c2a45y_G-pSqcEawAADeXq.jpg",
+      "https://cms-assets.youmind.com/media/1768468611783_zia0py_G-pSpm2WEAAj7Wg.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "🍌 Prompt A\nUltra-realistic photo. The moment this character emerges three-dimensionally from a smartphone placed on a table. One hand is reaching towards the viewer, the other hand is on the smartphone frame, the lower body is inside the smartphone, and the feet are cropped out. The character is looking at the viewer. Due to strong exaggerated perspective (extreme wide-angle, forced perspective),\nthe hands and face appear extremely large, being very close to the camera,\nand the lower body appears smaller in the back, creating a three-dimensional depth composition.\n\n🍌 Prompt B\nUltra-realistic photo. The moment this character emerges three-dimensionally from a smartphone placed on a table. One hand is reaching towards the viewer, one foot is on the smartphone frame, and the lower body is inside the smartphone. Exaggerated perspective makes the nearby face and hands look large. Motifs associated with the atmosphere of the reference image also pop out. The character is leaping out vigorously while looking at the viewer, and motion blur is occurring.",
+    "title": "Character Emerging from Smartphone Screen (Forced Perspective)",
+    "description": "Two related prompts (A and B) for generating ultra-realistic images of a character emerging dynamically from a smartphone placed on a table. Both use extreme wide-angle and forced perspective to exaggerate the size of the hands and face closest to the camera, creating a 3D pop-out effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768468602600_n8jbqp_G-oKQo7aoAExHwD.jpg",
+      "https://cms-assets.youmind.com/media/1768468602511_49ec7v_G-oKQoiaYAEJ_dV.jpg",
+      "https://cms-assets.youmind.com/media/1768468602575_xymxl4_G-oKQrra0AA4YPi.jpg",
+      "https://cms-assets.youmind.com/media/1768468603599_megt35_G-oKQrKaMAA5B4G.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a miniature, full-body, isometric, realistic doll. The features of the doll must perfectly match the uploaded image. The doll is currently strolling through a {argument name=\"location theme\" default=\"cute Japanese flower shop\"} with a {argument name=\"background location\" default=\"white background\"}, minimal style, and 4K resolution.",
+    "title": "Isometric Miniature Figurine of a Character in a Japanese Flower Shop",
+    "description": "A prompt designed to transform an uploaded image of a person into a realistic miniature figurine. The figurine should be full-body, isometric, and perfectly match the features of the reference image. The scene is a cute Japanese flower shop with a white background and minimal style, rendered in 4K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768467013573_h395gt_G-iAKTkbQAEGtId.jpg",
+      "https://cms-assets.youmind.com/media/1768467013779_zptf58_G-iALUQa8AA1oMA.jpg",
+      "https://cms-assets.youmind.com/media/1768467013851_x9xv4c_G-iAKwoaAAA_7S9.jpg",
+      "https://cms-assets.youmind.com/media/1768467015263_fgx1yn_G-iALxVbQAMm42m.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"resolution\": \"8K ultra high resolution\",\n  \"style\": {\n    \"visual_style\": \"hyper-realistic, stylized caricature realism\",\n    \"render_quality\": \"extreme detail, sharp focus on subject, shallow depth of field\",\n    \"lighting_style\": \"cinematic warm indoor lighting with soft highlights and smooth shadows\",\n    \"color_grading\": \"warm tones, golden highlights, natural skin tones with glossy reflections\"\n  },\n  \"subject\": {\n    \"type\": \"human-like caricature figure\",\n    \"pose\": \"standing upright with legs slightly apart\",\n    \"proportions\": \"extremely exaggerated proportions, very large head and torso, very short limbs\",\n    \"scale\": \"small, table-height figure\",\n    \"expression\": {\n      \"mouth\": \"slightly open\",\n      \"eyes\": \"looking slightly to the side\",\n      \"emotion\": \"neutral to mildly surprised\"\n    }\n  },\n  \"head_and_face\": {\n    \"head_shape\": \"very large, rounded head\",\n    \"hair\": \"completely bald\",\n    \"skin_texture\": \"smooth, glossy, reflective with visible moisture\",\n    \"skin_tone\": \"light to medium skin tone with noticeable red flush on cheeks\",\n    \"facial_features\": {\n      \"cheeks\": \"very large, swollen appearance with strong redness\",\n      \"chin\": \"multiple visible folds\",\n      \"eyebrows\": \"dark, defined eyebrows\",\n      \"eyes\": \"small relative to head size, natural reflections visible\",\n      \"nose\": \"small and rounded\",\n      \"lips\": \"slightly parted, natural color\"\n    }\n  },\n  \"body\": {\n    \"torso\": \"extremely large, rounded belly protruding forward\",\n    \"arms\": \"short and thick arms hanging down\",\n    \"hands\": \"small hands with short fingers\",\n    \"legs\": \"short, thick legs\",\n    \"feet\": \"bare feet, small toes visible\",\n    \"skin_detail\": \"glossy surface with visible highlights, subtle texture, reflective sheen\"\n  },\n  \"clothing\": {\n    \"top\": {\n      \"type\": \"short-sleeve sports jersey\",\n      \"color\": \"{argument name=\"jersey color\" default=\"white\"}\",\n      \"fit\": \"very tight, stretched over torso\",\n      \"logos\": [\n        {\n          \"placement\": \"center chest\",\n          \"description\": \"sports brand logo in blue\"\n        },\n        {\n          \"placement\": \"left chest\",\n          \"description\": \"gold shield-shaped emblem\"\n        },\n        {\n          \"placement\": \"right chest\",\n          \"description\": \"circular crest with crown and letters\"\n        }\n      ],\n      \"details\": \"blue accent stripes on shoulders\"\n    },\n    \"bottom\": \"no visible pants or shorts\"\n  },\n  \"environment\": {\n    \"setting\": \"indoor room\",\n    \"surface\": {\n      \"type\": \"wooden table\",\n      \"texture\": \"polished wood grain with reflections\"\n    },\n    \"background\": {\n      \"focus\": \"heavily blurred\",\n      \"elements\": [\n        \"warm glowing lights\",\n        \"candle-like light sources\",\n        \"dark interior shapes\"\n      ],\n      \"bokeh\": \"large circular light bokeh\"\n    }\n  },\n  \"props\": {\n    \"left_side\": {\n      \"object\": \"transparent glass\"",
+    "title": "Hyper-Realistic Caricature of a Bald Man in a Jersey",
+    "description": "A highly specific prompt for generating an 8K, hyper-realistic, stylized caricature figure with extremely exaggerated proportions (large head/torso, short limbs). The subject is bald, glossy-skinned, and wearing a tight white sports jersey, standing on a polished wooden table.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768466930542_1fn6u5_G-gvw9ObQAAGTbX.jpg",
+      "https://cms-assets.youmind.com/media/1768466930782_vgtxpp_G-gvxCXaQAAxGPc.jpg",
+      "https://cms-assets.youmind.com/media/1768466931652_eab3bn_G-gvxJjbQAUiXpq.jpg",
+      "https://cms-assets.youmind.com/media/1768466932154_fx5sxn_G-gvxRsbQAAifo2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Design a highly realistic, miniature full-body isometric figurine of this person, wearing {argument name=\"attire\" default=\"ABC\"} and performing {argument name=\"action\" default=\"XYZ\"}, placed on a clean white minimal background, rendered in ultra-sharp 4K quality.",
+    "title": "Selfie to Isometric Figurine Prompt Template",
+    "description": "A simple, versatile prompt template for Nano Banana Pro designed to transform an uploaded selfie into a miniature, full-body, isometric, realistic figurine of the person. It allows customization of the figurine's attire and action.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768319145102_u6i48d_G-drcsoakAEe5TM.jpg",
+      "https://cms-assets.youmind.com/media/1768319145156_oa9gx4_G-drcsfa4AEUqdw.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an expression variation sheet as a single image based on the character in the attached reference image.\n\nFormat:\n- 2 rows x 3 columns grid (6 panels of the same size)\n- Overall aspect ratio 3:2\n- Background is pure white (#FFFFFF)\n- Panel borders should be thin and subtle (light gray) is acceptable\n- Place small numbers in the top left of each panel: \"1. {argument name=\"expression 1\" default=\"Neutral\"}\" \"2. Happy\" \"3. Ecstatic\" \"4. Sad\" \"5. Angry\" \"6. Surprised\" (Black, easy to read)\n\nCommon Conditions (Must be completely identical across all 6 panels):\n- Hairstyle, hair color, eye color, face contour, clothing, accessories\n- Face direction (front), bust-up angle, head size, position\n- Lighting, shadow placement, coloring (anime-style soft shading)\n\nOnly the \"expression\" can be changed. Do not change the pose or angle.\n\nArrangement (Fixed order: Left -> Right, Upper -> Lower):\n1 (Top Left): Neutral expression. Calm, relaxed face. Mouth closed.\n2 (Top Center): Happy. Gentle smile. Soft eyes.\n3 (Top Right): Ecstatic. Full smile. Mouth open laughing. Strong highlight in the pupils making them shine (excessive effects unnecessary).\n4 (Bottom Left): Sad. Eyes well up. Downcast gaze. Corners of the mouth turn down.\n5 (Bottom Center): Angry. Frowning eyebrows with wrinkles between them. Teeth clenched (or lips tightly sealed).\n6 (Bottom Right): Surprised. Eyes wide open. Eyebrows raised. Mouth open.\n\nDo Not Include:\n- Background objects, text (other than numbers 1-6), effect lines, sweat marks, different outfits, different accessories",
+    "title": "Character Expression Sheet Generation (Anime Style)",
+    "description": "A highly detailed, structured prompt for Nano Banana Pro designed to generate a 2x3 grid expression sheet (6 panels) of a character from a reference image. It strictly controls layout, aspect ratio, background, and ensures all elements (hair, clothing, lighting) remain identical across panels, changing only the expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768319235338_h7pyga_G-chDsdaAAERoq5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "\"art_style_description\": {\n      \"type\": \"3D Paper Quilling Art / Paper Filigree.\",\n      \"technique\": \"Intricate strips of colored paper rolled, shaped, and glued together to create a decorative design. High tactile texture, volumetric depth, and layered relief.\",\n      \"visual_aesthetic\": \"Handcrafted, meticulous, vibrant, clean edges, physical render simulation.\"\n    },\n    \"subject_details\": {\n      \"character\": \"Samurai Warrior.\",\n      \"apparel\": {\n        \"armor\": \"Full O-Yoroi armor constructed from tightly coiled paper circles and wavy paper strips. The shoulder guards (sode) and chest plate feature intricate looping patterns.\",\n        \"helmet\": \"Ornate Kabuto helmet with gold paper accents and a crescent moon crest.\",\n        \"weapon\": \"A long katana sword held over the shoulder, blade made of a single sleek strip of silver/white paper.\"\n      },\n      \"surrounding_elements\": \"Swirling clouds of smoke and wind represented by flowing, ribbon-like strips of paper in teal, orange, and cream. Small square tiles (resembling dice or mahjong tiles) scattering in the air.\"\n    },\n    \"exact_pose_anatomical\": {\n      \"stance\": \"Dynamic action pose. The samurai is twisting the torso, preparing to strike or in the middle of a motion.\",\n      \"arms\": \"Both hands gripping the katana handle, raised near the right ear (Hasso-no-kamae stance).\",\n      \"flow\": \"The composition follows a diagonal S-curve flow, with ribbons and armor plating creating a sense of movement from top right to bottom left.\"\n    },\n    \"colors_and_materials\": {\n      \"palette\": \"Traditional Japanese color scheme: Deep Crimson Red, Teal/Turquoise, Cream/Off-White, and Metallic Gold accents.\",\n      \"material_properties\": \"Matte paper texture with visible paper grain. Subtle shadows between the paper strips indicating physical depth.\"\n    },\n    \"camera_technical_values\": {\n      \"viewpoint\": \"Top-down Flat Lay (with 3D depth perception).\",\n      \"lens\": \"100mm Macro Lens (To capture the minute details of the paper coils without distortion).\",\n      \"aperture\": \"f/11 (Deep depth of field to keep all layers of the paper craft in focus).\",\n      \"shutter_speed\": \"N/A (Static Subject).\",\n      \"lighting\": \"Soft Studio Lighting (Global Illumination). Even light from above to cast soft, ambient shadows inside the paper coils, enhancing the 3D effect.\",\n      \"resolution\": \"8k, hyper-detailed.\"\n    }\n\n}",
+    "title": "3D Paper Quilling Art: Samurai Warrior",
+    "description": "A highly specific, structured prompt for generating an image in the style of 3D paper quilling art (paper filigree). It details the subject (Samurai Warrior in O-Yoroi armor), the construction materials (coiled paper circles, sleek paper strips), dynamic pose (Hasso-no-kamae stance), and technical camera settings (100mm Macro lens, f/11 aperture) to emphasize tactile texture and depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768226026701_cc8hjx_G-aQyOObUAAJ8cP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "[Character Setting Section]\n1. Character Appearance Details:\n(Enter the characteristics of the original character here. Example: A magical girl with long blonde hair and a blue dress)\n{argument name=\"character details\" default=\"Brown hair, short twin tails, red eyes, slightly pointed teeth (giza teeth).\"}\n\n2. Text to Display on the Package:\n(Enter the title you want written on the box in English or Roman letters here. Example: MAGIC GIRL)\n{argument name=\"package title\" default=\"Tsunochyan Assembly Kit\"}\n\n[Fixed Section]\nImage Style:\nVivid, photorealistic product introduction photo for hobby products. Horizontal (16:9).\n\nMain Subject (Hand):\nIn the center foreground of the image, a human hand is holding up the plastic model 'runner (frame)' toward the camera.\n\nImportant Shape Instruction: The parts on the runner are **deformed into a cute mini-character (SD style/chibi character) with two heads high** based on the specified \"Character Appearance Details\". The head part is large and rounded. **Only one head part** is placed. Do not show multiple face parts or spare heads. That single head part is large and clearly represents the character's features.\n\nImportant Color Instruction: The runner parts are not monochromatic gray, but are **\"multi-colored\"**. The plastic parts themselves are pre-colored red, blue, skin tone, white, etc., according to the character's color settings (to look like a specification that can be completed just by assembly).\n\nBackground (Work Desk):\nBehind the hand on the desk, the following two items are placed:\n\nCompleted Product: A completed figure assembled in the same \"mini-character\" design as the runner is standing.\n\nPackage Box: The box is placed next to the completed product at an angle where the \"front\" and \"side\" are visible.\n\nFront Design: Clearly display only the SD illustration of the specified character and the specified \"Text to Display on the Package\" as a large logo.\n\nManufacturer Logo (Important): Clearly place a logo mark reading \"Banana Model\" on the bottom right of the box front. Do not display any other existing logos or unknown marks.\n\nSide Design (Important): The side of the box should be printed with a \"specifications table\" (a table with borders and a list of fine text) detailing the product's performance and values.\nTools: Only two items are placed on the desk: a green **\"cutting mat\" and \"nippers\"** for plastic models.\n\nOverall Setting:\nThe background is moderately blurred with depth of field, and the composition highlights the colorful runner parts in the hand and the box with the specified text.",
+    "title": "Plastic Model Kit Generation Prompt",
+    "description": "A detailed template prompt for Nano Banana Pro to generate an image of a plastic model kit (plamo) based on a specified character, including the runner frame, a completed figure, and a package box with specific branding ('Banana Model') and technical details, designed for a photorealistic hobby product photo style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768143922135_zmc3dd_G-OKw0zaQAEVCCb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A digital illustration of a {argument name=\"subject\" default=\"great white shark\"} in {argument name=\"action/state\" default=\"mid-hunting approach\"}, portrayed with a network of glowing {argument name=\"primary color\" default=\"cold bioluminescent blue\"} lines mapping its {argument name=\"system type\" default=\"sensory and predatory anatomy\"}. The cartilaginous skeleton is rendered as flexible geometric framework, the lateral line system as a full-body motion detector array. The image is set against abyssal ocean black, depth pressure readings floating at the margins. The {argument name=\"area of interest\" default=\"ampullae of Lorenzini, hundreds of electroreceptor pores clustered on the snout\"}, are emphasized with a pulsing {argument name=\"accent color\" default=\"red-orange\"} glow, indicating {argument name=\"condition\" default=\"active electromagnetic detection: the prey's heartbeat rendered as intercepted signal waves feeding into the shark's targeting consciousness\"}. The teeth are visualized as serrated replacement queues. The style merges marine biology research documentation with military targeting system aesthetics, designed to resemble a naval analysis of nature's most refined predator, clinically respectful of four hundred million years of evolution.",
+    "title": "Anatomy Visualization Prompt Template (Great White Shark Example)",
+    "description": "A structured prompt template designed for creating incredible anatomical visualizations, specifically using glowing blue lines to map systems against a dark background. The example provided applies this template to a great white shark, highlighting its sensory anatomy (Ampullae of Lorenzini) with a pulsing red-orange glow, merging marine biology documentation with military targeting system aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768143716234_kqbq1m_G-ORRVoa4AA-kns.jpg",
+      "https://cms-assets.youmind.com/media/1768143716583_quw5bt_G-ORYE2a0AES1Oo.jpg",
+      "https://cms-assets.youmind.com/media/1768143716641_pyzb05_G-ORc6_aQAAJhiU.jpg",
+      "https://cms-assets.youmind.com/media/1768143719012_w8nayk_G-ORkNqawAAnfyF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "This is a Nano Banana Pro prompt for generating siblings of a character based on a reference illustration.\n\nIt works by simply specifying sister or brother within the prompt.\nIt is likely possible to specify mother or grandfather as well.\n\nIt allows specifying multiple people, not just one.\nIt also allows specifying individual characteristics.\nThe first image was output with the following:\n\n{argument name=\"Siblings to generate\" default=\"One sister (funky), one sister (Jirai-kei), one brother (muscle-head), one sister (shut-in)\"}\n\nSizes can also be customized, such as vertical, horizontal, or square, not just the original.",
+    "title": "Generating Siblings Based on a Reference Character",
+    "description": "A prompt template for Nano Banana Pro designed to generate siblings (brothers/sisters) of a character based on a provided reference illustration. It allows specifying the number of siblings and their individual characteristics (e.g., 'funky sister', 'muscle-head brother').",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768143701098_wnjjjd_G-M0BSNaQAAZKWQ.jpg",
+      "https://cms-assets.youmind.com/media/1768143700692_l1nwuc_G-M0Bdza0AQhJLC.jpg",
+      "https://cms-assets.youmind.com/media/1768143701893_51fldi_G-M0BSPa0AcKJVh.jpg",
+      "https://cms-assets.youmind.com/media/1768143702668_fltuaw_G-M0BSNa0Akz9RI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "1.5::black background, simple background ::, 1.8::cel shading, hard shadows, chiaroscuro ::, oversize ({argument name=\"weapon type\" default=\"weapon\"}), swinging a fantasy ({argument name=\"weapon type 2\" default=\"weapon\"}), ornate details, red weapon trail, fancy red light particles, extreme energy slash, leather halter black top,",
+    "title": "Black and White Fantasy Action Weapon Prompt",
+    "description": "A prompt for generating a fantasy action scene with a focus on a large weapon and dramatic lighting. It uses specific weighting (::1.5:: and ::1.8::) to emphasize a black background, cel shading, chiaroscuro, and a red weapon trail, creating an intense, stylized combat image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1768143710459_5kkv8v_G-M16WaWYAAeDnr.jpg",
+      "https://cms-assets.youmind.com/media/1768143711041_852ot0_G-M16WcXsAANXsb.jpg",
+      "https://cms-assets.youmind.com/media/1768143711152_12syb6_G-M16WbXcAAxhxC.jpg",
+      "https://cms-assets.youmind.com/media/1768143713627_1gi07q_G-M16WcWkAAPKaZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Photorealistic industrial military humanoid mech,\nheavy armored, bulky proportions, low center of gravity.\nHard surface mechanical modeling, realistic engineering details.\n\nMassive {argument name=\"mech color\" default=\"yellow\"} armored mech with heavy battle damage:\nchipped and peeling paint, scratches, dents, cracks,\nexposed metal edges, oil stains, dust, rust,\nweathered steel and industrial metal textures.\n\nExtremely wide shoulders, thick legs,\nsmall head embedded into the torso.\nRight hand holding a large industrial hammer weapon.\nLeft arm integrated with a heavy shield-like armor.\n\nPost-apocalyptic ruined city environment,\ncollapsed buildings, rubble-filled streets.\nCinematic dramatic sunset sky,\nwarm orange light contrasting cold metallic armor.\nRealistic global illumination, high contrast lighting.\n\nFull body shot, static powerful stance,\ncalm after battle mood,\ndark gritty sci-fi realism.\n\nNEGATIVE PROMPT:\nanime, anime-style mecha, manga, illustration,\nstylized design, exaggerated proportions,\nclean shiny armor, toy-like plastic,\nslim or agile body,\nhero pose, action pose, dynamic motion,\nenergy effects, glowing parts, fantasy elements,\nsoft lighting, colorful pastel tone,\nlow detail, blurry image",
+    "title": "Photorealistic Battle-Damaged Mech Prompt",
+    "description": "A detailed comparison between Nano Banana Pro and Seedream 4.5 for generating images of a battle-damaged mech. The prompt provided is highly descriptive, focusing on photorealism, industrial design, heavy armor, specific damage details (chipped paint, rust), and a post-apocalyptic setting with dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767967500521_lv37m0_G-HDj5La4AAm8r6.jpg",
+      "https://cms-assets.youmind.com/media/1767967500695_ucak08_G-HDj5Ia0AIS6lW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "prompt_blueprint:\n  composition_framing:\n    shot_type: POV first-person perspective\n    angle: Extreme low-angle looking over the fuel tank and triple clamp\n    lens: 14mm ultra-wide-angle to create high-velocity peripheral stretching\n    focus: Razor-sharp focus on the handlebar assembly and digital readout\n  machine_engineering_specs:\n    bodywork: 1k plain weave carbon fiber with matte-black finish and oxblood pinstriping\n    instrumentation: \n      - TFT digital dashboard displaying a blurred 299 km/h speed readout\n      - High-contrast red glowing UI with Predator Mode telemetry\n    handlebar_assembly: \n      - CNC-machined slim aluminum top-yoke with laser-etched branding\n      - Ohlins NPX pressurized fork caps with gold anodized finish\n    controls: \n      - Carbon fiber brake and clutch levers\n      - Slender feminine hands in high-detail black leather tactical gloves\n  subject_refinement:\n    identity: Vampire Mafia Girl\n    physique: Slender feminine arms and hands in tailored black tactical leather\n    features: Luminescent red irises reflecting the digital dash glow\n  lighting_atmosphere:\n    environment: Cyberpunk future city with towering megastructures and neon arteries\n    key_light: Intense 6500K cyan and magenta light spill from holographic advertisements\n    fill_light: Internal red LED engine glow reflecting off the rider's leather sleeves\n    atmospheric_effects: \n      - Heavy volumetric mist and rain-slicked futuristic glass pavement\n      - Faint heat shimmer from the exhaust\n  special_effects_dynamics:\n    energy_emissions: \n      - Plasma discharge and electric arcing around the tire contact patches\n      - Kinetic energy distortion ripples emanating from the front fairing\n      - Afterburner-style blue-red ion glow from the dampened exhaust ports\n    motion_fidelity:\n      - 1/20 sec shutter speed for extreme directional light-streaks\n      - Long-exposure light trails stretching from futuristic traffic\n      - Chronic aberration edge fringing on the periphery to suggest hyper-speed\n      - Static, frozen clarity on the mechanical steering components\n  negative_constraints:\n    exclude: masculine arms, bulky hands, men, male, speedometer reading 0, stationary background, daylight, generic streets, watermarks, chrome, distorted anatomy, cockpit, airplane parts",
+    "title": "Cyberpunk POV Motorcycle Ride with Vampire Mafia Girl",
+    "description": "A highly technical and detailed prompt designed to generate a first-person POV shot from a high-speed motorcycle in a cyberpunk city. The scene focuses on the carbon fiber handlebars and digital readout (showing 299 km/h), with the rider being a 'Vampire Mafia Girl' whose hands are visible in tactical leather gloves. It emphasizes extreme ultra-wide-angle perspective, volumetric mist, and motion blur to suggest hyper-speed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767966065492_8wd0jo_G-FR4THXQAAbS5a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Anchor: [Uploaded Image]::3\nMorphology: {argument name=\"architecture style\" default=\"Monumental brutalist architecture, monolithic concrete slabs, geometric decay, erosion patterns\"}::3\nMaterial Physics: Raw concrete, creeping ivy, moss density, rusted rebar, weathered stone::2\nIllumination: Overcast moody sky, soft ambient occlusion, atmospheric fog, desaturated palette::1.5\nRender Stack: Photorealistic architectural visualization, post-apocalyptic concept art, epic scale::1\nNegative: [Clean, new, shiny, futuristic, vibrant colors, human-scale]:: -0.5",
+    "title": "Brutalist Architecture Morphing Prompt",
+    "description": "A structured prompt using weighted parameters to morph an uploaded anchor image into a monumental, post-apocalyptic brutalist architectural visualization. It focuses on geometric decay, raw concrete textures, creeping ivy, and moody, desaturated illumination.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767966182754_awp6wk_G983BupXQAALbJW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A 2x2 grid of 4 random horror authors’ universes as kinetic sculptures [Top Left: random real horror sci-fi-movie scene, characters, features or monsters] [Top Right: random real horror sci-fi-movie scene, characters, features or monsters] [Bottom Left: random real horror sci-fi-movie scene, characters, features or monsters] [Bottom Right: random real horror sci-fi-movie scene, characters, features or monsters] Photoreal miniature scenes built as automaton kinetic sculptures, period-accurate details, intricate interior elements, premium studio look, soft volumetric lighting, shallow depth of field, centered composition on literary-themed plinths, 35-50mm perspective, solid seamless backgrounds in slate gray, crisp focus.",
+    "title": "Horror Author Universe Kinetic Sculptures Grid",
+    "description": "A fun prompt designed to visualize the universes of four random horror authors as photorealistic miniature kinetic sculptures (automata). The prompt specifies a 2x2 grid layout, period-accurate details, soft volumetric lighting, and a premium studio look, all centered on literary-themed plinths.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767966048719_2h9u62_G-A7miSXgAAXBzF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": {\n    \"description\": \"Athletic woman in a warrior-like kneeling stance on dusty terrain, holding a vertical spear with a firm, dominant grip while looking directly at the camera with a stoic gaze.\",\n    \"facial features\": \"Attached Image for reference\",\n    \"age\": \"Mid 20s\",\n    \"expression\": \"Determined and intense micro-expression with a slight brow furrow and focused, piercing eyes.\",\n    \"hair\": {\n      \"color\": \"Deep auburn with rich copper undertones\",\n      \"style\": \"Long, voluminous waves cascading over her shoulders and chest, reaching down to her waist.\"\n    },\n    \"clothing\": {\n      \"top\": {\n        \"type\": \"Coin-link chainmail bikini top\",\n        \"color\": \"Antique silver and bronze\",\n        \"details\": \"Intricate metallic mesh construction featuring hundreds of small, dangling circular coins that create a layered, scale-like texture; thin metallic halter straps.\"\n      },\n      \"bottom\": {\n        \"type\": \"Matching chainmail bikini bottom\",\n        \"color\": \"Antique silver and bronze\",\n        \"details\": \"High-cut V-shape with draped metallic coin fringe along the waistline and a central mesh panel.\"\n      }\n    },\n    \"face\": {\n      \"preserve_original\": true,\n      \"makeup\": \"Sultry smoky eye with dark charcoal shadow, defined arched eyebrows, and a matte nude lip; natural sun-kissed skin texture with visible pores.\"\n    },\n    \"body_art\": {\n      \"tattoos\": \"Intricate dark ink floral or filigree tattoo visible on the upper left thigh/hip area, partially obscured by the clothing.\"\n    },\n    \"body_art\": {\n      \"tattoos\": \"Intricate dark ink floral or filigree tattoo visible on the upper left thigh/hip area, partially obscured by the clothing.\"\n    }\n  },\n  \"accessories\": {\n    \"headwear\": {\n      \"type\": \"Valkyrie helmet\",\n      \"details\": \"Polished silver finish with large, upright metallic wings on each side featuring detailed feather engraving; includes a delicate silver chain draped across the forehead.\"\n    },\n    \"prop\": {\n      \"type\": \"Spear\",\n      \"details\": \"A long, dark-wood shaft topped with a large, ornate golden spearhead; the tip is sharp and reflects the warm sunlight.\"\n    }\n  },\n  \"photography\": {\n    \"camera_style\": \"High-resolution digital photography with a slight cinematic film grain\",\n    \"angle\": \"Eye-level, slightly tilted upwards to emphasize the subject's stature\",\n    \"shot_type\": \"Medium shot, framing from the head to the knees\",\n    \"aspect_ratio\": \"9:16\",\n    \"texture\": \"Sharp focus on the subject with a soft bokeh background; warm, golden-hour color grading.\"\n  },\n  \"background\": {\n    \"setting\": \"Arid, desert canyon landscape\",\n    \"elements\": [\n      \"Tiered reddish-brown rock formations resembling ancient, weathered steps\",\n      \"Dry, pebbled earth and dirt in the foreground\",\n      \"Blurred distant rocky ridges under a clear sky\"\n    ],\n    \"atmosphere\": \"Hot, dry, and ancient; late afternoon sun creating high-contrast shadows\",\n    \"lighting\": \"Natural golden hour sunlight coming from the side, highlighting the metallic textures of the armor and the contours of the subject's physique.\"\n  }\n}",
+    "title": "Warrior Woman in Chainmail Bikini Desert Scene JSON Prompt",
+    "description": "A highly detailed JSON prompt for generating a photorealistic image of an athletic woman in a warrior-like kneeling stance on dusty desert terrain. It specifies strict facial identity preservation, detailed chainmail bikini armor, a Valkyrie helmet, and dramatic golden hour lighting to emphasize metallic textures and a determined expression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682206995_d8hz1z_G96Oy8qXUAAZWGv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "subject:\n  The original character from the single reference illustration,\n  represented as a highly detailed collectible PVC action figure.\n  The character’s design, proportions, facial features, hairstyle, outfit, and colors are preserved exactly.\n\ncomposition:\n  A single 3:4 frame divided into multiple clearly defined rectangular panels.\n  Each panel presents the same action figure posed differently.\n  Panels are separated by thin, clean borders in a neutral tone.\n  Each figure is centered within its own panel.\n\naction:\n  Dynamic action poses made possible by articulated action-figure construction.\n  Poses emphasize balance, tension, and expressive movement,\n  clearly reading as intentionally posed action figures rather than static statues.\n\nlocation:\n  Neutral studio background with a seamless white to light gray gradient.\n  Each panel maintains consistent studio conditions.\n\nstyle:\n  Photorealistic collectible PVC action figure.\n  Realistic articulation-friendly sculpting suitable for dynamic posing.\n\ncamera_lighting:\n  Professional studio lighting consistent across all panels.\n  Controlled highlights, sharp focus, shallow depth of field.\n  Soft shadows beneath each figure within its panel.\n\ncolors:\n  Exact color reproduction from the original illustration, unchanged.\n\nedit_instructions:\n  Transform this illustration into a photorealistic PVC anime figure.\n  Keep the original character’s design, action pose, and colors exactly the same.\n  Render it as a collectible figurine made of PVC plastic, with realistic painted surface and detailed shading.\n  Apply glossy highlights on areas such as the hair and clothing.\n  Use a matte finish on the skin.\n  Add subtle seam lines as seen in real manufactured figures.\n  Include transparent plastic figure stands supporting dynamic action poses.\n  Do not include opaque bases or decorative display platforms.\n\nextras:\n  High-resolution, catalog-quality product image.",
+    "title": "Action Figure Transformation Prompt for Nano Banana Pro",
+    "description": "A comprehensive, multi-part prompt designed specifically for Nano Banana Pro to transform a reference character illustration into a highly detailed, photorealistic PVC action figure, displayed in multiple dynamic poses within a catalog-style layout.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682252234_u6hymo_G95TSg-aAAA4WKK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A scene in an open clearing on the edge of a dense evergreen forest. There is snow on the ground and the weather appears icy and cold. The sun is bright overhead and the air is clear, and there are rows and rows of organized military tents in the distance. A few banner flags are mounted on poles near the tent camps with the prominent feature of a {argument name=\"banner feature\" default=\"wolf head\"}. Another banner shows a simple red eagle. Various soldiers move above between the camp tents, tending cook fires, sharpening swords, and planning around maps. The aesthetic should feel Medieval or Renaissance, with no technology, but sophistication in the army camp organization. The composition is at the eye level of a human adult. The scene should be realistic but that of a fantasy world like Wheel of Time. --ar 9:16",
+    "title": "Medieval Fantasy Army Camp Scene",
+    "description": "This is an image generation prompt designed to create a detailed, realistic fantasy scene of a sophisticated military camp in a snowy, open clearing on the edge of a dense evergreen forest. The aesthetic is strictly Medieval/Renaissance, focusing on high organization and no technology, suitable for a world like Wheel of Time.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767682210295_9gspo6_G94Ug75bYAAlIiQ.jpg",
+      "https://cms-assets.youmind.com/media/1767682210330_93acds_G94Ug95bUAAnomz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "based on the attached image,\ngenerate a Side by side photo of a close up face, and half body character design (both views are different view of an identical design) of a woman with long, flowing dark hair and a gentle, warm smile. Her face is adorned with delicate freckles, and her striking blue almond-shaped eyes exude kindness. She wears an ornate, deep-blue hooded cloak embellished with intricate gold patterns resembling swirling waves or dragons, evoking a sense of fantasy or ancient nobility. The fabric appears rich and textured, fastened with an elaborate golden clasp at the shoulder. Underneath, glimpses of armored plating suggest a warrior or royal status. The overall aesthetic blends elegance with strength, set against a soft, neutral background that highlights her serene yet powerful presence. close up face on the left, half body on the right, on a flat plain white background, photography with edge lighting for depth, 16:9, 2K",
+    "title": "Side-by-Side Fantasy Character Design Sheet",
+    "description": "A prompt for generating a side-by-side image: a close-up face and a half-body view of an identical fantasy character design. The character is a woman with dark hair, freckles, and striking blue eyes, wearing an ornate, deep-blue hooded cloak with gold patterns, blending elegance with warrior strength. It specifies a flat white background and edge lighting for depth.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767606946928_rua04j_G91h5qkaIAA_VCq.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A futuristic hyper-realistic robotic frog, realistic proportions, smooth white ceramic-like armor plates with visible panel segmentation, rounded mechanical joints, compact and balanced body structure.\nLarge glossy black camera-lens eyes, minimal facial features, subtle seams between components, precision-engineered limbs with articulated fingers and toes, soft industrial design language. Warm light gray, minimal and clean composition, photography style with combination chrome line and shinny gold on some subject's parts, soft diffused lighting from above and front, gentle shadow beneath the subject, no harsh contrast.\nUltra-detailed surface finish, matte and semi-gloss material balance, centered composition, high realism, contemporary industrial design aesthetic, soft depth of field, sharp focus, no text, no logo, no watermark. Flat background with aspect ratio 9: 16 \nNegative Prompt:\norganic skin, slimy texture, dirt, scratches, rust, weathered metal, colorful palette, cyberpunk, neon light, cartoon illustration, low poly, fantasy style, dramatic shadows, cluttered background, no box under the subject.",
+    "title": "Hyper-Realistic Robotic Frog Design",
+    "description": "A prompt for generating a hyper-realistic, futuristic robotic frog with realistic proportions. The design emphasizes smooth white ceramic armor, large glossy black camera-lens eyes, and a clean, minimal composition with soft diffused lighting and a warm light gray background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767607026477_ngfah8_G90nN7obgAEg-p_.jpg",
+      "https://cms-assets.youmind.com/media/1767607026521_sxalup_G90nRf6bYAEEauZ.jpg",
+      "https://cms-assets.youmind.com/media/1767607027123_rmtowf_G90nOIva0AA09H4.jpg",
+      "https://cms-assets.youmind.com/media/1767607028384_xd4cag_G90nOJCasAA5l2R.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "1. A stylized 3D animated girl with short wavy purple hair and soft freckles, warm amber eyes, gentle smile, arms crossed casually, wearing a loose striped t-shirt in pastel blue, yellow, and pink with denim jeans, standing in front of a colorful geometric wooden mosaic wall made of layered carved wood pieces in pink, red, orange, yellow, and blue tones. Pixar / Disney-like character style, soft global illumination, shallow depth of field, ultra detailed textures, hand-crafted wood grain look, cinematic lighting, vibrant colors, high resolution, 4k, whimsical, cozy mood.\n2. A stylized 3D animated girl standing in front of a rustic wooden door on a colorful patchwork wall made of weathered wooden shingles in warm reds, oranges, yellows and muted blues. The girl has soft, expressive eyes, slightly tousled medium-length brown hair, a gentle smile, and a relaxed, thoughtful pose with her hands in her pockets. She is wearing a faded red-to-orange gradient t-shirt, loose rolled-up blue cargo pants, and worn red sneakers. The lighting is warm and soft, golden hour atmosphere, cozy and whimsical mood. Highly detailed textures, painterly yet realistic wood grain, shallow depth of field, cinematic composition, Pixar / Disney-like 3D style, ultra high quality, 4k, soft global illumination.",
+    "title": "Pixar/Disney Style 3D Animated Character Slides",
+    "description": "A set of two prompts for generating stylized 3D animated characters in the aesthetic of Pixar/Disney films. The prompts detail the character's appearance, pose, and specific environments (geometric wooden mosaic wall and rustic patchwork wall), emphasizing soft global illumination, detailed textures, and a whimsical, cozy mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767606978521_iciju2_G90QIq3asAEEKyp.jpg",
+      "https://cms-assets.youmind.com/media/1767606978503_gzii6y_G90QIrLbUAE_tc9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An image of the character from the reference image sitting in a room. A wide shot including the corner of the room. The room has no windows, red wallpaper and floor, only a simple red corner sofa and a red low table along the wall. The letter 'A' is written largely in white on the wallpaper.",
+    "title": "Character in a Red Room Scene Prompt",
+    "description": "A prompt for Nano Banana Pro to place a character (based on a reference image) into a specific, minimalist, and highly stylized room setting. The room is defined by red walls, a red floor, a simple red corner sofa, a red low table, and a large white letter 'A' written on the wallpaper, viewed as a wide shot including the room's corner.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767607052636_k1qinx_G9z4HQRagAA_h_b.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A 2x2 grid of 4 monumental mathematical symbols carved as colossal terrain typography in an arid landscape\n\n [Top Left: “∫” as a canyon-cut arch in sandstone, a thin aqueduct stream following the curve, tiny caravans casting long shadows] [Top Right: “Σ” as a stepped fortress carved into a mesa, sharp terraces, windblown sand pooling in corners, micro equations chiseled in] [Bottom Left: “π” as massive stone pylons connected by a lintel bridge, ruined blocks scattered like proof fragments] [Bottom Right: Penrose Triangle as impossible ruins half-buried, forced perspective illusion, harsh sunlight slicing edges] \n\nAerial oblique shot, golden hour desert light, crisp dramatic shadows, photoreal erosion detail, minimal haze, swiss 2x2 grid composition.",
+    "title": "Monumental Mathematical Symbols as Terrain Typography",
+    "description": "A creative image generation prompt for Nano Banana Pro, instructing it to render four monumental mathematical symbols (Integral, Sigma, Pi, Penrose Triangle) carved as colossal terrain typography in an arid landscape. The prompt specifies detailed visual elements, lighting, and composition for a photorealistic result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767604024081_wnlwh2_G9iu5AYXYAAiHq-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic, futuristic nano banana, metallic texture, neon light, dark background, sci-fi, cinematic, 8k, extremely detailed, photorealistic, high quality, {argument name=\"style\" default=\"cyberpunk\"}",
+    "title": "Freepik prompt for a futuristic nano banana",
+    "description": "This is an image generation prompt for Freepik, designed to create a hyper-realistic, futuristic image of a nano banana. The prompt specifies a detailed, high-quality render with a focus on metallic textures, neon lighting, and a dark, sci-fi environment, emphasizing cinematic quality and extreme detail.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767456284112_4m6lpj_G9fo_xBXYAA4FZ8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Character sheet showing Front, Back, and Side views of a deep-sea creature. The surface is a swirling, iridescent oil-slick with rainbow fuel-tints. Underneath the oily surface, a pulsing bioluminescent skeletal structure glows {argument name=\"skeleton color\" default=\"soft blue\"}. Wet, viscous texture, dark underwater studio lighting.",
+    "title": "Character Sheet for Deep-Sea Creature with Bioluminescent Skeleton",
+    "description": "A creative prompt instructing the AI to invent a new animation style and character, specifically a deep-sea creature. The prompt details the creature's appearance, featuring an iridescent oil-slick surface and a pulsing bioluminescent skeletal structure.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767454912876_0o11bd_G9agG0XaYAIS5jr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"subject\": \"{argument name=\"characters\" default=\"Animated rabbit and fox\"} building a snowman (Zootopia style)\",\n  \"clothing\": \"Rabbit in blue vest and red scarf; Fox in green sweater and tie\",\n  \"action\": \"Rabbit rolling snow, Fox placing carrot nose\",\n  \"accessories\": \"Snowman with stick arms and coal buttons\",\n  \"environment\": \"Winter holiday scene, decorated Christmas tree, colorful string lights, falling snowflakes\",\n  \"lighting\": \"Magical twilight blue background with warm holiday light glow\",\n  \"camera\": \"Medium shot, eye-level, central composition\",\n  \"style\": \"3D animation style, Disney/Pixar aesthetic, festive, vibrant colors, high detail\"\n}",
+    "title": "Zootopia Style Snowman Building Scene",
+    "description": "An image generation prompt for a 3D animated scene in the style of Disney/Pixar's Zootopia, featuring a rabbit and a fox building a snowman in a festive, magically lit winter holiday environment.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767166973724_lj4yne_G9UrvSJbkAAX3Y-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "legendary dragon emerging from glitch storm, pixel sorting distortion, RGB color split, fragmented wings, epic cinematic atmosphere, highly detailed",
+    "title": "Glitch Storm Dragon Prompt",
+    "description": "A prompt used to generate an image of a legendary dragon emerging from a glitch storm, utilizing pixel sorting, RGB color split, and fragmented wings to create an epic cinematic atmosphere. This prompt was tested on both Nano Banana Pro and ChatGPT.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1767061790723_2pk24d_G9P2Ai8aoAA-qiu.jpg",
+      "https://cms-assets.youmind.com/media/1767061790920_flq6qw_G9P2Ai4bAAA63lF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"model\": \"Nano Banana Pro\",\n  \"subject\": \"Masked survivor wearing a gas mask and tactical clothing\",\n  \"scene\": \"Burning battlefield surrounded by flames and smoke\",\n  \"pose\": \"Crouched low, gripping a metal crowbar\",\n  \"environment\": {\n    \"weather\": \"Ash-filled air, drifting embers\",\n    \"lighting\": \"Harsh firelight with deep shadows\",\n    \"ground\": \"Scorched earth and debris\"\n  },\n  \"mood\": \"Intense, dangerous, post-apocalyptic\",\n  \"style\": \"Cinematic realism\",\n  \"camera\": \"Low-angle close shot, dramatic depth of field\",\n  \"details\": \"Fire sparks, soot-covered fabric, reflections in gas mask lenses\",\n  \"quality\": \"Ultra-detailed, high contrast, gritty texture\"\n}",
+    "title": "Post-Apocalyptic Survivor Cinematic Realism",
+    "description": "A structured prompt for Nano Banana Pro to generate a cinematic, ultra-detailed image of a masked survivor on a burning battlefield. The focus is on intense mood, harsh lighting, and gritty texture in a post-apocalyptic setting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766987788929_dgpj7y_G9LD8z8bgAAfbbc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"scene_type\": \"photorealistic fantasy\",\n  \"setting\": {\n    \"location\": \"vast ancient cavern\",\n    \"floor\": \"rugged stone floor\",\n    \"lighting\": {\n      \"primary\": \"dim\",\n      \"ambient\": \"soft pink light\",\n      \"source\": \"distant stone archway\",\n      \"additional\": \"natural shadows, lifelike lighting, soft light refraction\"\n    },\n    \"atmosphere\": [\n      \"scattered flowers\",\n      \"broken stone\",\n      \"drifting dust particles\",\n      \"cinematic depth of field\"\n    ]\n  },\n  \"main_character\": {\n    \"type\": \"fairy woman\",\n    \"skin_tone\": \"fair-skinned\",\n    \"hair\": {\n      \"color\": \"white\",\n      \"style\": \"long, flowing\"\n    },\n    \"facial_features\": {\n      \"freckles\": \"subtle\",\n      \"ears\": \"pointed\"\n    },\n    \"wings\": {\n      \"type\": \"large butterfly wings\",\n      \"properties\": [\n        \"translucent\",\n        \"iridescent\",\n        \"shimmering blue-green hues\",\n        \"visible veins\",\n        \"soft light refraction\"\n      ]\n    },\n    \"clothing\": {\n      \"style\": \"emerald medieval-inspired\",\n      \"pieces\": [\n        {\n          \"type\": \"cropped top\",\n          \"material\": \"richly textured fabric\"\n        },\n        {\n          \"type\": \"high-waisted bottoms\",\n          \"material\": \"richly textured fabric\"\n        }\n      ],\n      \"details\": [\n        \"realistic gold filigree\",\n        \"engraved ornaments\",\n        \"worn metallic highlights\"\n      ]\n    },\n    \"pose\": \"seated on the stone floor\",\n    \"expression\": \"calm\"\n  },\n  \"companion\": {\n    \"type\": \"massive muscular bear\",\n    \"fur\": {\n      \"description\": \"dense, coarse\",\n      \"detail_level\": \"ultra-sharp\"\n    },\n    \"eyes\": \"striking icy blue\",\n    \"armor\": {\n      \"type\": \"{argument name=\\\"bear armor type\\\" default=\\\"faint green rune-like markings\\\"}\",\n      \"location\": [\"head\", \"shoulders\"],\n      \"effect\": \"glowing softly\"\n    },\n    \"pose\": \"leaning calmly beside the fairy\",\n    \"relationship\": \"conveying trust and companionship\"\n  },\n  \"interaction\": {\n    \"description\": \"Her arm rests gently over the bear’s head\"\n  },\n  \"technical\": [\n    \"ultra-realistic textures\",\n    \"photorealistic rendering\",\n    \"cinematic depth of field\",\n    \"natural shadows\",\n    \"lifelike lighting\"\n  ]\n}",
+    "title": "Photorealistic Fantasy Scene: Fairy and Muscular Bear in Cavern",
+    "description": "A highly detailed prompt for generating a photorealistic fantasy scene featuring a fairy woman with iridescent butterfly wings seated calmly next to a massive, muscular bear with glowing rune markings. The setting is a dim, ancient cavern illuminated by soft pink light, emphasizing ultra-realistic textures, cinematic depth of field, and the relationship of trust between the characters.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766987731423_537r9f_G9JDoEFakAA2TUv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Quality: Ultra High Quality / 4K equivalent / High definition / High contrast\nFormat: Special move activation scene UI for the latest smartphone games\nUsage: Official game-level screenshots shared on social media\n\n────────────────────\n[Most Important: Complete Fixation of Character Art Style]\n・Do not change the facial features, eye shape, pupil texture, contour, hairstyle, coloring, color usage, or atmosphere of the character in the input illustration at all.\n・Prohibit changing the character into a different person, a different artist's style, or changing the art style.\n・Treat the character as an “extension of the original illustration.”\n・Prohibit redrawing, redesigning, or reinterpretation.\n\n[Scope of Inference Allowed]\n・Inference is limited only to the following:\n  UI / Text / Effects / Damage numerical value / Direction\n・The character's appearance, perceived age, and impression are completely fixed.\n────────────────────\n\n[Composition/Camera]\n・Bust-up to waist-up composition.\n・The character occupies 60-70% of the screen.\n・The face, especially the “eyes,” should be positioned toward the top or sides of the screen.\n・Do not place any text, UI, or effects around the eyes.\n・Full-body composition is prohibited.\n\n────────────────────\n[Special Move Name (Main Subject, Maximum Display)]\n・Fixed display in the center of the screen.\n・Extra-thick, extra-large Japanese brush script.\n・The maximum size currently possible.\n・Part of the text extends off-screen.\n・Absolutely do not overlap the character's face, especially the eyes.\n\n[Gold Border of Move Name (Fine Adjustment, Important)]\n・Adjust the gold border to be “slightly thin.”\n・Tighten the border to increase text density.\n・Keep the gold glow subdued, prioritizing contrast with black solid color.\n・Prioritize logo feel and weight, reducing flashiness by one level.\n\n[Rule for Generating Special Move Name]\n・Generate a completely original Japanese move name each time, based on the world view, attribute, and atmosphere of the input illustration.\n・Chuunibyou-style and profound.\n・Include elements such as mythology, judgment, azure ice, crimson lotus, demise, machine, and divinity.\n・Prohibit existing work names, proper nouns, examples, or samples.\n・Do not display “Example,” “Sample,” or “placeholder” at all.\n────────────────────\n\n[Move Power (Variable, Optimized)]\n・The power of the special move displays a different numerical value each time.\n・Damage numerical values are randomly generated within the following range:\n\n  12,000,000 ～ 98,000,000\n\n・Fixed maximum value is prohibited.\n・Prohibit repeating digits, maxed-out values, or exact matches.\n・Prioritize natural, strong-looking, non-uniform numerical values.\n\n[Damage Numerical Font (Weight Enhancement)]\n・The font is thick, angular, and has a low center of gravity.\n・Slightly wider horizontally, not overly compressed vertically.\n・Metallic/rock-like massiveness.\n・Subdued glow, using shadow and three-dimensionality to convey weight.\n・Gives the impression that the “numbers themselves are heavy.”\n\n[Power Display Composition]\n・CRITICAL!! must be displayed.\n・Damage numerical value has the maximum presence in the center of the screen.\n・Visual flow: CRITICAL → Numerical Value → Move Name.\n────────────────────\n\n[OVERKILL Display Rule (Most Important)]\n・Do not display OVERKILL text at all.\n・Do not use it anywhere in the text, UI, or effects.\n────────────────────\n\n[Character Information UI]\n・Rarity (UR / LR)\n・Lv.MAX\n・Small and consolidated at the top of the screen.\n・Does not assert itself more than the character.\n\n[HP/Gauge]\n・HP bar is thinly placed at the bottom.\n・Convey that HP is 0 or less only through the gauge representation.\n・Prohibit emphasis via text.\n\n[Other UI]\n・AUTO / SPEED / MENU are placed minimally at the edge of the screen.\n・Semi-transparent design, not information-overloaded.\n────────────────────\n\n[Direction Policy]\n・Only the center (Move Name + Damage) moves intensely.\n・The character's face, eyes, and expression remain calm.\n・“Art style is static, text and numbers are heavy, effects are minimal but strong.”\n\n[Color Design]\n・Black × Gold × Attribute Color\n・Calm tones around the face.\n・Maximum contrast in the center.\n────────────────────\n\n[Strict Compliance Items]\n・Absolutely do not change the character's art style.\n・Do not overlap text or UI on the eyes.\n・Move name is centered and maximum size.\n・Do not display OVERKILL.\n・Do not fix the damage numerical value.\n・Do not display explanatory text, examples, or supplementary text.",
+    "title": "Social Game Special Move Production Prompt for Nano Banana Pro",
+    "description": "A highly detailed, multi-section prompt designed to generate a screen capture of a social game's special move sequence (cut-in, move name, damage display). It strictly requires maintaining the character's original art style from a reference image while inferring dramatic effects, UI, and a random, chuunibyou-style Japanese move name and damage value.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766988112297_ho7xdx_G9EF-yIbsAAolNZ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "For a 90° overhead view 2D game, draw a village map. The village includes an item shop, weapon shop, church, and inn. Imagine a pixel art style.",
+    "title": "2D Pixel Art Village Map Prompt (ChatGPT)",
+    "description": "A prompt used with ChatGPT's image generation feature (not Nano Banana Pro) to create a 2D pixel art map of a village, specifying key locations like a general store, weapon shop, church, and inn, viewed from a 90-degree overhead perspective.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766940203228_nx1e0d_G8_6YXKb0AIlUPY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A triumphant Byzantine mosaic of the subject, rendered entirely in shimmering {argument name=\"mosaic color\" default=\"gold\"} and glass tesserae, depicted against a deep {argument name=\"background color\" default=\"cerulean\"} background, holding the barbell plate as a stylized heroic shield.",
+    "title": "Byzantine Mosaic Style Portrait Prompt",
+    "description": "An image generation prompt for creating a triumphant Byzantine mosaic of a subject, rendered in shimmering gold and glass tesserae against a deep cerulean background, depicting the subject holding a barbell plate as a stylized heroic shield.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936132308_uagapq_G8cyp-yWYAADXl2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "<instruction>\nInput A is the subject photo. Preserve exact pose and scene geometry.\n\nGoal: Transform Input A into a '{argument name=\"style name\" default=\"Obsidian Kintsugi Automaton\"}' state.\nRules:\n - Spatial Fidelity: Preserve every character's exact silhouette using 'Obsidian Kintsugi Automaton' Reconstruction engine\n - Materiality: All surfaces are reconstructed as Polished Obsidian and Aged Ivory with Clockwork Automaton and Kintsugi Ceramic architecture.\n - Technical Spec: Advanced Houdini/Blender simulation logic. Internal gears turn within the obsidian, and golden light pulses through the Kintsugi cracks.\n - Lighting: Dramatic, high-contrast lighting highlighting the reflective obsidian and glowing gold.\n - Rendering: Photorealistic, 4K, macro-detail focus.\n\nOutput: ONE image, high-fidelity transformation.\n</instruction>",
+    "title": "Obsidian Kintsugi Automaton Style Transfer Prompt",
+    "description": "A complex style transfer prompt for Nano Banana Pro, instructing the AI to transform an input photo (Input A) into an 'Obsidian Kintsugi Automaton' state. The transformation requires preserving the exact pose and geometry while reconstructing all surfaces using polished obsidian, aged ivory, clockwork mechanisms, and glowing gold Kintsugi cracks, rendered with dramatic, high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766935950052_i2epyo_G80kPLAXQAAGGtW.jpg",
+      "https://cms-assets.youmind.com/media/1766935949688_7mz1zp_G80jZ9mXUAA21iT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "* Color\n* Flat anime coloring\n* 1 shadow level\n* Highlight painting on clearly lit areas\n\n--\n\n* Color\n* Flat anime coloring\n* 1 shadow level\n* Significantly highlight the area clearly lit by the light {argument name=\"Light Direction\" default=\"from the left\"}",
+    "title": "Anime Coloring Study: Flat Anime Style with Directional Light",
+    "description": "A prompt focusing on achieving a specific flat anime coloring style with directional lighting control. It compares a standard flat style (color, flat shading, one shadow level, general highlight) with a version that explicitly defines the light source direction ('light from the left') to achieve a larger, more defined highlight area.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766936039561_2vn2mn_G86ESo4asAAYsS7.jpg",
+      "https://cms-assets.youmind.com/media/1766936063667_5w7tli_G86ETWNaYAA5Ss7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"A highly detailed digital painting of the Joker in a menacing close-up portrait. He has pale white skin with classic clown makeup: black diamond shapes around his intense yellow-green eyes, a red nose, and an exaggerated wide red smile revealing teeth. His hair is wild, curly, and green-tinted. He wears a large {argument name=\"hat color\" default=\"purple\"} cowboy hat with a wide brim and a green hat band. His outfit consists of a purple suit jacket with a Joker playing card pinned to the lapel, a colorful patterned shirt, and a loose green cravat tie. The background is an abstract, textured blend of warm and cool colors including purples, yellows, oranges, and teals with visible brush strokes and subtle star shapes. Dramatic lighting emphasizes his sinister grin and facial details. Oil painting style with rich textures, vibrant colors, high contrast, and a dark, chaotic atmosphere.\"\n}",
+    "title": "Digital Painting of Joker in Cowboy Hat",
+    "description": "A JSON prompt for generating a highly detailed digital painting of the Joker. The prompt specifies his classic clown makeup, wild green hair, and unique attire: a large purple cowboy hat and a purple suit jacket. The style is oil painting with rich textures, vibrant colors, dramatic lighting, and a dark, chaotic abstract background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766935990264_nwf1ar_G85nzR4asAANVrM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Luxury high-tech cyberpunk Spider-Man in a sleek matte black suit with gold neon accents and carbon fiber texture. Leaning against a chrome sports hoverbike on a rooftop helipad, city skyline glittering below. Mask lenses displaying golden holographic interfaces, confident pose, elegant and expensive aesthetic, sharp details, teal and gold color scheme.\"\n}",
+    "title": "Cyberpunk Spider-Man in Matte Black and Gold",
+    "description": "A descriptive prompt for generating an image of a luxury, high-tech cyberpunk version of Spider-Man. The suit is matte black with gold neon accents and carbon fiber texture. He is leaning against a chrome sports hoverbike on a rooftop helipad overlooking a glittering city skyline.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673212607_8138jq_G81YSbLagAMCriN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Change the character in the reference image to a deformed character illustration. Have the character take various poses within a single image. The background is white.",
+    "title": "Nanobanana Pro Deformed Character Generation",
+    "description": "A prompt for Nanobanana Pro designed to convert an existing character image (preferably a reference sheet) into a deformed, chibi-style illustration typical of the 'Nanobanana style.' The resulting image features the character in various poses on a plain white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766673365856_25q860_G80Y_cbagAITkyO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"prompt\": \"photorealistic close-up portrait of a person wearing a highly detailed Spider-Man cosplay suit from The Amazing Spider-Man films (Andrew Garfield version), full-head red morphsuit with black raised webbing pattern and subtle hexagonal texture on the red fabric, large oval black-framed lenses with raised edges, silver perforated mesh covering the eyes, reflective white highlights on lenses, silver-and-black spider emblem centered on chest, blue fabric sections visible on lower arms, high collar covering neck, no skin visible, dramatic heroic pose with head tilted upward gazing into the distance, blurred gray stone wall background, natural daylight lighting, sharp focus, intricate fabric details, realistic textures, high resolution, cinematic photography style\",\n  \"negative_prompt\": \"cartoon, animated, drawing, illustration, low quality, blurry, deformed, ugly, bad anatomy, extra limbs, visible face, visible skin, open mouth, teeth, eyes visible through mask, watermark, text, logo, overexposed, underexposed, artifacts\"\n}",
+    "title": "Photorealistic Close-Up of Spider-Man Cosplay",
+    "description": "A detailed prompt with positive and negative instructions for generating a photorealistic close-up portrait of a person wearing a highly specific Spider-Man cosplay suit (Andrew Garfield version). It focuses on intricate fabric textures, reflective lenses, and cinematic photography style against a blurred stone wall background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766667347828_j6ht74_G8yfv7hagAQokr2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a highly detailed 3D “breaking the fourth wall” art piece featuring a giant, sleek smartphone standing horizontality.\nThe phone must display the Ingenious 3D Pororo miniature pororo winter village.hand-drawn orange, salmon, yellow, cream, red, and burgundy Pororo animation, 2 houses and 3 Hanok-style houses on a small hill, three-dimensional snow roofs and shining windows, the main characters in the animation are posing and playing and skating on the ice in a corner, all the contents listed are applied to the phone. Brown, tan, cream-colored thin trees, white snow floor, colorful glittering confetti, contrast between warm interior lighting and cold atmosphere background, boquet effect of falling snowflakes, water droplets in glass, metal lock, painting impressionist style, central composition, magically cozy and nostalgic Christmas atmosphere, dreamy feeling of soft focus.\nGreen ghost character — a glowing, soft, jelly-like green ghost with a small crown — has stepped out of the phone screen and standing on the ground and , leaning naturally and comfortably against the phone bezel, with rsmiling at the phone screen.\nbioluminescent forest ambience, green luminous particles, soft fog, glowing light orbs, dreamy atmosphere.\nUse cinematic lighting, photorealistic materials, 8K render detail, crisp subsurface scattering on the ghost character, and realistic reflections on the smartphone.\nThe composition should feel magical, grounded, and premium.\nsignature '{argument name=\"signature\" default=\"Willy\"}' is in the bottom-right corner.—ar 4:3\n#AIart #prompt #cute #Christmas #pororo #beauty",
+    "title": "3D Pororo Winter Village Breaking the Fourth Wall",
+    "description": "A detailed prompt for creating a highly realistic 3D art piece featuring a giant smartphone displaying a miniature Pororo winter village. The scene includes a glowing, jelly-like green ghost character stepping out of the screen and leaning against the bezel, combining warm interior lighting with a cold, bioluminescent forest background for a magical, nostalgic atmosphere.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766667295175_ir3kvm_G8wqxjAakAA5Jd0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Do this for {argument name=\"utensil\" default=\"meat cleaver\"}: \nTask: Pick a utensil that is uploaded or given, Transform it into a colossal, fully operational interstellar warship for an evil galactic empire.\n\nStep 1: user uploads image of a kitchen tool or utensil\n\nStep 2: Analyze the object’s geometry, holes, curves, and functional part and design ship parts based on that \n\nStep 3: Scale up 10,000x into a moon-sized dreadnought.\n\nOutput: 2x2 Contact Sheet Grid (ultra-cinematic, tactile realism, 70mm film aesthetic).\n\nGrid 1: A master technical orthographic blueprint. Fine white and glowing cyan vector lines on a deep obsidian background. Detailed notations in a minimalist Swiss-style font labeling the Piston-Drive Reactor, the Hive-Class Hangar Array, and the Command Monolith. Precise CAD-level complexity.\n\nGrid 2: A 3D volumetric cross-section of the ship. Visible amber fiber-optic networks running through the hull. A massive spherical singularity core pulses at the original hinge location. Tens of thousands of tiny internal deck-lines and micro-machinery suggest a city-scale population.\n\nGrid 3: A massive exterior shot of this utensil inspired ship in deep space. The ship is a brutalist, monolithic slab of dark metal, lit by the harsh, cold white light of a distant star. Deep chiaroscuro shadows. The ship’s surface looks like a practical miniature with heavy texture density, oil stains, and battle scars. Tiny, needle-like escort ships provide a sense of overwhelming scale. Ion-drive exhaust is a subtle, high-intensity white-blue glow.\n\nGrid 4: An ultra-high-end interior shot of the bridge. Focus on three elite Imperial Enforcers standing in a minimalist gallery. Looking into the camera, their armor and weapons they are holding are heavily inspired by the utensil\n\nStyle: Tactical realism, shot on 65mm film, Denis Villeneuve brutalism, industrial design by Jony Ive, heavy on physical texture and high-contrast lighting, no digital sheen.",
+    "title": "Kitchen Utensil to Interstellar Warship Transformation",
+    "description": "A complex, multi-step prompt for transforming a common kitchen utensil (e.g., a meat cleaver) into a colossal, brutalist interstellar warship for an evil galactic empire. The output is a 2x2 contact sheet grid featuring a technical blueprint, a 3D cross-section, an exterior deep space shot, and an interior bridge shot, all rendered with tactical realism and a Denis Villeneuve/Jony Ive aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766667301566_s1ve6l_G8lJWL0XQAAU1H5.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Transform this cartoon to a Funko Pop vinyl figure. Place the Funko Pop box beside the vinyl figure (side by side) with the name '{argument name=\"figure name\" default=\"Rainbow Cheese\"}' on box. Place vinyl figure and box on a pink surface and pink background with studio lighting.",
+    "title": "Cartoon to Funko Pop Transformation Prompt",
+    "description": "A two-part prompt demonstrating the difference between Midjourney and Nano Banana Pro. The Nano Banana Pro prompt focuses on transforming a cartoon concept into a Funko Pop vinyl figure, complete with packaging and specific staging details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766489482183_crrrp6_G8sOnDqXAAAJ4U6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"reference_image\": \"UPLOAD_USER_IMAGE_HERE\",\n  \"subject\": {\n    \"gender\": \"{argument name=\"gender\" default=\"male\"}\",\n    \"visibility\": \"full_body\"\n  },\n  \"style\": {\n    \"art\": \"minimal_black_ink_full_body_illustration\",\n    \"medium\": \"black_pen_on_notebook\",\n    \"linework\": \"bold_heavy_strokes\",\n    \"mood\": \"moody_artistic\"\n  },\n  \"background\": {\n    \"surface\": \"plain_notebook_paper\"\n  },\n  \"render_settings\": {\n    \"resolution\": \"4K\"\n  }\n}",
+    "title": "Minimal Black Ink Illustration Blueprint Prompt",
+    "description": "A JSON prompt designed to convert an uploaded image into a minimal black ink, full-body illustration style. The output should resemble a moody, artistic drawing created with bold, heavy strokes on plain notebook paper, rendered in 4K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766489450338_pst4b6_G8sHRFcbEAAoq7-.jpg",
+      "https://cms-assets.youmind.com/media/1766489450609_28ec6l_G8sHRHmasAAZaSl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Transform this photo into a highly detailed 3D collectible action figure in realistic style, 1/6 scale, posed dynamically on a transparent acrylic round base. Same exact face, outfit, hair, and expression preserved perfectly. Plastic toy texture with subtle gloss and paint details. Include custom packaging box next to it on a shelf background—blister pack with clear window, bold graphics, logo, and original artwork featuring the figure. High-end collectible vibe like Hot Toys or Bandai Tamashii Nations, ultra-realistic lighting, sharp focus, 8K resolution, photorealistic. Add festive theme like Centa Claus edition to add December vibes.",
+    "title": "Photo to Collectible Action Figure Transformation",
+    "description": "A prompt for transforming an uploaded photo into a highly detailed 3D collectible action figure (1/6 scale), complete with plastic texture, dynamic pose, transparent base, custom blister packaging, and a festive 'Centa Claus' theme.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766489494142_aonyge_G8rzFZdaQAAtMob.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Turn the subject into a 3D caricature. The style should be highly detailed, glossy, and resemble a collectible vinyl toy figure. The background should be a simple, vibrant color.",
+    "title": "3D Caricature Style Transfer Prompt",
+    "description": "A prompt found in the image ALT text (as indicated by the tweet) for transforming a subject into a 3D caricature style. This is an image-to-image prompt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237965530_y8wihb_G8eaEahWkAAxAEG.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"metadata\": {\n    \"camera_simulation\": {\n      \"brand_model\": \"ARRI ALEXA LF\",\n      \"type\": \"professional\",\n      \"sensor_type\": \"large-format digital\",\n      \"focal_length_mm\": 35,\n      \"lens_type\": \"anamorphic prime\",\n      \"aperture_f\": 4.0,\n      \"shutter_speed\": \"1/500\",\n      \"ISO\": 800,\n      \"distance_estimate\": \"extreme close-up on creature / wide for environment\"\n    },\n    \"lighting_summary\": {\n      \"direction\": \"diffused top-down through heavy overcast/fog\",\n      \"color_temperature_k\": 6500,\n      \"light_quality\": \"ambient\",\n      \"number_of_light_sources\": 1,\n      \"key_fill_back_ratio\": \"1:1\"\n    },\n    \"composition\": {\n      \"aspect_ratio\": \"4:5\",\n      \"crop_type\": \"low-angle ground-level shot\",\n      \"camera_height\": \"sea-level\",\n      \"framing_notes\": \"subject (Godzilla) towers over a small fishing vessel in the foreground\",\n      \"background_description\": \"thick, volumetric fog and mist obscuring the distant horizon\",\n      \"background_distance\": \"infinite/obscured\",\n      \"pose_description\": \"Godzilla leaning forward, mouth agape in a roar; boat rocking on waves\",\n      \"expression\": \"menacing, prehistoric rage\"\n    },\n    \"subject_description\": {\n      \"age_estimate\": \"ancient\",\n      \"uncertain_age\": false,\n      \"ethnicity_photographic_terms\": \"n/a (kaiju/reptilian scales)\",\n      \"body_proportions\": \"colossal, massive neck and dorsal fins\",\n      \"visible_cleavage\": false,\n      \"clothing\": \"none\",\n      \"unique_marks\": \"jagged obsidian-like dorsal plates, wet reptilian skin texture\"\n    },\n    \"defects\": [\n      {\n        \"name\": \"volumetric haze/mist\",\n        \"severity\": \"high\",\n        \"action\": \"replicate\",\n        \"notes\": \"ensure the mist realistically occludes the monster's scale to convey size\"\n      },\n      {\n        \"name\": \"motion blur on splashing water\",\n        \"severity\": \"medium\",\n        \"action\": \"replicate\",\n        \"notes\": \"reproduce realistic shutter-speed motion on the cresting waves\"\n      }\n    ],\n    \"resolution_and_texture\": {\n      \"source_resolution\": \"approx 800x1000\",\n      \"perceived_sharpness\": \"high in foreground, soft in background mist\",\n      \"grain_level\": \"fine\",\n      \"target_resolution\": \"4096x5120\"\n    },\n    \"model_hints\": {\n      \"recommended_model\": \"Gemini Nano Banana Pro\",\n      \"size_hint\": \"highest-fidelity texture rendering\",\n      \"inference_tips\": \"prioritize volumetric depth and liquid physics\",\n      \"token_practical_limit\": 1500\n    }\n  },\n  \"prompt_text\": \"Photorealistic cinematic photograph; camera: ARRI ALEXA LF (professional), sensor: large-format digital, lens: 35mm anamorphic prime, aperture f/4.0, shutter 1/500, ISO 800; focal plane: foreground boat sharp, creature features detailed through mist; aspect ratio: 4:5; framing: low-angle sea-level perspective looking up at a colossal Godzilla; lighting: diffused ambient daylight filtered through heavy teal-gray\"",
+    "title": "Cinematic Photorealistic Godzilla Encounter Prompt",
+    "description": "A highly detailed, structured JSON prompt designed to generate a photorealistic, cinematic photograph of a colossal Godzilla towering over a small fishing vessel, specifying camera simulation (ARRI ALEXA LF), lighting, composition (4:5 aspect ratio, low-angle), and texture details like volumetric haze and motion blur.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237880625_85i86s_G8cyWjmaoAEYoT-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please depict the robot in the image more realistically. The robot's height is {argument name=\"robot height\" default=\"18m\"}. Since 18m is said to be about the height of a 6-story building or apartment, please use that as a guide to depict the robot's height. The background should be {argument name=\"background location\" default=\"somewhere resembling an intersection in Shinjuku, Tokyo\"}, low angle, realistic photo style, and output with an aspect ratio of 1:1.",
+    "title": "Gundam Model Detail Enhancement and Background Addition",
+    "description": "A prompt used to enhance the realism and detail of a robot image (Gundam model) and place it in a realistic urban background (Shinjuku, Tokyo intersection), specifying the robot's height (18m) and camera angle (low angle).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237939677_jeaabc_G8cBEIMbQAARW98.jpg",
+      "https://cms-assets.youmind.com/media/1766237940002_zgmbxf_G8cBE0XbQAAnMET.jpg",
+      "https://cms-assets.youmind.com/media/1766237942549_wmvdsc_G8cBFfeaIAAHq_C.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-cinematic fantasy close-up of a legendary ancient sword.\nGlowing arcane runes carved deep into dark forged steel, molten crimson and gold light leaking from the engravings.\nEmber sparks, subtle smoke, heat distortion, dramatic side lighting, dark background.\nHyper-detailed, high-contrast, cinematic fantasy realism, 16K.",
+    "title": "Ultra-Cinematic Arcane Sword Close-up",
+    "description": "A prompt for generating an ultra-cinematic fantasy close-up of a legendary ancient sword. It emphasizes glowing arcane runes, molten crimson and gold light leaking from engravings, and dramatic effects like ember sparks and heat distortion against a dark background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766237868955_hitpd6_G8bim48akAAuPuC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Original image\n↓\nSuper transformation prompt\n↓\nCharging pose prompt\n↓\nSuper Robot Wars battle sequence prompt\nParticipation screen prompt",
+    "title": "Kamehameha Style Transformation Prompts",
+    "description": "A set of sequential prompts for Nano Banana Pro designed to transform a single base image into various dynamic scenes, including a Kamehameha-style attack, a powered-up form, a charging pose, a Super Robot Wars battle sequence, and a participation screen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766042175378_mbov0l_G8V9fmWa4AQeCFs.jpg",
+      "https://cms-assets.youmind.com/media/1766042175643_jz99a1_G8V9i3ua4AI59S2.jpg",
+      "https://cms-assets.youmind.com/media/1766042177842_ko6e1l_G8V9hT2a4AYIemF.jpg",
+      "https://cms-assets.youmind.com/media/1766042179121_fz76t2_G8V9jeLa8AADZvr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "(VARIABLE SCENE - EDIT HERE):\nNighttime, expansive {argument name=\"cityscape\" default=\"Neo-Tokyo\"} highway. Futuristic cityscape background with neon lights.\nStrong one-point perspective: The road stretches straight from the bottom edge to the vanishing point in the center.\n\n(CRITICAL COMPOSITION):\nOne-point perspective composition with the subject in the CENTER.\nSubject Orientation: The motorcycle is shown in SIDE PROFILE (facing Screen Left).\nTILT ANGLE: The motorcycle body is LEANING HEAVILY TOWARDS THE CAMERA (The top of the bike is closer to the viewer than the wheels).\nMovement direction: The bike is sliding away from the camera, moving from the foreground deep into the background.\nPlacement: Bike is perfectly centered in the frame.\n\n(SUBJECT):\nA futuristic motorcycle and rider.\nMotorcycle:\n- Heavy, solid, rounded silhouette\n- Minimal exposed mechanics, smooth cowling\n- Wide, thick, high-grip tires\n- Color scheme harmonized with rider\nRider:\n- Face and outfit preserved from reference image\n- Stare straight into the camera, glaring with a powerful, piercing gaze.\n- Left foot planted firmly on the ground, struggling to support the heavy leaning bike\n- Rider's leg is fully extended to brace against the fall\n\n(ACTION & MECHANICS):\nHigh-speed linear slide braking (NOT cornering).\nThe bike is sliding sideways while traveling backwards into the depth of the scene.\nInstability: The bike is on the verge of falling over towards the screen.\nWheels are locked (not rotating).\n\n(VISUAL EFFECTS - SMOKE TRAILS):\nThree distinct, straight trails of thick white smoke.\nDirection: Smoke stretches from the IMMEDIATE FOREGROUND (bottom of screen) directly to the motorcycle's wheels and rider's foot in the center.\nThe smoke trails act as leading lines pointing to the subject.\nViolent debris and asphalt fragments kicking up.\n\n(ENERGY EFFECTS):\nNeon-green lightning energy arcs (1980s anime style) embedded within the white smoke trails.\nGreen energy flows through the smoke, following the straight lines from foreground to the bike.\n\n(ART STYLE):\nCel-shaded animation, 1980s anime aesthetic (Cyberpunk).\nHigh contrast, bold black shadows, dramatic lighting.\nPoster-quality, ultra-high resolution, sharp focus.",
+    "title": "AKIRA 'Slide Brake Scene' Recreation Prompt",
+    "description": "A highly specific, multi-section prompt for Nano Banana Pro designed to recreate the iconic 'slide brake scene' from the anime AKIRA, without using the word 'AKIRA'. It details composition, subject, action, visual effects (smoke trails, neon-green energy arcs), and art style (1980s cyberpunk anime aesthetic).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1766042133257_8xxu2g_G8XCFwTa4AAeQjX.jpg",
+      "https://cms-assets.youmind.com/media/1766042133923_4bgtwn_G8XCFsya4AMdrZS.jpg",
+      "https://cms-assets.youmind.com/media/1766042136348_wnfdb8_G8XCFsybQAA148Q.jpg",
+      "https://cms-assets.youmind.com/media/1766042133665_q6p1rz_G8XCFs1a4AIHc9R.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Make Ukyo-chan and a glasses-wearing Kunoichi fight in the image of the Samurai Shodown game screen",
+    "title": "Image Synthesis/Composition Prompt",
+    "description": "A prompt used to composite two characters (Ukyo and a ninja girl) into a game screen image from Samurai Shodown (Samurai Spirits). This demonstrates Nano Banana Pro's image synthesis capabilities.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991365865_a9rrun_G8G25Wla4AADFZH.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "“With Fortnite Fusion Engine, you can merge low-poly survival style, cel-shaded anime skins, and hyper-real battle characters instantly. Here, a low-poly soldier, an anime ninja, and a realistic mercenary all team up on one floating island.”",
+    "title": "Fortnite Fusion Engine Prompt for Gamers",
+    "description": "A specialized prompt for Nano Banana Pro, utilizing a fictional 'Fortnite Fusion Engine' concept to merge disparate gaming aesthetics—low-poly survival, cel-shaded anime, and hyper-real battle characters—into a single scene on a floating island.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990999269_6crfga_G7_rqUIagAACkKF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A {argument name=\"subject\" default=\"subject\"} is {argument name=\"doing something\" default=\"doing something\"} in a {argument name=\"place\" default=\"place\"}. Isometric 3D cube diorama with internal lighting, cute chibi figurine style, matte PVC material, big head/small body. Neutral background on a table in a dark room. Enclosed in a cube. Fill the diorama with many cute little details. Add delicate imperfections like dust, scratches and textures to make it real.",
+    "title": "Cute Chibi Diorama Lamp Generator",
+    "description": "A template prompt for creating cute, isometric 3D cube dioramas with internal lighting. It uses a chibi figurine style with matte PVC material, focusing on filling the scene with small, cute details and adding imperfections for realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990964356_6xw37m_G7-RvrwWwAUwWce.jpg",
+      "https://cms-assets.youmind.com/media/1765990964524_vkti4g_G7-S31RWcAU3p3x.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "With God of War’s Realm Composer, blending Norse realism, anime battle FX, and stylized shadow-art silhouettes becomes simple. In this shot, {argument name=\"character\" default=\"Kratos\"} appears in all three styles at once.",
+    "title": "Kratos in Three Blended Styles",
+    "description": "A prompt for blending multiple distinct artistic styles—Norse realism, anime battle effects, and stylized shadow-art silhouettes—to depict the character Kratos from God of War, with the instruction that he should appear in all three styles simultaneously within the shot.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991018217_pc5ljb_G79fNNbbEAA7L5V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "unwrap the UVs of the 3D model shown in the image.\nAbout one-third of the image should be a reference view displaying the 3D model itself.The remaining area should include the UV layout for the head, body, and limbs.Unwrap the surface of the 3D model and flatten it into a single 0–1 two-dimensional UV space.",
+    "title": "Prompt for UV Unwrapping a 3D Model",
+    "description": "A prompt for Nano Banana Pro used for 3D asset processing, specifically instructing the model to unwrap the UVs of a provided 3D model. It specifies the desired output layout, requiring the UV layout for the head, body, and limbs to be flattened into a single 0–1 two-dimensional UV space, alongside a reference view of the 3D model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765991025824_zzf7ll_G78RYRjbUAAotCE.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "It's okay to insert the name of your favorite character's Devil Fruit into the first <<DEVIL FRUIT NAME>> in the prompt from the source.\nExample: <<{argument name=\"Devil Fruit Name\" default=\"Mera Mera no Mi\"}>>",
+    "title": "One Piece Devil Fruit Image Generation Prompt Template",
+    "description": "A template prompt for Nano Banana Pro/2 that allows users to generate images of themselves having eaten a specific Devil Fruit from One Piece, such as the Mera Mera no Mi (Flame-Flame Fruit). Users simply replace the placeholder with the name of the desired Devil Fruit.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765967778904_965yp2_G760aEJagAAZtBq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"version\": \"1.0\",\n  \"description\": \"Transform a real person in a photo into a One Piece-style Devil Fruit ability user: dynamic pose, dramatic camera angle, ability-specific SFX, and a photorealistic manifestation of the specified Devil Fruit’s power.\",\n  \"variables\": {\n    \"DEVIL_FRUIT_NAME\": {\n      \"type\": \"string\",\n      \"value\": \"<<DEVIL FRUIT NAME>>\",\n      \"description\": \"The canonical Devil Fruit name whose ability should be interpreted and applied to the subject (e.g., Gum-Gum Fruit, Flame-Flame Fruit, Ice-Ice Fruit, Sand-Sand Fruit, Rumble-Rumble Fruit, Flower-Flower Fruit, Dark-Dark Fruit, Paw-Paw Fruit, etc.).\"\n    }\n  },\n  \"steps\": [\n    {\n      \"name\": \"DEVIL_FRUIT_ABILITY_EDIT\",\n      \"goal\": \"Apply a dynamic One Piece-style pose, dramatic camera angle, ability-specific manga SFX, and a photorealistic manifestation of the specified Devil Fruit’s ability.\",\n      \"instructions\": \"Use the uploaded photo as the base.\\n\\nKeep the person photorealistic (eyes, face, skin texture, hair, makeup). Do NOT convert the scene into manga. Do NOT replace the background.\\n\\n=====================================\\nDEVIL FRUIT ABILITY TRANSFORMATION\\n=====================================\\nInsert your Devil Fruit name here: {argument name=\"Devil Fruit Name\" default=\"[DEVIL_FRUIT_NAME]\"}\\n\\nInterpret the canon ability of [DEVIL_FRUIT_NAME] realistically and apply it to the body or surrounding environment. The effect must look like a live-action One Piece movie.\\n\\nExamples:\\n- Gum-Gum Fruit: stretched limbs, elastic skin, tension folds, rubber reflection\\n- Flame-Flame Fruit: realistic flames, heat distortion, warm illumination\\n- Ice-Ice Fruit: frost buildup, ice crystals, cold vapor\\n- Rumble-Rumble Fruit: lightning arcs, photoreal sparks\\n- Sand-Sand Fruit: sand disintegration, sandstorm motion\\n- Flower-Flower Fruit: photoreal arms blooming from surfaces\\n- Paw-Paw Fruit: shockwave compression ripples\\n- Dark-Dark Fruit: gravitational distortion, dark smoke tendrils\\n\\nRules:\\n- The face must remain recognizable.\\n- Effects must integrate into real lighting and shadows.\\n- No cartoon filters — supernatural physics must look real.\\n\\n=====================================\\nONE PIECE-STYLE POSE TRANSFORMATION\\n=====================================\\nRepose the body into a dramatic battle pose:\\n- wide stance, strong dynamic gestures\\n- stretched arm for Gum-Gum, open palm for shockwave, ignition stance for flame, elemental charge-up for logias, etc.\\n- clothing should deform.\"",
+    "title": "One Piece Devil Fruit Transformation Template",
+    "description": "A complex, structured prompt template designed for Nano Banana Pro to transform a photo of a real person into a photorealistic One Piece Devil Fruit ability user. The prompt requires the user to input a Devil Fruit name and details how the AI should interpret and apply the ability (e.g., flames, ice, stretched limbs) in a dynamic, live-action style while strictly preserving the subject's face and background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765967743852_zgvjw7_G73CEAja8AA6zsg.jpg",
+      "https://cms-assets.youmind.com/media/1765967744196_t3swpz_G73CD_iaMAMXIVp.jpg",
+      "https://cms-assets.youmind.com/media/1765967744576_avo7m9_G73CEBXaMAQJjup.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "With Pokémon StyleFusion, it's easy to mix retro GameBoy pixel art, 3D Pokémon models, and watercolor landscapes. In this shot, pixel-{argument name=\"first pokemon\" default=\"Charmander\"}, 3D-{argument name=\"second pokemon\" default=\"Bulbasaur\"}, and a watercolor {argument name=\"third pokemon\" default=\"Pikachu\"} appear in one frame.",
+    "title": "Pokémon Style Fusion Promo",
+    "description": "A prompt for generating a style-fused Pokémon image combining retro GameBoy pixel art, 3D models, and watercolor landscapes in a single frame.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509721110_h9nlkc_G70HJ1ea8AAcnQI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A collectible art toy character design sheet, front, side, and back views, fluffy , cute, round face with [{argument name=\"head accessory\" default=\"a yellow safety helmet\"} on his head, {argument name=\"eye accessory\" default=\"blue round glasses\"}], super cute 3D style, soft and tactile like plushie figure, pastel color scheme ({argument name=\"color scheme\" default=\"black, cream, light yellow\"}), clean solid beige background, soft studio lighting, high detail",
+    "title": "Collectible Art Toy Character Design Sheet",
+    "description": "A prompt for generating a design sheet for a collectible art toy character. It specifies the character's appearance (fluffy, cute, round face, yellow safety helmet, blue glasses), the required views (front, side, back), the style (super cute 3D, plushie figure), and technical details (pastel color scheme, clean beige background, soft studio lighting).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509718259_3rqszj_G7z-ozJa8AAb_q5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An isometric 3D cube-shaped miniature room (perfect shallow cutaway cube, everything 100% strictly contained inside the cube boundary, no protrusion).  \n\nRoom description: Tony Stark's underground workshop during the Iron Man Mark 42 suit autonomous assembly process. Dimly lit high-tech garage lab: brushed steel and matte black walls covered with holographic blueprints, arc reactor glow, scattered tools (DUM-E robotic arm holding a coffee mug, U robotic arm spraying fire extinguisher), multiple half-assembled red-gold Iron Man suits hanging on robotic arms, a central rotating platform where the Mark 42 suit pieces are flying and auto-assembling onto a dummy Tony, sparks flying, welding arms active, floor littered with micro thrusters, faceplates, repulsor parts, empty whiskey glasses, and a glowing circular arc reactor prototype on the workbench. Wall has a large \"Stark Industries\" logo and Jarvis interface screens showing suit diagnostics.\n\nCharacter: chibi/figurine-style Tony Stark in black tank top, perfectly groomed goatee, matte PVC material, big head small body proportion, standing on the workbench with arms outstretched, confidently directing the autonomous suit pieces to assemble around the dummy, cocky satisfied smirk, one eyebrow raised, wearing welding goggles pushed up on forehead.\n\nLighting: dramatic cinematic workshop atmosphere (cold blue holographic glow from screens + intense white welding sparks + signature arc reactor ice-blue light + warm orange workshop lamps), realistic metallic reflections, colored caustics and god rays cutting through light smoke.\n\nCamera: slightly elevated isometric three-quarter view, front edge of the cube perfectly centered and framed, shallow depth of field, foreground sharp, background softly blurred, photorealistic materials, ultra-high detail on every screw and reflection, clean museum-like composition, neutral dark backdrop, no text, no watermark, no elements outside the cube.\n\n8K, masterpiece, best quality, Gemini 3 Pro Nano Banana Pro style",
+    "title": "Isometric 3D Tony Stark Workshop Cube",
+    "description": "A complex, highly detailed prompt for generating an isometric 3D cutaway cube miniature room depicting Tony Stark's underground workshop during the autonomous assembly of the Iron Man Mark 42 suit, emphasizing chibi/figurine style, dramatic lighting, and photorealistic materials.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509731117_3aq9pm_G7zG75paUAAWMCt.jpg",
+      "https://cms-assets.youmind.com/media/1765509730882_g83niu_G7zGt_2aMAAnkvr.jpg",
+      "https://cms-assets.youmind.com/media/1765509731681_c9ccz0_G7zG75qaYAAR75W.jpg",
+      "https://cms-assets.youmind.com/media/1765509732691_x5u3le_G7zG75naMAMyhMV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A Persona-style status screen using nano banana pro. I instructed it to randomly generate the level and stats, but they tend to be high.",
+    "title": "Persona-Style Status Screen Generation",
+    "description": "A prompt used to generate a status screen in the style of the Persona video game series, instructing the AI to randomly generate high values for the level and stats.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509789832_tol646_G7yeg6AakAASOvR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Scene:\n  type: \"battle scene\"\n  camera_angle: \"dramatic dutch angle, tilted composition\"\n  lens: \n    type: \"super wide-angle lens\"\n    effects:\n      - \"extreme perspective\"\n      - \"strong spatial compression between foreground, midground, background\"\n\nCharacter:\n  identity:\n    ethnicity: \"Japanese\"\n    gender: \"{argument name=\"gender\" default=\"girl\"}\"\n    hair: \"{argument name=\"hairstyle\" default=\"Brown medium length hair with cat ears\"}\"\n  outfit:\n    style: \"windy, dressy, Idol costumes that resemble high school girl uniforms\"\n  pose:\n    description: \"bold, dynamic action pose\"\n    body_orientation: \"leaning with momentum implied by the tilt\"\n\nHands_and_Gesture:\n  right_hand:\n    gesture: \"holding a Japanese sword\"\n    position: \"held in front of her face, higher than her left hand, blade down and pointing towards you\"\n    gaze_alignment: \"her eyes follow the pointing direction\"\n\n  left_hand:\n    gesture: \"open hand\"\n    fingers: \"all five fingers widely spread\"\n    position: \"The palms are facing forward as if aiming.\"\n    palm_direction: \"facing upward as if supporting it\"\n    perspective_role: \"dominates the extreme foreground\"\n\n  perspective:\n    dominance: \"left hand is massively enlarged by wide-angle distortion\"\n    clarity: \"both hands and face in sharp detail\"\n    depth_of_field: \"full DOF, no background blur\"\n\nLighting:\n  type: \"soft indoor lighting\"\n  mood: \"gentle highlights, controlled shadows\"\n  background: \"neutral, blurred environment\"\n\nCinematic_Effects:\n  atmosphere: \"action tension + stylized anime dynamism\"\n  motion_sense: \"perspective and Dutch angle add momentum\"\n\nOutput:\n  aspect_ratio: \"16:9\"\n  style: \"high-quality anime illustration\"\n  rendering: \"clean lines, sharp details, accurate anatomy\"",
+    "title": "Dynamic Wide-Angle Action Pose Prompt (Gatotsu Style)",
+    "description": "A highly detailed, structured prompt for generating a dynamic, anime-style illustration of a character in a specific action pose, emphasizing extreme perspective distortion (super wide-angle lens) and dramatic camera angles (Dutch angle). The prompt meticulously defines the scene, character appearance, outfit, pose, and the exaggerated perspective of the hands, aiming for a high-impact visual effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509799985_24oycx_G7x8vq1a4AAmpVb.jpg",
+      "https://cms-assets.youmind.com/media/1765509799952_14t7q8_G7x8vqzaYAEW5tV.jpg",
+      "https://cms-assets.youmind.com/media/1765509800415_vy2daq_G7x8vqraEAAUDAJ.jpg",
+      "https://cms-assets.youmind.com/media/1765509802320_p7805f_G7x8vq4boAABI9G.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"preset_name\": \"Ultimate_Weapon_Mastery\",\n  \"mission\": \"MAXIMIZE_LETHALITY_AND_AESTHETICS\",\n\n  \"source_integrity\": {\n    \"_hint\": \"[PREMISE] Maintain the character's identity, but actively allow for dramatic changes like 'sharp gaze' or 'wind-blown hair' typical of combat situations.\",\n    \"identity_lock\": \"strict_facial_features\",\n    \"combat_mode_adaptations\": {\n      \"expression\": \"intense_focus_or_fearless_smile\",\n      \"hair_physics\": \"dynamic_flow_matching_action_speed\",\n      \"clothing_damage\": \"optional_minor_wear_and_tear_for_realism\"\n    }\n  },\n\n  \"weapon_analysis_engine\": {\n    \"_hint\": \"[WEAPON ANALYSIS] Analyze the 'type', 'center of gravity', and 'method of killing' of the weapon provided to determine the optimal stance.\",\n    \"analyze_weapon_class\": true,\n    \"tactical_mapping_logic\": {\n      \"class_blade_light\": {\n        \"keywords\": [\"katana\", \"dagger\", \"saber\"],\n        \"action_style\": \"high-speed_slash_or_iaijutsu_stance\",\n        \"camera_effect\": \"motion_blur_on_blade\"\n      },\n      \"class_blade_heavy\": {\n        \"keywords\": [\"greatsword\", \"axe\", \"hammer\"],\n        \"action_style\": \"weighty_impact_pose_using_ground_drag_or_shoulder_rest\",\n        \"camera_effect\": \"camera_shake_simulation\"\n      },\n      \"class_firearm_handgun\": {\n        \"keywords\": [\"pistol\", \"revolver\", \"dual_wield\"],\n        \"action_style\": \"close_quarters_combat_stance_(C.A.R._system)_or_dynamic_aim\",\n        \"grip_discipline\": \"trigger_discipline_active\"\n      },\n      \"class_firearm_long\": {\n        \"keywords\": [\"rifle\", \"sniper\", \"shotgun\"],\n        \"action_style\": \"stable_aiming_with_cheek_weld_or_patrol_carry\",\n        \"perspective\": \"looking_down_the_sights\"\n      },\n      \"class_polearm\": {\n        \"keywords\": [\"spear\", \"halberd\", \"staff\"],\n        \"action_style\": \"dynamic_thrust_with_extended_reach\",\n        \"composition_note\": \"utilize_diagonal_lines_across_frame\"\n      }\n    }\n  },\n\n  \"heroic_pose_database\": {\n    \"_hint\": \"[CHOREOGRAPHY GENERATION] Refer to 'key visual' level pose data from movies, games, and anime to eliminate amateurish results.\",\n    \"retrieval_logic\": {\n      \"source\": \"cinematic_combat_pose_db\",\n      \"query_parameters\": [\n        \"weapon_type\",\n        \"character_physique\",\n        \"desired_coolness_factor\"\n      ],\n      \"pose_correction\": {\n        \"line_of_action\": \"strong_s_curve_or_c_curve_body_line\",\n        \"silhouette_check\": \"ensure_weapon_is_clearly_visible_against_background\"\n      }\n    },\n    \"dynamic_foreshortening\": {\n      \"_hint\": \"[FALSE PERSPECTIVE] Exaggerate the size of weapons or limbs closer to the camera to enhance impact (perspective emphasis).\",\n      \"apply_perspective_distortion\": \"moderate_to_high\",\n      \"focus_point\": \"weapon_tip_or_muzzle\"\n    }\n  },\n\n  \"cinematic_combat_composition\": {\n    \"_hint\": \"[DIRECTION] Create the 'atmosphere of a battlefield', not just a standing figure.\",\n    \"camera_work\": {\n      \"angle\": \"dutch_angle_to_create_tension\",\n      \"height\": \"low_angle_hero_shot\",\n      \"lens_choice\": \"wide_angle_24mm_for_depth_exaggeration\"\n    },\n    \"visual_effects\": {\n      \"lighting\": \"contrast_heavy_rim_lighting\",\n      \"atmosphere\": \"sparks_dust_or_energy_aura_matching_weapon\",\n      \"depth_cue\": \"blurred_foreground_elements_(debris/sparks)\"\n    }\n  },\n\n  \"safety_a",
+    "title": "Ultimate Weapon Mastery Cinematic Pose Prompt",
+    "description": "A complex JSON-structured prompt for Nano Banana Pro designed to automatically analyze an uploaded weapon's type (e.g., light blade, heavy blade, firearm) and generate a highly cinematic, heroic action pose. It incorporates dynamic foreshortening, low-angle hero shots, and contrast-heavy lighting to maximize lethality and aesthetic impact, ensuring the resulting image looks like a key visual from a movie or game.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765509820593_y79rj6_G7xtEHFaMAQ-VYu.jpg",
+      "https://cms-assets.youmind.com/media/1765509820520_1o6cej_G7xtEHDboAA_RkF.jpg",
+      "https://cms-assets.youmind.com/media/1765509820572_umfq58_G7xtEHJbcAA2zyy.jpg",
+      "https://cms-assets.youmind.com/media/1765509822275_v48ym8_G7xtEHEaMAQbdPO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Make a photo that is perfectly isometric. It is not a miniature; it is a captured photo that just happens to be perfectly isometric. It is a photo of {argument name=\"subject\" default=\"[subject]\"}. Apply tilt-shift effect at the end.",
+    "title": "Isometric Photo Generation Prompt",
+    "description": "A specific image generation prompt for Nano Banana Pro designed to create a photograph with a perfectly isometric perspective, emphasizing that the image should look like a captured photo rather than a miniature model. It includes instructions to apply a tilt-shift effect at the end.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765440137757_cfxngr_G7vpjuMWsAARN0O.jpg",
+      "https://cms-assets.youmind.com/media/1765440138294_58630z_G7vpv_lXwAEMBKj.jpg",
+      "https://cms-assets.youmind.com/media/1765440138480_zjs7zx_G7vp9XkWMAAkVRH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everything strictly contained within the cube). The room is [{argument name=\"room description\" default=\"ROOM DESCRIPTION: Describe the theme, furniture, specific clutter, wall decorations, and key items in detail\"}].\nCharacter: a chibi/figurine-style — [{argument name=\"character description\" default=\"INSERT DESCRIPTION OF THE PERSON FROM YOUR UPLOADED PHOTO HERE\"}]. The character is [{argument name=\"action\" default=\"ACTION: e.g., sitting on a chair typing, standing and cooking, playing guitar\"}], with a [{argument name=\"expression\" default=\"EXPRESSION: e.g., focused, happy, smiling\"}] expression. Figure material looks like matte PVC, with big head / small body proportions. Lighting: [{argument name=\"atmosphere name\" default=\"ATMOSPHERE NAME\"}]: [{argument name=\"light sources\" default=\"LIGHT SOURCES: e.g., neon blue glow, warm sunlight, golden lamp light\"}]; realistic reflections and colored shadows. Camera: slightly elevated isometric three-quarter view, front cube edge centered; no elements protruding outside the cube. Photoreal materials with fine detail; neutral backdrop. Ultra-detailed, clean composition; no watermark.",
+    "title": "Isometric 3D Miniature Room with Chibi Character",
+    "description": "A detailed template prompt for generating an isometric 3D miniature room (a true cube cutaway) featuring a chibi-style figurine character. It requires the user to describe the room, the character's appearance (based on an uploaded photo), action, expression, lighting, and technical camera details to ensure a photorealistic, clean composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765440098843_rlyh7g_G7vWdLoaQAA16cy.jpg",
+      "https://cms-assets.youmind.com/media/1765440099301_0csy0e_G7vWd_HbcAABi7W.jpg",
+      "https://cms-assets.youmind.com/media/1765440099458_zwat8j_G7vWdlcbEAA4h5Y.jpg",
+      "https://cms-assets.youmind.com/media/1765440100188_zt15f0_G7vWeX7aQAAe1s0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "{\n  \"prompt\": \"A beautiful girl standing on a neon-lit mountain peak overlooking a futuristic cyberpunk world. Holograms in the sky, glowing lights from distant cities, metallic textures, neon blue and pink colour palette.\",\n  \"style\": \"cyberpunk sci-fi\",\n  \"lighting\": \"neon rim light\",\n  \"details\": {\n    \"tech_elements\": [\"holograms\", \"light trails\"],\n    \"mood\": \"bold, adventurous\"\n  }\n}",
+    "title": "Cyberpunk Mountain Peak Girl",
+    "description": "A prompt for generating a cyberpunk sci-fi image of a girl standing on a neon-lit mountain peak, overlooking a futuristic world with holograms and glowing cities, using a neon blue and pink color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765440065894_7crkqv_G7u-lQ8bMAACCOl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Extreme close-up portrait of a pale young woman with freckled, dusty skin and ice-blue eyes, half of her face hidden behind an intricately carved black metal lion helmet/mask with detailed mane and golden accents, wearing an ornate blackened golden crown with gothic filigree and jewels, long reddish-brown hair partially visible, dramatic low-key cinematic lighting with strong rim light highlighting metal textures and dust on skin, muted desaturated color palette with gold and black dominance, dark fantasy atmosphere, hyper-realistic metal.",
+    "title": "Dark fantasy portrait with metal lion mask",
+    "description": "An image generation prompt for Nano Banana Pro, creating an extreme close-up portrait with a dark fantasy aesthetic. The subject is a pale woman partially obscured by an intricately carved black metal lion helmet/mask, emphasizing dramatic low-key lighting, hyper-realistic metal textures, and a muted color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765438524020_qj4xei_G7lnYGBXgAEoGxF.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Transform the subject into a stylized 3D character with soft clay-like materials, rounded sculptural forms, exaggerated facial features, pastel + vibrant color palette, smooth subsurface scattering skin, large cartoon eyes, simplified anatomy. Render against a bold blue studio background with soft frontal lighting and subtle shadows. Playful, surreal, polished character-design aesthetic similar to modern stylized 3D illustration. Keep the original photo’s composition and framing.",
+    "title": "Stylized 3D Clay Character Generation",
+    "description": "A detailed prompt for transforming a subject into a stylized 3D clay character, emphasizing soft materials, exaggerated features, a vibrant pastel palette, and a polished character-design aesthetic, while maintaining the original composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765421908706_qmp3pa_G7lI2K0XIAAnStI.jpg",
+      "https://cms-assets.youmind.com/media/1765421908215_gtmyji_G7lI0atWcAAUnnJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "cute, shy, sweet, long hair, big eyes, small nose, small mouth, anime style, high quality, 4k",
+    "title": "AI Girlfriend Prompt for Nano Banana Pro",
+    "description": "This is the prompt text used to generate an 'AI girlfriend' character in the Nano Banana Pro application, as referenced in the tweet about a 401k-risking uncle. The prompt is simple and focuses on creating a cute, shy, and sweet character with specific visual attributes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765421891535_45329n_G7k44CIWUAAjZoU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A whimsical banana character, cute, high detail, 3d render, cinematic volumetric light, octane render, unreal engine, 8k, hyper detailed, professional photography",
+    "title": "Image prompt for a whimsical, high-detail, 3D rendered banana character",
+    "description": "This is an image generation prompt for a 3D rendering of a whimsical banana character. The prompt specifies a high level of detail, a cute style, and a specific lighting setup (cinematic, volumetric light) to achieve a visually striking and professional result.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765421903934_xentus_G7kdVuKWcAANass.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A screenshot of a videogame called age of nano banana pro",
+    "title": "Videogame Screenshot Prompt",
+    "description": "A simple prompt requesting the generation of a screenshot from a fictional video game titled 'Age of Nano Banana Pro'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765122639239_ye8ddv_G7guIbaWYAAke6Q.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An image of a {argument name=\"type\" default=\"[TYPE]\"} landscape, featuring a cave entrance that is shaped exactly like the outline of a {argument name=\"shape\" default=\"[SHAPE]\"}. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable {argument name=\"shape repeat 1\" default=\"[SHAPE]\"} shape. This {argument name=\"shape repeat 2\" default=\"[SHAPE]\"} shape should be simple and defined, without intricate details, emphasizing just the overall {argument name=\"shape repeat 3\" default=\"[SHAPE]\"} outline. The surrounding environment should include {argument name=\"details\" default=\"[DETAILS]\"}, but these elements should not distract from the cave's   {argument name=\"shape repeat 4\" default=\"[SHAPE]\"}-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the {argument name=\"shape repeat 5\" default=\"[SHAPE]\"}-shaped cave entrance.",
+    "title": "Landscape with a Shape-Shaped Cave Entrance",
+    "description": "A flexible prompt template for Nano Banana Pro to generate a landscape image featuring a cave entrance shaped exactly like a specified geometric shape. The prompt emphasizes that the shape should be simple, defined, and clearly visible, blending naturally into the rugged terrain.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1765990911354_klayco_G7e2PCqa8AA-i5h.jpg",
+      "https://cms-assets.youmind.com/media/1765990911472_1klpyy_G7e2PAoagAAmoLH.jpg",
+      "https://cms-assets.youmind.com/media/1765990912584_6ulaoy_G7e2PJXbgAAZiU9.jpg",
+      "https://cms-assets.youmind.com/media/1765990913755_9n4ji4_G7e2PKyb0AA-QS8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Generate a surface normal map from the input artwork image.\n\nOutput one RGB image where each pixel encodes the surface normal direction in standard tangent-space format:\n• R = X direction\n• G = Y direction\n• B = Z direction\n\nRequirements:\n• Maintain the same resolution and aspect ratio as the input image.\n• Normal directions must follow the local geometry implied by brush strokes, shading, and contours.\n• Do NOT add new artistic elements or repaint the scene.\n• Only infer plausible micro-geometry and surface orientation.\n• Ensure smooth, consistent normal transitions without noise.\n\nGenerate a depth map from the input artwork image.\n\nOutput a single grayscale depth map where:\n• White = near to the viewer\n• Black = far from the viewer\n\nRequirements:\n• Maintain the same resolution and aspect ratio as the input image.\n• Depth must be smooth, continuous, and physically plausible.\n• Infer only geometric depth that could reasonably exist in the original artwork.\n• Do NOT add new objects or details.\n• Do NOT stylize, repaint, or reinterpret the scene.\n• Avoid texture noise; focus solely on depth structure.",
+    "title": "Normal and depth map generation prompts for Nano Banana Pro",
+    "description": "Two English prompts for Nano Banana Pro to generate a tangent-space normal map and a physically plausible depth map from an input artwork image, suitable for 3D-style viewing via WebGL or Three.js.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909246223_oejk2i_N_VRX8gtYM5vdGZ-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "task: \"pose-and-barrier-vfx\"\n\nreference_image:\n  keep_original: true\n\nsubject:\n  keep_character_design: true\n\nrules:\n  - do not change the character’s face, expression, hairstyle, anatomy, or proportions\n  - do not change outfit, colors, lineart, or art style\n  - do not change background, composition, shading, or lighting\n  - all modifications occur only through the defined steps\n\nsteps:\n\n  - step: \"pose-adjustment\"\n    action:\n      - extend both arms forward toward the viewer\n      - rotate both palms to face directly toward the camera\n      - fingers naturally spread\n    constraints:\n      forbidden:\n        - altering facial expression\n        - modifying outfit\n        - adding props or new items\n        - introducing glow or VFX\n\n  - step: \"energy-barrier-vfx\"\n    vfx:\n      type: \"concentric-octagonal-barrier\"\n      placement: \"in front of both palms\"\n\n      geometry:\n        shape: \"regular octagon\"\n        structure: \"multiple concentric octagonal surfaces\"\n        alignment:\n          - all surfaces share the same center\n          - all surfaces are parallel to the camera plane\n          - no curvature or spherical distortion\n        forbidden:\n          - outline-only shapes\n          - hollow frames\n          - hexagonal shapes\n          - domed or warped surfaces\n\n      surface:\n        fill: \"center-to-edge radial gradient\"\n        colors:\n          center: \"white-yellow\"\n          mid: \"orange-gold\"\n          edge: \"transparent orange\"\n        glow:\n          - strong center luminosity\n          - soft bloom\n          - refractive shimmer\n        opacity: \"semi-transparent\"\n\n      layering:\n        count: {argument name=\"number of barrier layers\" default=\"8\"}\n        direction: \"stacked forward\"\n\n  - step: \"text-overlay\"\n    text:\n      content: \"Prompt by てんねん@ munou_ac\"\n      position: \"bottom-left\"\n      font_color: \"white\"\n      font_size: \"small\"\n      opacity: \"0.9\"\n\ncomposition:\n  camera:\n    angle: \"frontal\"\n    distance: \"medium shot\"\n    focus: \"hands and barrier surface\"\n  lighting:\n    keep_original: true\n  placement:\n    barrier_position: \"centered between both palms\"\n    size: \"large frontal barrier\"",
+    "title": "Energy field barrier VFX and pose adjustment YAML prompt",
+    "description": "A detailed YAML Nano Banana Pro prompt that changes a character’s pose to extend both arms forward and adds concentric octagonal energy-field barriers in front of the hands, while preserving all original character and background details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764577540773_v85176_G64gFJzbkAQpKL2.jpg",
+      "https://cms-assets.youmind.com/media/1764577543806_hhuvsz_G64gKH-bkAQsjS9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A very innovative and funny mix between a rocket and a banana in the style of The Simpsons.",
+    "title": "Simpsons-style rocket-banana hybrid",
+    "description": "A short English prompt to generate a humorous, innovative mix between a rocket and a banana in The Simpsons’ art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885668826_iwojwe_G6V1MuOa8AA2Qq6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a picture of GTA 5 Online where a person is shooting a car.",
+    "title": "GTA 5 online action scene",
+    "description": "An English prompt to generate an action picture resembling GTA 5 Online where a person is shooting at a car.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885687163_7wtd3j_G6Vm1c1XcAA45mc.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Keep this character’s appearance the same but change only their clothes.",
+    "title": "Character consistency with outfit change prompt",
+    "description": "A Korean example prompt for using reference images to keep a character’s appearance consistent while only changing clothing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1764909201244_cov07f_G6UnRzxasAAsSXf.jpg",
+      "https://cms-assets.youmind.com/media/1764909203426_xpgt52_G6UnRzub0AAKNEV.jpg",
+      "https://cms-assets.youmind.com/media/1764909205631_y1t8wl_G6UnRz4bgAAzCjN.jpg",
+      "https://cms-assets.youmind.com/media/1764909207683_jvcelg_G6UnR0BbYAA9Kkv.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Use blue HUD color.\n\ntask: \"edit-image: add full-screen analysis HUD overlay only\"",
+    "title": "HUD battle power overlay for any character image",
+    "description": "A two-part setup: a first line to set the HUD color and a core task prompt that overlays a full-screen scouter-style analysis HUD with a battle power value chosen by Nano Banana Pro from the image’s impression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1763885850370_h6bp7e_G6UgISgacAAxf0r.jpg",
+      "https://cms-assets.youmind.com/media/1763885853220_nd31ua_G6UgIzSaQAACgqW.jpg",
+      "https://cms-assets.youmind.com/media/1763885857523_2dc7ot_G6UgJQ9b0AAoqh0.jpg",
+      "https://cms-assets.youmind.com/media/1763885861060_vzammt_G6UgJm2aIAAxSjb.jpg"
+    ],
+    "needReferenceImages": true
+  }
+]
